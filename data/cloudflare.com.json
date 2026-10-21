@@ -1,0 +1,1374 @@
+{
+  "domain": "cloudflare.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:41:54.406Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 439 open roles, 105 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 3000-4000 ads.",
+    "Ad pixels on the site: LinkedIn Insight, Microsoft Ads (UET)."
+  ],
+  "tech_stack": {
+    "domain": "cloudflare.com",
+    "status": "ok",
+    "final_url": "https://www.cloudflare.com/",
+    "title": "Cloudflare: Build for the agent era",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": true,
+    "has_linkedin_insight": true,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [
+      "LinkedIn Insight",
+      "Microsoft Ads (UET)"
+    ],
+    "analytics": [
+      "Google Tag Manager"
+    ],
+    "marketing_tools": [
+      "OneTrust"
+    ],
+    "hosting_cdn": [
+      "Cloudflare"
+    ],
+    "frameworks": [
+      "Astro"
+    ],
+    "payments": [],
+    "cms": null,
+    "ecommerce": null,
+    "email_provider": "Other",
+    "spf_senders": [
+      "Google Workspace",
+      "Mailchimp",
+      "Salesforce",
+      "Zendesk"
+    ],
+    "dmarc_policy": "reject",
+    "verified_services": [
+      "Google Search Console",
+      "Meta Business",
+      "Microsoft 365",
+      "Atlassian",
+      "Stripe",
+      "Apple",
+      "Miro"
+    ],
+    "technology_count": 6,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:54+00:00"
+  },
+  "hiring_intent": {
+    "domain": "cloudflare.com",
+    "status": "ok",
+    "ats_type": "greenhouse",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 439,
+    "remote_roles": 1,
+    "roles_posted_last_30_days": 105,
+    "roles_with_known_post_date": 300,
+    "function_breakdown": {
+      "sales": 107,
+      "engineering": 114,
+      "finance_legal": 5,
+      "operations": 6,
+      "other": 48,
+      "customer_success": 1,
+      "design": 1,
+      "people": 2,
+      "data_ai": 7,
+      "product": 9
+    },
+    "department_breakdown": {
+      "Solution Engineering": 67,
+      "Engineering": 67,
+      "Field Sales": 54,
+      "Mid Market": 40,
+      "Emerging Technology and Incubation": 26,
+      "Infrastructure": 23,
+      "Sales": 22,
+      "Developer Relations": 15,
+      "BDR": 14,
+      "Security": 13
+    },
+    "top_locations": {
+      "Hybrid": 337,
+      "Distributed": 51,
+      "In-Office": 39,
+      "Hybrid; In-Office": 4,
+      "Distributed; Hybrid": 4,
+      "Singapore": 1,
+      "Remote": 1,
+      "Tokyo, Japan": 1,
+      "Lisbon, Portugal": 1
+    },
+    "top_demanded_technologies": {
+      "Python": 105,
+      "LLMs": 103,
+      "Go": 101,
+      "Salesforce": 89,
+      "JavaScript": 86,
+      "Tableau": 75,
+      "Rust": 62,
+      "RAG": 57,
+      "TypeScript": 57,
+      "CI/CD": 54,
+      "Terraform": 53,
+      "Kubernetes": 45,
+      "Linux": 44,
+      "PostgreSQL": 40,
+      "SQL": 38
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "CI/CD",
+        "Terraform",
+        "Kubernetes",
+        "Linux"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Tableau",
+        "RAG"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Customer Experience Manager - Dutch or Swedish Speaking",
+        "function": "other",
+        "department": "Customer Renewals",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-21T03:51:55-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499"
+      },
+      {
+        "title": "Enterprise Account Executive, Thailand",
+        "function": "sales",
+        "department": "Field Sales",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T21:16:10-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8304855?gh_jid=8304855"
+      },
+      {
+        "title": "Senior Commercial Account Executive (San Francisco)",
+        "function": "sales",
+        "department": "Mid Market",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T17:06:22-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8303996?gh_jid=8303996"
+      },
+      {
+        "title": "Commercial Account Executive (Austin, TX or Raleigh, NC)",
+        "function": "sales",
+        "department": "Mid Market",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T17:05:20-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8304060?gh_jid=8304060"
+      },
+      {
+        "title": "Principal Engineer",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T14:59:29-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769"
+      },
+      {
+        "title": "Program Lead Strategic CDN Accounts GTM",
+        "function": "other",
+        "department": "Product Specialist",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T13:41:48-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8279302?gh_jid=8279302"
+      },
+      {
+        "title": "Senior Customer Engineer, Majors - NE",
+        "function": "engineering",
+        "department": "Solution Engineering",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T10:52:28-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941"
+      },
+      {
+        "title": "Senior Account Executive, Digital Native",
+        "function": "sales",
+        "department": "Mid Market",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-20T05:34:55-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848"
+      },
+      {
+        "title": "Engineering Manager, Agentic Commerce",
+        "function": "other",
+        "department": "Emerging Technology and Incubation",
+        "location": "Hybrid; In-Office",
+        "is_remote": false,
+        "posted_date": "2026-10-19T11:02:01-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8242481?gh_jid=8242481"
+      },
+      {
+        "title": "Engineering Manager, Data Center Operations",
+        "function": "operations",
+        "department": "Engineering",
+        "location": "Hybrid",
+        "is_remote": false,
+        "posted_date": "2026-10-19T10:33:20-04:00",
+        "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647"
+      }
+    ],
+    "jobs_truncated": true,
+    "checked_at": "2026-10-21T14:41:53Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "cloudflare.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:47.148Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR10379917531786772481",
+        "name": "Cloudflare, Inc.",
+        "ads_in_sample": 17
+      },
+      {
+        "advertiser_id": "AR03159904102201163777",
+        "name": "PULSE COMMS APAC PTE. LTD.",
+        "ads_in_sample": 3
+      },
+      {
+        "advertiser_id": "AR16258372337051631617",
+        "name": "Just Media Inc",
+        "ads_in_sample": 20
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 3000,
+      "high": 4000
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 36,
+      "video": 4
+    },
+    "earliest_first_shown_in_sample": "2023-11-22T13:25:05.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:01:19.000Z",
+    "ads": [
+      {
+        "creative_id": "CR10348834930775031809",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T20:02:10.000Z",
+        "last_shown": "2026-10-21T14:01:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9727897825312402331",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR10348834930775031809"
+      },
+      {
+        "creative_id": "CR01355509313753317377",
+        "advertiser_id": "AR03159904102201163777",
+        "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+        "format": "video",
+        "first_shown": "2026-10-06T23:59:30.000Z",
+        "last_shown": "2026-10-21T13:54:32.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826395682263&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLkWHjt487t3AI8XJwcn6Z9-7GcW4ANxHz07_oJbgFZLk6Oszd2TtvNLcDIxclx8OaaTXu4BTi4ODk-_j-5fQG3gCYAlgOOd0QAAAA&sig=ACiVB_yW1Pfh4_iEol-itkv4Kj07ipaA1w&htmlParentId=fletch-render-5961976773961110405&responseCallback=fletchCallback5961976773961110405",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR01355509313753317377"
+      },
+      {
+        "creative_id": "CR08538516970109140993",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T19:06:14.000Z",
+        "last_shown": "2026-10-21T13:51:16.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/779846613930363668",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR08538516970109140993"
+      },
+      {
+        "creative_id": "CR01623473491581861889",
+        "advertiser_id": "AR03159904102201163777",
+        "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+        "format": "video",
+        "first_shown": "2026-10-07T00:00:34.000Z",
+        "last_shown": "2026-10-21T13:50:24.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826518596291&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLk-PTwX-MebgFGLk6Ohdc-7tzOLcADEn307_oJbgFZLk6Oj_9Pbl_ALaAJEp327cdybgE2Lk6OgzfXbNrDLcABACV8FdJEAAAA&sig=ACiVB_x7T3Rqyno0M8QCpZjh-qFgwBIYaQ&htmlParentId=fletch-render-8406211378177157185&responseCallback=fletchCallback8406211378177157185",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR01623473491581861889"
+      },
+      {
+        "creative_id": "CR02654331166642929665",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-03-06T09:33:23.000Z",
+        "last_shown": "2026-10-21T13:37:26.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7262463162578498852",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02654331166642929665"
+      },
+      {
+        "creative_id": "CR02763449174484582401",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-04-01T06:15:54.000Z",
+        "last_shown": "2026-10-21T13:29:41.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13520732350074616235",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02763449174484582401"
+      },
+      {
+        "creative_id": "CR13156760106517397505",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-06-02T02:27:37.000Z",
+        "last_shown": "2026-10-21T13:23:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16201423684387025821",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR13156760106517397505"
+      },
+      {
+        "creative_id": "CR09033783839582846977",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T20:05:27.000Z",
+        "last_shown": "2026-10-21T13:22:53.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/181630824486377570",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR09033783839582846977"
+      },
+      {
+        "creative_id": "CR09464303149356417025",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-04-01T06:39:45.000Z",
+        "last_shown": "2026-10-21T13:21:26.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11899408436178192657",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR09464303149356417025"
+      },
+      {
+        "creative_id": "CR02305205000411807745",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-02-06T08:00:00.000Z",
+        "last_shown": "2026-10-21T13:19:51.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17265114631529334189",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02305205000411807745"
+      },
+      {
+        "creative_id": "CR04185616406441623553",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T18:59:02.000Z",
+        "last_shown": "2026-10-21T13:16:51.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18099087343971290124",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR04185616406441623553"
+      },
+      {
+        "creative_id": "CR11841787175140065281",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-02-07T03:42:32.000Z",
+        "last_shown": "2026-10-21T13:16:10.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8543777563863023304",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR11841787175140065281"
+      },
+      {
+        "creative_id": "CR04042478143036981249",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-01-25T17:10:54.000Z",
+        "last_shown": "2026-10-21T13:15:26.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5047696883327565854",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR04042478143036981249"
+      },
+      {
+        "creative_id": "CR17657236399310503937",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-01-27T08:00:00.000Z",
+        "last_shown": "2026-10-21T13:15:26.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/92130997826360826",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17657236399310503937"
+      },
+      {
+        "creative_id": "CR15894281199091187713",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-10-01T19:23:24.000Z",
+        "last_shown": "2026-10-21T13:11:08.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2462627185299626455",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR15894281199091187713"
+      },
+      {
+        "creative_id": "CR01509342269063299073",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-06-01T05:04:38.000Z",
+        "last_shown": "2026-10-21T13:07:57.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18303034485510148374",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR01509342269063299073"
+      },
+      {
+        "creative_id": "CR16813268410749157377",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-10-01T19:23:20.000Z",
+        "last_shown": "2026-10-21T13:03:47.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14688612064836749804",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR16813268410749157377"
+      },
+      {
+        "creative_id": "CR01475069555322650625",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T19:00:42.000Z",
+        "last_shown": "2026-10-21T12:59:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/106561892582287896",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR01475069555322650625"
+      },
+      {
+        "creative_id": "CR05848802668880855041",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "video",
+        "first_shown": "2026-10-02T20:07:24.000Z",
+        "last_shown": "2026-10-21T12:58:47.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9964173028&creativeId=826709791674&uiFeatures=12,54&adGroupId=203432378848&versionId=1&assets=%3DH4sIAAAAAAAAAOPy5uLkePh6_auNPALMXBwcmzef7rMT4ODi5HgCEWTi4uTY9nb9pE08AjxcHBz_W86cZBbQ5OLkONi7ASTIxsXJsXjV_VkzuQUYAebCUwJNAAAA&sig=ACiVB_yQQSLi7T19zFDVT1T1h_sqeMgHCQ&htmlParentId=fletch-render-12887949043244127010&responseCallback=fletchCallback12887949043244127010",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR05848802668880855041"
+      },
+      {
+        "creative_id": "CR07853451484325740545",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2024-09-26T09:29:44.000Z",
+        "last_shown": "2026-10-21T12:50:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3812739727425320387",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR07853451484325740545"
+      },
+      {
+        "creative_id": "CR16633948543979094017",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-05-05T06:59:57.000Z",
+        "last_shown": "2026-10-21T12:49:49.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5899496028384343476",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR16633948543979094017"
+      },
+      {
+        "creative_id": "CR15260301531795161089",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-01-20T12:02:42.000Z",
+        "last_shown": "2026-10-21T12:49:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16497286335686038064",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR15260301531795161089"
+      },
+      {
+        "creative_id": "CR15549204800473137153",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-04-01T06:03:52.000Z",
+        "last_shown": "2026-10-21T12:48:47.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3611832691372400647",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR15549204800473137153"
+      },
+      {
+        "creative_id": "CR12763971594812915713",
+        "advertiser_id": "AR03159904102201163777",
+        "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+        "format": "video",
+        "first_shown": "2026-10-07T00:00:51.000Z",
+        "last_shown": "2026-10-21T12:46:51.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826434579007&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLk-Pj_5PYF3AKaXJwcB2-u2bSHW4CDi5Pj07RvP5ZzC7CBmI_-XT_BLSDLxcnRsmn61B3cAjxcnByL1i-6uodbgBEAFJe1JkQAAAA&sig=ACiVB_w9s_a_cSgXxunjKAHV9tjrBq7xtQ&htmlParentId=fletch-render-15112279239051257943&responseCallback=fletchCallback15112279239051257943",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR12763971594812915713"
+      },
+      {
+        "creative_id": "CR01517185661029842945",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-04-01T08:12:36.000Z",
+        "last_shown": "2026-10-21T12:44:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14474427472831758184",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR01517185661029842945"
+      },
+      {
+        "creative_id": "CR06559316188080373761",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-06-23T23:15:55.000Z",
+        "last_shown": "2026-10-21T12:42:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8979196811380310780",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR06559316188080373761"
+      },
+      {
+        "creative_id": "CR17553874575358427137",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-03-26T03:17:21.000Z",
+        "last_shown": "2026-10-21T12:42:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6037108653111703327",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17553874575358427137"
+      },
+      {
+        "creative_id": "CR17962859743743574017",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2024-11-25T09:59:10.000Z",
+        "last_shown": "2026-10-21T12:40:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5687057949616195544",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17962859743743574017"
+      },
+      {
+        "creative_id": "CR04186863905462550529",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-10-01T19:23:15.000Z",
+        "last_shown": "2026-10-21T12:38:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13884629089101642159",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR04186863905462550529"
+      },
+      {
+        "creative_id": "CR05090777259380310017",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T19:38:51.000Z",
+        "last_shown": "2026-10-21T12:30:02.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17765678468194944323",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR05090777259380310017"
+      },
+      {
+        "creative_id": "CR14280568948402421761",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2025-06-01T14:40:28.000Z",
+        "last_shown": "2026-10-21T12:29:52.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16013660362968374740",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR14280568948402421761"
+      },
+      {
+        "creative_id": "CR13980104022900604929",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-10-01T19:23:22.000Z",
+        "last_shown": "2026-10-21T12:23:16.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15772190954240569269",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR13980104022900604929"
+      },
+      {
+        "creative_id": "CR08694721288532393985",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T20:08:29.000Z",
+        "last_shown": "2026-10-21T12:23:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17699209009668772701",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR08694721288532393985"
+      },
+      {
+        "creative_id": "CR03823374604089425921",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T18:56:39.000Z",
+        "last_shown": "2026-10-21T12:21:31.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7777016496330532157",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR03823374604089425921"
+      },
+      {
+        "creative_id": "CR05883512223745179649",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-06-09T08:57:11.000Z",
+        "last_shown": "2026-10-21T12:20:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/220150733685040080",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR05883512223745179649"
+      },
+      {
+        "creative_id": "CR06672100792322752513",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2026-04-01T23:22:18.000Z",
+        "last_shown": "2026-10-21T12:17:09.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14529862859025075482",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR06672100792322752513"
+      },
+      {
+        "creative_id": "CR08641404827240235009",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2023-11-22T13:25:05.000Z",
+        "last_shown": "2026-10-21T12:12:18.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13568998462159867133",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR08641404827240235009"
+      },
+      {
+        "creative_id": "CR03290916470338355201",
+        "advertiser_id": "AR16258372337051631617",
+        "advertiser_name": "Just Media Inc",
+        "format": "text",
+        "first_shown": "2024-03-06T15:57:49.000Z",
+        "last_shown": "2026-10-21T12:10:14.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6897085728788533996",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR03290916470338355201"
+      },
+      {
+        "creative_id": "CR14462801069287145473",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T19:21:45.000Z",
+        "last_shown": "2026-10-21T12:08:40.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2123077746850048234",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR14462801069287145473"
+      },
+      {
+        "creative_id": "CR13718587827933937665",
+        "advertiser_id": "AR10379917531786772481",
+        "advertiser_name": "Cloudflare, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-03T19:22:57.000Z",
+        "last_shown": "2026-10-21T12:05:34.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12455928985653785906",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR13718587827933937665"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "cloudflare.com",
+        "status": "ok",
+        "final_url": "https://www.cloudflare.com/",
+        "title": "Cloudflare: Build for the agent era",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": true,
+        "has_linkedin_insight": true,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [
+          "LinkedIn Insight",
+          "Microsoft Ads (UET)"
+        ],
+        "analytics": [
+          "Google Tag Manager"
+        ],
+        "marketing_tools": [
+          "OneTrust"
+        ],
+        "hosting_cdn": [
+          "Cloudflare"
+        ],
+        "frameworks": [
+          "Astro"
+        ],
+        "payments": [],
+        "cms": null,
+        "ecommerce": null,
+        "email_provider": "Other",
+        "spf_senders": [
+          "Google Workspace",
+          "Mailchimp",
+          "Salesforce",
+          "Zendesk"
+        ],
+        "dmarc_policy": "reject",
+        "verified_services": [
+          "Google Search Console",
+          "Meta Business",
+          "Microsoft 365",
+          "Atlassian",
+          "Stripe",
+          "Apple",
+          "Miro"
+        ],
+        "technology_count": 6,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:54+00:00"
+      },
+      "hiring_intent": {
+        "domain": "cloudflare.com",
+        "status": "ok",
+        "ats_type": "greenhouse",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 439,
+        "remote_roles": 1,
+        "roles_posted_last_30_days": 105,
+        "roles_with_known_post_date": 300,
+        "function_breakdown": {
+          "sales": 107,
+          "engineering": 114,
+          "finance_legal": 5,
+          "operations": 6,
+          "other": 48,
+          "customer_success": 1,
+          "design": 1,
+          "people": 2,
+          "data_ai": 7,
+          "product": 9
+        },
+        "department_breakdown": {
+          "Solution Engineering": 67,
+          "Engineering": 67,
+          "Field Sales": 54,
+          "Mid Market": 40,
+          "Emerging Technology and Incubation": 26,
+          "Infrastructure": 23,
+          "Sales": 22,
+          "Developer Relations": 15,
+          "BDR": 14,
+          "Security": 13
+        },
+        "top_locations": {
+          "Hybrid": 337,
+          "Distributed": 51,
+          "In-Office": 39,
+          "Hybrid; In-Office": 4,
+          "Distributed; Hybrid": 4,
+          "Singapore": 1,
+          "Remote": 1,
+          "Tokyo, Japan": 1,
+          "Lisbon, Portugal": 1
+        },
+        "top_demanded_technologies": {
+          "Python": 105,
+          "LLMs": 103,
+          "Go": 101,
+          "Salesforce": 89,
+          "JavaScript": 86,
+          "Tableau": 75,
+          "Rust": 62,
+          "RAG": 57,
+          "TypeScript": 57,
+          "CI/CD": 54,
+          "Terraform": 53,
+          "Kubernetes": 45,
+          "Linux": 44,
+          "PostgreSQL": 40,
+          "SQL": 38
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "CI/CD",
+            "Terraform",
+            "Kubernetes",
+            "Linux"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Tableau",
+            "RAG"
+          ],
+          "databases": [
+            "PostgreSQL"
+          ],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Customer Experience Manager - Dutch or Swedish Speaking",
+            "function": "other",
+            "department": "Customer Renewals",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-21T03:51:55-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499"
+          },
+          {
+            "title": "Enterprise Account Executive, Thailand",
+            "function": "sales",
+            "department": "Field Sales",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T21:16:10-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8304855?gh_jid=8304855"
+          },
+          {
+            "title": "Senior Commercial Account Executive (San Francisco)",
+            "function": "sales",
+            "department": "Mid Market",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T17:06:22-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8303996?gh_jid=8303996"
+          },
+          {
+            "title": "Commercial Account Executive (Austin, TX or Raleigh, NC)",
+            "function": "sales",
+            "department": "Mid Market",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T17:05:20-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8304060?gh_jid=8304060"
+          },
+          {
+            "title": "Principal Engineer",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T14:59:29-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769"
+          },
+          {
+            "title": "Program Lead Strategic CDN Accounts GTM",
+            "function": "other",
+            "department": "Product Specialist",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T13:41:48-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8279302?gh_jid=8279302"
+          },
+          {
+            "title": "Senior Customer Engineer, Majors - NE",
+            "function": "engineering",
+            "department": "Solution Engineering",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T10:52:28-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941"
+          },
+          {
+            "title": "Senior Account Executive, Digital Native",
+            "function": "sales",
+            "department": "Mid Market",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-20T05:34:55-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848"
+          },
+          {
+            "title": "Engineering Manager, Agentic Commerce",
+            "function": "other",
+            "department": "Emerging Technology and Incubation",
+            "location": "Hybrid; In-Office",
+            "is_remote": false,
+            "posted_date": "2026-10-19T11:02:01-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8242481?gh_jid=8242481"
+          },
+          {
+            "title": "Engineering Manager, Data Center Operations",
+            "function": "operations",
+            "department": "Engineering",
+            "location": "Hybrid",
+            "is_remote": false,
+            "posted_date": "2026-10-19T10:33:20-04:00",
+            "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647"
+          }
+        ],
+        "jobs_truncated": true,
+        "checked_at": "2026-10-21T14:41:53Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "cloudflare.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:47.148Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR10379917531786772481",
+            "name": "Cloudflare, Inc.",
+            "ads_in_sample": 17
+          },
+          {
+            "advertiser_id": "AR03159904102201163777",
+            "name": "PULSE COMMS APAC PTE. LTD.",
+            "ads_in_sample": 3
+          },
+          {
+            "advertiser_id": "AR16258372337051631617",
+            "name": "Just Media Inc",
+            "ads_in_sample": 20
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 3000,
+          "high": 4000
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 36,
+          "video": 4
+        },
+        "earliest_first_shown_in_sample": "2023-11-22T13:25:05.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:01:19.000Z",
+        "ads": [
+          {
+            "creative_id": "CR10348834930775031809",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T20:02:10.000Z",
+            "last_shown": "2026-10-21T14:01:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9727897825312402331",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR10348834930775031809"
+          },
+          {
+            "creative_id": "CR01355509313753317377",
+            "advertiser_id": "AR03159904102201163777",
+            "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+            "format": "video",
+            "first_shown": "2026-10-06T23:59:30.000Z",
+            "last_shown": "2026-10-21T13:54:32.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826395682263&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLkWHjt487t3AI8XJwcn6Z9-7GcW4ANxHz07_oJbgFZLk6Oszd2TtvNLcDIxclx8OaaTXu4BTi4ODk-_j-5fQG3gCYAlgOOd0QAAAA&sig=ACiVB_yW1Pfh4_iEol-itkv4Kj07ipaA1w&htmlParentId=fletch-render-5961976773961110405&responseCallback=fletchCallback5961976773961110405",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR01355509313753317377"
+          },
+          {
+            "creative_id": "CR08538516970109140993",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T19:06:14.000Z",
+            "last_shown": "2026-10-21T13:51:16.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/779846613930363668",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR08538516970109140993"
+          },
+          {
+            "creative_id": "CR01623473491581861889",
+            "advertiser_id": "AR03159904102201163777",
+            "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+            "format": "video",
+            "first_shown": "2026-10-07T00:00:34.000Z",
+            "last_shown": "2026-10-21T13:50:24.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826518596291&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLk-PTwX-MebgFGLk6Ohdc-7tzOLcADEn307_oJbgFZLk6Oj_9Pbl_ALaAJEp327cdybgE2Lk6OgzfXbNrDLcABACV8FdJEAAAA&sig=ACiVB_x7T3Rqyno0M8QCpZjh-qFgwBIYaQ&htmlParentId=fletch-render-8406211378177157185&responseCallback=fletchCallback8406211378177157185",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR01623473491581861889"
+          },
+          {
+            "creative_id": "CR02654331166642929665",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-03-06T09:33:23.000Z",
+            "last_shown": "2026-10-21T13:37:26.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7262463162578498852",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02654331166642929665"
+          },
+          {
+            "creative_id": "CR02763449174484582401",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-04-01T06:15:54.000Z",
+            "last_shown": "2026-10-21T13:29:41.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13520732350074616235",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02763449174484582401"
+          },
+          {
+            "creative_id": "CR13156760106517397505",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-06-02T02:27:37.000Z",
+            "last_shown": "2026-10-21T13:23:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16201423684387025821",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR13156760106517397505"
+          },
+          {
+            "creative_id": "CR09033783839582846977",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T20:05:27.000Z",
+            "last_shown": "2026-10-21T13:22:53.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/181630824486377570",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR09033783839582846977"
+          },
+          {
+            "creative_id": "CR09464303149356417025",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-04-01T06:39:45.000Z",
+            "last_shown": "2026-10-21T13:21:26.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11899408436178192657",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR09464303149356417025"
+          },
+          {
+            "creative_id": "CR02305205000411807745",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-02-06T08:00:00.000Z",
+            "last_shown": "2026-10-21T13:19:51.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17265114631529334189",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR02305205000411807745"
+          },
+          {
+            "creative_id": "CR04185616406441623553",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T18:59:02.000Z",
+            "last_shown": "2026-10-21T13:16:51.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18099087343971290124",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR04185616406441623553"
+          },
+          {
+            "creative_id": "CR11841787175140065281",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-02-07T03:42:32.000Z",
+            "last_shown": "2026-10-21T13:16:10.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8543777563863023304",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR11841787175140065281"
+          },
+          {
+            "creative_id": "CR04042478143036981249",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-01-25T17:10:54.000Z",
+            "last_shown": "2026-10-21T13:15:26.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5047696883327565854",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR04042478143036981249"
+          },
+          {
+            "creative_id": "CR17657236399310503937",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-01-27T08:00:00.000Z",
+            "last_shown": "2026-10-21T13:15:26.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/92130997826360826",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17657236399310503937"
+          },
+          {
+            "creative_id": "CR15894281199091187713",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-10-01T19:23:24.000Z",
+            "last_shown": "2026-10-21T13:11:08.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2462627185299626455",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR15894281199091187713"
+          },
+          {
+            "creative_id": "CR01509342269063299073",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-06-01T05:04:38.000Z",
+            "last_shown": "2026-10-21T13:07:57.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18303034485510148374",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR01509342269063299073"
+          },
+          {
+            "creative_id": "CR16813268410749157377",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-10-01T19:23:20.000Z",
+            "last_shown": "2026-10-21T13:03:47.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14688612064836749804",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR16813268410749157377"
+          },
+          {
+            "creative_id": "CR01475069555322650625",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T19:00:42.000Z",
+            "last_shown": "2026-10-21T12:59:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/106561892582287896",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR01475069555322650625"
+          },
+          {
+            "creative_id": "CR05848802668880855041",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "video",
+            "first_shown": "2026-10-02T20:07:24.000Z",
+            "last_shown": "2026-10-21T12:58:47.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9964173028&creativeId=826709791674&uiFeatures=12,54&adGroupId=203432378848&versionId=1&assets=%3DH4sIAAAAAAAAAOPy5uLkePh6_auNPALMXBwcmzef7rMT4ODi5HgCEWTi4uTY9nb9pE08AjxcHBz_W86cZBbQ5OLkONi7ASTIxsXJsXjV_VkzuQUYAebCUwJNAAAA&sig=ACiVB_yQQSLi7T19zFDVT1T1h_sqeMgHCQ&htmlParentId=fletch-render-12887949043244127010&responseCallback=fletchCallback12887949043244127010",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR05848802668880855041"
+          },
+          {
+            "creative_id": "CR07853451484325740545",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2024-09-26T09:29:44.000Z",
+            "last_shown": "2026-10-21T12:50:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3812739727425320387",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR07853451484325740545"
+          },
+          {
+            "creative_id": "CR16633948543979094017",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-05-05T06:59:57.000Z",
+            "last_shown": "2026-10-21T12:49:49.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5899496028384343476",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR16633948543979094017"
+          },
+          {
+            "creative_id": "CR15260301531795161089",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-01-20T12:02:42.000Z",
+            "last_shown": "2026-10-21T12:49:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16497286335686038064",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR15260301531795161089"
+          },
+          {
+            "creative_id": "CR15549204800473137153",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-04-01T06:03:52.000Z",
+            "last_shown": "2026-10-21T12:48:47.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3611832691372400647",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR15549204800473137153"
+          },
+          {
+            "creative_id": "CR12763971594812915713",
+            "advertiser_id": "AR03159904102201163777",
+            "advertiser_name": "PULSE COMMS APAC PTE. LTD.",
+            "format": "video",
+            "first_shown": "2026-10-07T00:00:51.000Z",
+            "last_shown": "2026-10-21T12:46:51.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6749865083&creativeId=826434579007&uiFeatures=12,54&adGroupId=203731378794&assets=%3DH4sIAAAAAAAAAONy4uLk-Pj_5PYF3AKaXJwcB2-u2bSHW4CDi5Pj07RvP5ZzC7CBmI_-XT_BLSDLxcnRsmn61B3cAjxcnByL1i-6uodbgBEAFJe1JkQAAAA&sig=ACiVB_w9s_a_cSgXxunjKAHV9tjrBq7xtQ&htmlParentId=fletch-render-15112279239051257943&responseCallback=fletchCallback15112279239051257943",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03159904102201163777/creative/CR12763971594812915713"
+          },
+          {
+            "creative_id": "CR01517185661029842945",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-04-01T08:12:36.000Z",
+            "last_shown": "2026-10-21T12:44:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14474427472831758184",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR01517185661029842945"
+          },
+          {
+            "creative_id": "CR06559316188080373761",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-06-23T23:15:55.000Z",
+            "last_shown": "2026-10-21T12:42:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8979196811380310780",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR06559316188080373761"
+          },
+          {
+            "creative_id": "CR17553874575358427137",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-03-26T03:17:21.000Z",
+            "last_shown": "2026-10-21T12:42:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6037108653111703327",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17553874575358427137"
+          },
+          {
+            "creative_id": "CR17962859743743574017",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2024-11-25T09:59:10.000Z",
+            "last_shown": "2026-10-21T12:40:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5687057949616195544",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR17962859743743574017"
+          },
+          {
+            "creative_id": "CR04186863905462550529",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-10-01T19:23:15.000Z",
+            "last_shown": "2026-10-21T12:38:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13884629089101642159",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR04186863905462550529"
+          },
+          {
+            "creative_id": "CR05090777259380310017",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T19:38:51.000Z",
+            "last_shown": "2026-10-21T12:30:02.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17765678468194944323",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR05090777259380310017"
+          },
+          {
+            "creative_id": "CR14280568948402421761",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2025-06-01T14:40:28.000Z",
+            "last_shown": "2026-10-21T12:29:52.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16013660362968374740",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR14280568948402421761"
+          },
+          {
+            "creative_id": "CR13980104022900604929",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-10-01T19:23:22.000Z",
+            "last_shown": "2026-10-21T12:23:16.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15772190954240569269",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR13980104022900604929"
+          },
+          {
+            "creative_id": "CR08694721288532393985",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T20:08:29.000Z",
+            "last_shown": "2026-10-21T12:23:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17699209009668772701",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR08694721288532393985"
+          },
+          {
+            "creative_id": "CR03823374604089425921",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T18:56:39.000Z",
+            "last_shown": "2026-10-21T12:21:31.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7777016496330532157",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR03823374604089425921"
+          },
+          {
+            "creative_id": "CR05883512223745179649",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-06-09T08:57:11.000Z",
+            "last_shown": "2026-10-21T12:20:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/220150733685040080",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR05883512223745179649"
+          },
+          {
+            "creative_id": "CR06672100792322752513",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2026-04-01T23:22:18.000Z",
+            "last_shown": "2026-10-21T12:17:09.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14529862859025075482",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR06672100792322752513"
+          },
+          {
+            "creative_id": "CR08641404827240235009",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2023-11-22T13:25:05.000Z",
+            "last_shown": "2026-10-21T12:12:18.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13568998462159867133",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR08641404827240235009"
+          },
+          {
+            "creative_id": "CR03290916470338355201",
+            "advertiser_id": "AR16258372337051631617",
+            "advertiser_name": "Just Media Inc",
+            "format": "text",
+            "first_shown": "2024-03-06T15:57:49.000Z",
+            "last_shown": "2026-10-21T12:10:14.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6897085728788533996",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16258372337051631617/creative/CR03290916470338355201"
+          },
+          {
+            "creative_id": "CR14462801069287145473",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T19:21:45.000Z",
+            "last_shown": "2026-10-21T12:08:40.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2123077746850048234",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR14462801069287145473"
+          },
+          {
+            "creative_id": "CR13718587827933937665",
+            "advertiser_id": "AR10379917531786772481",
+            "advertiser_name": "Cloudflare, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-03T19:22:57.000Z",
+            "last_shown": "2026-10-21T12:05:34.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12455928985653785906",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10379917531786772481/creative/CR13718587827933937665"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

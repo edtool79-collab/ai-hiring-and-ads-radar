@@ -1,1 +1,1344 @@
-{"domain":"ramp.com","sections_status":{"tech_stack":"ok","hiring_intent":"ok","google_ads":"error"},"sections_with_data":["tech_stack","hiring_intent"],"footprint":{"website_ad_or_analytics_tags":"not_found","job_board_with_open_roles":"found","google_ads":"unknown"},"checked_at":"2026-10-21T13:59:33.102Z","status":"ok","signals":["Hiring: hypergrowth, 169 open roles, 52 posted in the last 30 days, intent_score 100.","No ad pixels detected on the home page."],"tech_stack":{"domain":"ramp.com","status":"ok","final_url":"https://ramp.com/","title":"Spend Management, Corporate Cards &amp; Accounts Payable Solutions | Ramp","has_meta_pixel":false,"has_google_ads_tag":false,"has_ga4":false,"has_gtm":false,"has_linkedin_insight":false,"has_tiktok_pixel":false,"ad_pixels":[],"analytics":[],"marketing_tools":[],"hosting_cdn":["Cloudflare","Vercel"],"frameworks":["Next.js","React"],"payments":[],"cms":null,"ecommerce":null,"email_provider":"Google Workspace","spf_senders":["Google Workspace","SendGrid","HubSpot","Zendesk"],"dmarc_policy":"reject","verified_services":["Google Search Console","Microsoft 365","Atlassian","Stripe","Apple","Adobe","Zoom","Slack","OpenAI","Notion"],"technology_count":4,"added":null,"removed":null,"is_first_run":null,"note":null,"checked_at":"2026-10-21T13:59:31+00:00"},"hiring_intent":{"domain":"ramp.com","status":"ok","ats_type":"ashby","confidence":"unverified","intent_score":100,"hiring_status":"hypergrowth","total_open_roles":169,"remote_roles":152,"roles_posted_last_30_days":52,"roles_with_known_post_date":169,"function_breakdown":{"engineering":29,"other":48,"sales":36,"operations":7,"finance_legal":11,"design":4,"marketing":13,"product":4,"customer_success":3,"people":8,"data_ai":6},"department_breakdown":{"Sales":68,"Engineering":38,"People & Talent":15,"Marketing":8,"Product":7,"Design":6,"Customer Experience":5,"Data":5,"Finance":4,"Compliance":3},"top_locations":{"New York, NY (HQ)":131,"London, UK":12,"San Francisco, CA":11,"Remote (US)":9,"Toronto, ON":6},"top_demanded_technologies":{"Salesforce":30,"Python":29,"SQL":23,"LLMs":17,"AWS":12,"Looker":12,"React":10,"Snowflake":10,"TypeScript":8,"Machine Learning":8,"Flask":7,"Figma":7,"CI/CD":7,"Azure":6,"GCP":6},"buying_signals":{"cloud_infra":["AWS","CI/CD","Azure","GCP"],"data_ai":["LLMs","Looker","Snowflake","Machine Learning"],"databases":[],"observability":[],"sales_tools":["Salesforce"]},"notable_open_roles":[{"title":"Account Manager | Growth","function":"sales","department":"Sales","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-20T18:32:31.155+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"},{"title":"Senior Backend Engineer | Token Spend Management","function":"engineering","department":"Engineering","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-20T13:40:20.264+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"},{"title":"Senior Backend Engineer | Accounts Receivable","function":"engineering","department":"Engineering","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-20T13:26:07.649+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"},{"title":"Lead Recruiter | Executive","function":"people","department":"People & Talent","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-19T17:06:15.365+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/0d52b853-4088-45dd-8c4b-0702da1bf5ed"},{"title":"Chief Compliance Officer, Ramp Advisory LLC","function":"finance_legal","department":"Compliance","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-16T21:05:12.511+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/abd1360f-bd9d-4649-ac02-9af2a437ff98"},{"title":"Lead Counsel, Employment","function":"finance_legal","department":"Legal","location":"San Francisco, CA","is_remote":true,"posted_date":"2026-10-16T20:52:37.741+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/b4366e7a-d1e7-498b-8630-4dfea67caca0"},{"title":"Compliance Innovation Senior Strategist","function":"finance_legal","department":"Compliance","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-16T18:17:38.962+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c"},{"title":"Senior Technical Program Manager","function":"product","department":"Engineering","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-16T18:04:33.419+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4"},{"title":"Senior Manager, Account Manager, Enterprise","function":"sales","department":"Sales","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-15T21:33:08.330+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f"},{"title":"People Programs Lead","function":"people","department":"People & Talent","location":"New York, NY (HQ)","is_remote":true,"posted_date":"2026-10-15T14:48:11.878+00:00","apply_url":"https://jobs.ashbyhq.com/ramp/d7c117f8-45e4-4212-8bc5-233ff60c7038"}],"jobs_truncated":false,"checked_at":"2026-10-21T13:59:33Z","note":"intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."},"google_ads":{"status":"error"},"note":"Charged only when at least two of the three sections have data. A section with a status other than ok has no data.","recommended_next_step":{"tool":"get_company_profile","url":"https://gethirepulse.xyz/v1/company-profile","body":{"domain":"ramp.com"},"price_usd":0.03,"zero_result_zero_charge":true}}
+{
+  "domain": "ramp.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:41:30.250Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 169 open roles, 52 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 3000-4000 ads.",
+    "No ad pixels detected on the home page."
+  ],
+  "tech_stack": {
+    "domain": "ramp.com",
+    "status": "ok",
+    "final_url": "https://ramp.com/",
+    "title": "Spend Management, Corporate Cards &amp; Accounts Payable Solutions | Ramp",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Cloudflare",
+      "Vercel"
+    ],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": null,
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [
+      "Google Workspace",
+      "SendGrid",
+      "HubSpot",
+      "Zendesk"
+    ],
+    "dmarc_policy": "reject",
+    "verified_services": [
+      "Google Search Console",
+      "Microsoft 365",
+      "Atlassian",
+      "Stripe",
+      "Apple",
+      "Adobe",
+      "Zoom",
+      "Slack",
+      "OpenAI",
+      "Notion"
+    ],
+    "technology_count": 4,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:30+00:00"
+  },
+  "hiring_intent": {
+    "domain": "ramp.com",
+    "status": "ok",
+    "ats_type": "ashby",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 169,
+    "remote_roles": 152,
+    "roles_posted_last_30_days": 52,
+    "roles_with_known_post_date": 169,
+    "function_breakdown": {
+      "engineering": 29,
+      "other": 48,
+      "sales": 36,
+      "operations": 7,
+      "finance_legal": 11,
+      "design": 4,
+      "marketing": 13,
+      "product": 4,
+      "customer_success": 3,
+      "people": 8,
+      "data_ai": 6
+    },
+    "department_breakdown": {
+      "Sales": 68,
+      "Engineering": 38,
+      "People & Talent": 15,
+      "Marketing": 8,
+      "Product": 7,
+      "Design": 6,
+      "Customer Experience": 5,
+      "Data": 5,
+      "Finance": 4,
+      "Compliance": 3
+    },
+    "top_locations": {
+      "New York, NY (HQ)": 131,
+      "London, UK": 12,
+      "San Francisco, CA": 11,
+      "Remote (US)": 9,
+      "Toronto, ON": 6
+    },
+    "top_demanded_technologies": {
+      "Salesforce": 30,
+      "Python": 29,
+      "SQL": 23,
+      "LLMs": 17,
+      "AWS": 12,
+      "Looker": 12,
+      "React": 10,
+      "Snowflake": 10,
+      "TypeScript": 8,
+      "Machine Learning": 8,
+      "Flask": 7,
+      "Figma": 7,
+      "CI/CD": 7,
+      "Azure": 6,
+      "GCP": 6
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS",
+        "CI/CD",
+        "Azure",
+        "GCP"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Looker",
+        "Snowflake",
+        "Machine Learning"
+      ],
+      "databases": [],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Account Manager | Growth",
+        "function": "sales",
+        "department": "Sales",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-20T18:32:31.155+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
+      },
+      {
+        "title": "Senior Backend Engineer | Token Spend Management",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-20T13:40:20.264+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+      },
+      {
+        "title": "Senior Backend Engineer | Accounts Receivable",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-20T13:26:07.649+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
+      },
+      {
+        "title": "Lead Recruiter | Executive",
+        "function": "people",
+        "department": "People & Talent",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-19T17:06:15.365+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/0d52b853-4088-45dd-8c4b-0702da1bf5ed"
+      },
+      {
+        "title": "Chief Compliance Officer, Ramp Advisory LLC",
+        "function": "finance_legal",
+        "department": "Compliance",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-16T21:05:12.511+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/abd1360f-bd9d-4649-ac02-9af2a437ff98"
+      },
+      {
+        "title": "Lead Counsel, Employment",
+        "function": "finance_legal",
+        "department": "Legal",
+        "location": "San Francisco, CA",
+        "is_remote": true,
+        "posted_date": "2026-10-16T20:52:37.741+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/b4366e7a-d1e7-498b-8630-4dfea67caca0"
+      },
+      {
+        "title": "Compliance Innovation Senior Strategist",
+        "function": "finance_legal",
+        "department": "Compliance",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-16T18:17:38.962+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c"
+      },
+      {
+        "title": "Senior Technical Program Manager",
+        "function": "product",
+        "department": "Engineering",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-16T18:04:33.419+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4"
+      },
+      {
+        "title": "Senior Manager, Account Manager, Enterprise",
+        "function": "sales",
+        "department": "Sales",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-15T21:33:08.330+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f"
+      },
+      {
+        "title": "People Programs Lead",
+        "function": "people",
+        "department": "People & Talent",
+        "location": "New York, NY (HQ)",
+        "is_remote": true,
+        "posted_date": "2026-10-15T14:48:11.878+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/ramp/d7c117f8-45e4-4212-8bc5-233ff60c7038"
+      }
+    ],
+    "jobs_truncated": false,
+    "checked_at": "2026-10-21T14:41:27Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "ramp.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:25.277Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR11909113871291383809",
+        "name": "Ramp Business Corporation",
+        "ads_in_sample": 40
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 3000,
+      "high": 4000
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 22,
+      "image": 13,
+      "video": 5
+    },
+    "earliest_first_shown_in_sample": "2022-04-01T14:37:33.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:04:33.000Z",
+    "ads": [
+      {
+        "creative_id": "CR15536991365182259201",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2025-03-05T22:37:23.000Z",
+        "last_shown": "2026-10-21T14:04:33.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17749613354438958029",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR15536991365182259201"
+      },
+      {
+        "creative_id": "CR04930640168253128705",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-08-26T01:28:55.000Z",
+        "last_shown": "2026-10-21T14:03:04.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9262523163570196753",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04930640168253128705"
+      },
+      {
+        "creative_id": "CR16197710639869722625",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T01:53:10.000Z",
+        "last_shown": "2026-10-21T14:01:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12561507863608052307",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16197710639869722625"
+      },
+      {
+        "creative_id": "CR17890168659209355265",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-09-12T19:56:15.000Z",
+        "last_shown": "2026-10-21T14:01:32.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4652303131124035794",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17890168659209355265"
+      },
+      {
+        "creative_id": "CR06185901560883576833",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "video",
+        "first_shown": "2026-08-01T09:17:44.000Z",
+        "last_shown": "2026-10-21T13:57:19.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851110412&uiFeatures=12,54&adGroupId=200291473193&assets=%3DH4sIAAAAAAAAAAFNALL_CksKCQivj7_97ggQDAoICLy1kdM_EAYKCQji1fnXhAcQAwoJCImM87PHCBACCgkIq9LanO8IEAgKCAjlzrP1HBApCgkI5veCtogHEAGt4gdzTQAAAA&sig=ACiVB_zQ4d4RYaasG4aYfLC4jvVzJRc1TA&htmlParentId=fletch-render-4492675126512032683&responseCallback=fletchCallback4492675126512032683",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06185901560883576833"
+      },
+      {
+        "creative_id": "CR04869732884841234433",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-18T22:29:42.000Z",
+        "last_shown": "2026-10-21T13:56:15.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1020316292941471007",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04869732884841234433"
+      },
+      {
+        "creative_id": "CR14402050028195545089",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-06-05T21:35:44.000Z",
+        "last_shown": "2026-10-21T13:55:34.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1060608400684192905",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR14402050028195545089"
+      },
+      {
+        "creative_id": "CR17182919212075581441",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-15T21:53:32.000Z",
+        "last_shown": "2026-10-21T13:54:33.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14858233423907077067",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17182919212075581441"
+      },
+      {
+        "creative_id": "CR15742343982216118273",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-05-29T05:54:07.000Z",
+        "last_shown": "2026-10-21T13:48:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4010582723325539191",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR15742343982216118273"
+      },
+      {
+        "creative_id": "CR17281292946909429761",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2022-04-01T14:37:33.000Z",
+        "last_shown": "2026-10-21T13:46:40.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/334789808672715553",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17281292946909429761"
+      },
+      {
+        "creative_id": "CR07721121884078604289",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "video",
+        "first_shown": "2026-08-01T09:15:56.000Z",
+        "last_shown": "2026-10-21T13:26:13.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851110370&uiFeatures=12,54&adGroupId=200291472433&assets=%3DH4sIAAAAAAAAAAE3AMj_CjUKCAjlzrP1HBApCgkImIGU-IQHEAwKCQir0tqc7wgQCAoICLy1kdM_EAYKCQjl1fnXhAcQAWWBNCk3AAAA&sig=ACiVB_wL5-C1IDnD6E8pfIWvt_7MwZDcvw&htmlParentId=fletch-render-6607918711602560218&responseCallback=fletchCallback6607918711602560218",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07721121884078604289"
+      },
+      {
+        "creative_id": "CR16856751733395685377",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2025-02-12T22:56:18.000Z",
+        "last_shown": "2026-10-21T13:26:00.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13043246171587116407",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16856751733395685377"
+      },
+      {
+        "creative_id": "CR16628825506988425217",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "video",
+        "first_shown": "2026-08-01T09:16:34.000Z",
+        "last_shown": "2026-10-21T13:23:32.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851132999&uiFeatures=12,54&adGroupId=201283053280&assets=%3DH4sIAAAAAAAAAOMy5eLgeHpu81cZAU0uTo5n35u2dbALMHJxcmzad-BYM7sADxcnx-PLO97c5RTg4OLg2LN14mV7ATYpdo7dxy-fX84kxc5xAcaY8Ovb-5eMUuwcR8AiAG98pidbAAAA&sig=ACiVB_wGQ5Hte3mQ4XJ1XuZBAks9O2L43A&htmlParentId=fletch-render-1087444269084467149&responseCallback=fletchCallback1087444269084467149",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16628825506988425217"
+      },
+      {
+        "creative_id": "CR01851495607428972545",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-08-22T04:07:51.000Z",
+        "last_shown": "2026-10-21T13:19:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7247365312033918378",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR01851495607428972545"
+      },
+      {
+        "creative_id": "CR07573620792894685185",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-15T22:12:34.000Z",
+        "last_shown": "2026-10-21T13:18:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17402724198660574305",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07573620792894685185"
+      },
+      {
+        "creative_id": "CR03116052254180769793",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2024-09-13T16:16:13.000Z",
+        "last_shown": "2026-10-21T13:16:01.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17979920921093387314",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR03116052254180769793"
+      },
+      {
+        "creative_id": "CR13926902400444006401",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-08-31T21:50:22.000Z",
+        "last_shown": "2026-10-21T13:15:20.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16006660330774857839",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR13926902400444006401"
+      },
+      {
+        "creative_id": "CR09394989798902464513",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-08-14T02:54:46.000Z",
+        "last_shown": "2026-10-21T13:14:29.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7050809707402499494",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR09394989798902464513"
+      },
+      {
+        "creative_id": "CR00437338738587074561",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2024-11-09T01:53:50.000Z",
+        "last_shown": "2026-10-21T13:10:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/992944295591032576",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00437338738587074561"
+      },
+      {
+        "creative_id": "CR05721986406482444289",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-06-02T00:54:25.000Z",
+        "last_shown": "2026-10-21T13:10:01.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18390236801730385369",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05721986406482444289"
+      },
+      {
+        "creative_id": "CR04033809103737323521",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T00:14:17.000Z",
+        "last_shown": "2026-10-21T13:06:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8917706676681457078",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04033809103737323521"
+      },
+      {
+        "creative_id": "CR18177701283564093441",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-15T22:59:57.000Z",
+        "last_shown": "2026-10-21T13:05:29.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1579993747461139792",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR18177701283564093441"
+      },
+      {
+        "creative_id": "CR00432921751270195201",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-07-14T23:05:14.000Z",
+        "last_shown": "2026-10-21T13:03:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7389492020120246302",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00432921751270195201"
+      },
+      {
+        "creative_id": "CR01359815516683763713",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T00:42:53.000Z",
+        "last_shown": "2026-10-21T13:02:07.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5013303344046216484",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR01359815516683763713"
+      },
+      {
+        "creative_id": "CR05997374624260685825",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "video",
+        "first_shown": "2026-08-01T09:16:43.000Z",
+        "last_shown": "2026-10-21T13:00:53.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851109443&uiFeatures=12,54&adGroupId=200291472473&assets=%3DH4sIAAAAAAAAAAFaAKX_CjUKCQiyvsDGgwcQDAoJCOb3graIBxABCggIvLWR0z8QBgoJCKvS2pzvCBAICggI5c6z9RwQKRoHCKzL5_OlBxoHCLvH08-nAhoGCNWgjYNWGgcI9uKz46cCcd26BVoAAAA&sig=ACiVB_yWlWi3nh7dJVbCejOTZugHHO8zfQ&htmlParentId=fletch-render-11183272735820513608&responseCallback=fletchCallback11183272735820513608",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05997374624260685825"
+      },
+      {
+        "creative_id": "CR13326090326033563649",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2025-05-06T15:21:41.000Z",
+        "last_shown": "2026-10-21T12:59:10.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10572293378265430648",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR13326090326033563649"
+      },
+      {
+        "creative_id": "CR09988522393372459009",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-07-15T22:06:54.000Z",
+        "last_shown": "2026-10-21T12:59:01.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9553385380012397735",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR09988522393372459009"
+      },
+      {
+        "creative_id": "CR05425814094634549249",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2025-06-23T21:26:26.000Z",
+        "last_shown": "2026-10-21T12:57:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14388268638291666610",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05425814094634549249"
+      },
+      {
+        "creative_id": "CR17313811733445345281",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-08-29T05:20:06.000Z",
+        "last_shown": "2026-10-21T12:57:17.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16581991597166898761",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17313811733445345281"
+      },
+      {
+        "creative_id": "CR06157318931485818881",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-08-28T14:48:31.000Z",
+        "last_shown": "2026-10-21T12:56:59.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10692884446364143223",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06157318931485818881"
+      },
+      {
+        "creative_id": "CR06534877618007703553",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2025-12-20T13:14:03.000Z",
+        "last_shown": "2026-10-21T12:56:29.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15520720044226881440",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06534877618007703553"
+      },
+      {
+        "creative_id": "CR00260430306975154177",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-16T00:20:04.000Z",
+        "last_shown": "2026-10-21T12:56:00.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14136330247403128225",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00260430306975154177"
+      },
+      {
+        "creative_id": "CR00836281749448163329",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-06-01T22:35:02.000Z",
+        "last_shown": "2026-10-21T12:55:08.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8849292884137318868",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00836281749448163329"
+      },
+      {
+        "creative_id": "CR18067883161693454337",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T01:49:56.000Z",
+        "last_shown": "2026-10-21T12:53:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15070671578573096688",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR18067883161693454337"
+      },
+      {
+        "creative_id": "CR07963836327131086849",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-06-19T04:02:35.000Z",
+        "last_shown": "2026-10-21T12:53:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9784776547042148187",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07963836327131086849"
+      },
+      {
+        "creative_id": "CR06626559433017131009",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "video",
+        "first_shown": "2026-08-01T09:16:02.000Z",
+        "last_shown": "2026-10-21T12:53:19.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818808224601&uiFeatures=12,54&adGroupId=200291473193&assets=%3DH4sIAAAAAAAAAAFNALL_CksKCQjm94K2iAcQAQoJCLK-wMaDBxAMCgkIq9LanO8IEAgKCQiJjPOzxwgQAgoICLy1kdM_EAYKCAjlzrP1HBApCgkI4tX514QHEAO88ng4TQAAAA&sig=ACiVB_yz8YnQbnXge9QRPyc2tRM5gxfs6A&htmlParentId=fletch-render-3962845080571179503&responseCallback=fletchCallback3962845080571179503",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06626559433017131009"
+      },
+      {
+        "creative_id": "CR17741580546162556929",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T00:55:04.000Z",
+        "last_shown": "2026-10-21T12:52:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6534981471997126191",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17741580546162556929"
+      },
+      {
+        "creative_id": "CR08835908520093155329",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "image",
+        "first_shown": "2025-12-17T00:21:14.000Z",
+        "last_shown": "2026-10-21T12:52:02.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13629224796578457477",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR08835908520093155329"
+      },
+      {
+        "creative_id": "CR05287881168383901697",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2024-02-05T17:15:31.000Z",
+        "last_shown": "2026-10-21T12:50:08.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13485894717863246091",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05287881168383901697"
+      },
+      {
+        "creative_id": "CR00201983627507007489",
+        "advertiser_id": "AR11909113871291383809",
+        "advertiser_name": "Ramp Business Corporation",
+        "format": "text",
+        "first_shown": "2026-09-18T07:05:10.000Z",
+        "last_shown": "2026-10-21T12:48:24.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14205590906259660929",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00201983627507007489"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "ramp.com",
+        "status": "ok",
+        "final_url": "https://ramp.com/",
+        "title": "Spend Management, Corporate Cards &amp; Accounts Payable Solutions | Ramp",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Cloudflare",
+          "Vercel"
+        ],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": null,
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [
+          "Google Workspace",
+          "SendGrid",
+          "HubSpot",
+          "Zendesk"
+        ],
+        "dmarc_policy": "reject",
+        "verified_services": [
+          "Google Search Console",
+          "Microsoft 365",
+          "Atlassian",
+          "Stripe",
+          "Apple",
+          "Adobe",
+          "Zoom",
+          "Slack",
+          "OpenAI",
+          "Notion"
+        ],
+        "technology_count": 4,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:30+00:00"
+      },
+      "hiring_intent": {
+        "domain": "ramp.com",
+        "status": "ok",
+        "ats_type": "ashby",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 169,
+        "remote_roles": 152,
+        "roles_posted_last_30_days": 52,
+        "roles_with_known_post_date": 169,
+        "function_breakdown": {
+          "engineering": 29,
+          "other": 48,
+          "sales": 36,
+          "operations": 7,
+          "finance_legal": 11,
+          "design": 4,
+          "marketing": 13,
+          "product": 4,
+          "customer_success": 3,
+          "people": 8,
+          "data_ai": 6
+        },
+        "department_breakdown": {
+          "Sales": 68,
+          "Engineering": 38,
+          "People & Talent": 15,
+          "Marketing": 8,
+          "Product": 7,
+          "Design": 6,
+          "Customer Experience": 5,
+          "Data": 5,
+          "Finance": 4,
+          "Compliance": 3
+        },
+        "top_locations": {
+          "New York, NY (HQ)": 131,
+          "London, UK": 12,
+          "San Francisco, CA": 11,
+          "Remote (US)": 9,
+          "Toronto, ON": 6
+        },
+        "top_demanded_technologies": {
+          "Salesforce": 30,
+          "Python": 29,
+          "SQL": 23,
+          "LLMs": 17,
+          "AWS": 12,
+          "Looker": 12,
+          "React": 10,
+          "Snowflake": 10,
+          "TypeScript": 8,
+          "Machine Learning": 8,
+          "Flask": 7,
+          "Figma": 7,
+          "CI/CD": 7,
+          "Azure": 6,
+          "GCP": 6
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS",
+            "CI/CD",
+            "Azure",
+            "GCP"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Looker",
+            "Snowflake",
+            "Machine Learning"
+          ],
+          "databases": [],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Account Manager | Growth",
+            "function": "sales",
+            "department": "Sales",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-20T18:32:31.155+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
+          },
+          {
+            "title": "Senior Backend Engineer | Token Spend Management",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-20T13:40:20.264+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+          },
+          {
+            "title": "Senior Backend Engineer | Accounts Receivable",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-20T13:26:07.649+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
+          },
+          {
+            "title": "Lead Recruiter | Executive",
+            "function": "people",
+            "department": "People & Talent",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-19T17:06:15.365+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/0d52b853-4088-45dd-8c4b-0702da1bf5ed"
+          },
+          {
+            "title": "Chief Compliance Officer, Ramp Advisory LLC",
+            "function": "finance_legal",
+            "department": "Compliance",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-16T21:05:12.511+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/abd1360f-bd9d-4649-ac02-9af2a437ff98"
+          },
+          {
+            "title": "Lead Counsel, Employment",
+            "function": "finance_legal",
+            "department": "Legal",
+            "location": "San Francisco, CA",
+            "is_remote": true,
+            "posted_date": "2026-10-16T20:52:37.741+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/b4366e7a-d1e7-498b-8630-4dfea67caca0"
+          },
+          {
+            "title": "Compliance Innovation Senior Strategist",
+            "function": "finance_legal",
+            "department": "Compliance",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-16T18:17:38.962+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c"
+          },
+          {
+            "title": "Senior Technical Program Manager",
+            "function": "product",
+            "department": "Engineering",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-16T18:04:33.419+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4"
+          },
+          {
+            "title": "Senior Manager, Account Manager, Enterprise",
+            "function": "sales",
+            "department": "Sales",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-15T21:33:08.330+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f"
+          },
+          {
+            "title": "People Programs Lead",
+            "function": "people",
+            "department": "People & Talent",
+            "location": "New York, NY (HQ)",
+            "is_remote": true,
+            "posted_date": "2026-10-15T14:48:11.878+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/ramp/d7c117f8-45e4-4212-8bc5-233ff60c7038"
+          }
+        ],
+        "jobs_truncated": false,
+        "checked_at": "2026-10-21T14:41:27Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "ramp.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:25.277Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR11909113871291383809",
+            "name": "Ramp Business Corporation",
+            "ads_in_sample": 40
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 3000,
+          "high": 4000
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 22,
+          "image": 13,
+          "video": 5
+        },
+        "earliest_first_shown_in_sample": "2022-04-01T14:37:33.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:04:33.000Z",
+        "ads": [
+          {
+            "creative_id": "CR15536991365182259201",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2025-03-05T22:37:23.000Z",
+            "last_shown": "2026-10-21T14:04:33.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17749613354438958029",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR15536991365182259201"
+          },
+          {
+            "creative_id": "CR04930640168253128705",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-08-26T01:28:55.000Z",
+            "last_shown": "2026-10-21T14:03:04.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9262523163570196753",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04930640168253128705"
+          },
+          {
+            "creative_id": "CR16197710639869722625",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T01:53:10.000Z",
+            "last_shown": "2026-10-21T14:01:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12561507863608052307",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16197710639869722625"
+          },
+          {
+            "creative_id": "CR17890168659209355265",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-09-12T19:56:15.000Z",
+            "last_shown": "2026-10-21T14:01:32.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4652303131124035794",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17890168659209355265"
+          },
+          {
+            "creative_id": "CR06185901560883576833",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "video",
+            "first_shown": "2026-08-01T09:17:44.000Z",
+            "last_shown": "2026-10-21T13:57:19.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851110412&uiFeatures=12,54&adGroupId=200291473193&assets=%3DH4sIAAAAAAAAAAFNALL_CksKCQivj7_97ggQDAoICLy1kdM_EAYKCQji1fnXhAcQAwoJCImM87PHCBACCgkIq9LanO8IEAgKCAjlzrP1HBApCgkI5veCtogHEAGt4gdzTQAAAA&sig=ACiVB_zQ4d4RYaasG4aYfLC4jvVzJRc1TA&htmlParentId=fletch-render-4492675126512032683&responseCallback=fletchCallback4492675126512032683",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06185901560883576833"
+          },
+          {
+            "creative_id": "CR04869732884841234433",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-18T22:29:42.000Z",
+            "last_shown": "2026-10-21T13:56:15.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1020316292941471007",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04869732884841234433"
+          },
+          {
+            "creative_id": "CR14402050028195545089",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-06-05T21:35:44.000Z",
+            "last_shown": "2026-10-21T13:55:34.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1060608400684192905",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR14402050028195545089"
+          },
+          {
+            "creative_id": "CR17182919212075581441",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-15T21:53:32.000Z",
+            "last_shown": "2026-10-21T13:54:33.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14858233423907077067",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17182919212075581441"
+          },
+          {
+            "creative_id": "CR15742343982216118273",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-05-29T05:54:07.000Z",
+            "last_shown": "2026-10-21T13:48:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4010582723325539191",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR15742343982216118273"
+          },
+          {
+            "creative_id": "CR17281292946909429761",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2022-04-01T14:37:33.000Z",
+            "last_shown": "2026-10-21T13:46:40.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/334789808672715553",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17281292946909429761"
+          },
+          {
+            "creative_id": "CR07721121884078604289",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "video",
+            "first_shown": "2026-08-01T09:15:56.000Z",
+            "last_shown": "2026-10-21T13:26:13.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851110370&uiFeatures=12,54&adGroupId=200291472433&assets=%3DH4sIAAAAAAAAAAE3AMj_CjUKCAjlzrP1HBApCgkImIGU-IQHEAwKCQir0tqc7wgQCAoICLy1kdM_EAYKCQjl1fnXhAcQAWWBNCk3AAAA&sig=ACiVB_wL5-C1IDnD6E8pfIWvt_7MwZDcvw&htmlParentId=fletch-render-6607918711602560218&responseCallback=fletchCallback6607918711602560218",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07721121884078604289"
+          },
+          {
+            "creative_id": "CR16856751733395685377",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2025-02-12T22:56:18.000Z",
+            "last_shown": "2026-10-21T13:26:00.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13043246171587116407",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16856751733395685377"
+          },
+          {
+            "creative_id": "CR16628825506988425217",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "video",
+            "first_shown": "2026-08-01T09:16:34.000Z",
+            "last_shown": "2026-10-21T13:23:32.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851132999&uiFeatures=12,54&adGroupId=201283053280&assets=%3DH4sIAAAAAAAAAOMy5eLgeHpu81cZAU0uTo5n35u2dbALMHJxcmzad-BYM7sADxcnx-PLO97c5RTg4OLg2LN14mV7ATYpdo7dxy-fX84kxc5xAcaY8Ovb-5eMUuwcR8AiAG98pidbAAAA&sig=ACiVB_wGQ5Hte3mQ4XJ1XuZBAks9O2L43A&htmlParentId=fletch-render-1087444269084467149&responseCallback=fletchCallback1087444269084467149",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR16628825506988425217"
+          },
+          {
+            "creative_id": "CR01851495607428972545",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-08-22T04:07:51.000Z",
+            "last_shown": "2026-10-21T13:19:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7247365312033918378",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR01851495607428972545"
+          },
+          {
+            "creative_id": "CR07573620792894685185",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-15T22:12:34.000Z",
+            "last_shown": "2026-10-21T13:18:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17402724198660574305",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07573620792894685185"
+          },
+          {
+            "creative_id": "CR03116052254180769793",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2024-09-13T16:16:13.000Z",
+            "last_shown": "2026-10-21T13:16:01.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17979920921093387314",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR03116052254180769793"
+          },
+          {
+            "creative_id": "CR13926902400444006401",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-08-31T21:50:22.000Z",
+            "last_shown": "2026-10-21T13:15:20.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16006660330774857839",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR13926902400444006401"
+          },
+          {
+            "creative_id": "CR09394989798902464513",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-08-14T02:54:46.000Z",
+            "last_shown": "2026-10-21T13:14:29.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7050809707402499494",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR09394989798902464513"
+          },
+          {
+            "creative_id": "CR00437338738587074561",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2024-11-09T01:53:50.000Z",
+            "last_shown": "2026-10-21T13:10:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/992944295591032576",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00437338738587074561"
+          },
+          {
+            "creative_id": "CR05721986406482444289",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-06-02T00:54:25.000Z",
+            "last_shown": "2026-10-21T13:10:01.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18390236801730385369",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05721986406482444289"
+          },
+          {
+            "creative_id": "CR04033809103737323521",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T00:14:17.000Z",
+            "last_shown": "2026-10-21T13:06:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8917706676681457078",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR04033809103737323521"
+          },
+          {
+            "creative_id": "CR18177701283564093441",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-15T22:59:57.000Z",
+            "last_shown": "2026-10-21T13:05:29.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1579993747461139792",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR18177701283564093441"
+          },
+          {
+            "creative_id": "CR00432921751270195201",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-07-14T23:05:14.000Z",
+            "last_shown": "2026-10-21T13:03:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7389492020120246302",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00432921751270195201"
+          },
+          {
+            "creative_id": "CR01359815516683763713",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T00:42:53.000Z",
+            "last_shown": "2026-10-21T13:02:07.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5013303344046216484",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR01359815516683763713"
+          },
+          {
+            "creative_id": "CR05997374624260685825",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "video",
+            "first_shown": "2026-08-01T09:16:43.000Z",
+            "last_shown": "2026-10-21T13:00:53.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818851109443&uiFeatures=12,54&adGroupId=200291472473&assets=%3DH4sIAAAAAAAAAAFaAKX_CjUKCQiyvsDGgwcQDAoJCOb3graIBxABCggIvLWR0z8QBgoJCKvS2pzvCBAICggI5c6z9RwQKRoHCKzL5_OlBxoHCLvH08-nAhoGCNWgjYNWGgcI9uKz46cCcd26BVoAAAA&sig=ACiVB_yWlWi3nh7dJVbCejOTZugHHO8zfQ&htmlParentId=fletch-render-11183272735820513608&responseCallback=fletchCallback11183272735820513608",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05997374624260685825"
+          },
+          {
+            "creative_id": "CR13326090326033563649",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2025-05-06T15:21:41.000Z",
+            "last_shown": "2026-10-21T12:59:10.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10572293378265430648",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR13326090326033563649"
+          },
+          {
+            "creative_id": "CR09988522393372459009",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-07-15T22:06:54.000Z",
+            "last_shown": "2026-10-21T12:59:01.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9553385380012397735",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR09988522393372459009"
+          },
+          {
+            "creative_id": "CR05425814094634549249",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2025-06-23T21:26:26.000Z",
+            "last_shown": "2026-10-21T12:57:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14388268638291666610",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05425814094634549249"
+          },
+          {
+            "creative_id": "CR17313811733445345281",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-08-29T05:20:06.000Z",
+            "last_shown": "2026-10-21T12:57:17.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16581991597166898761",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17313811733445345281"
+          },
+          {
+            "creative_id": "CR06157318931485818881",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-08-28T14:48:31.000Z",
+            "last_shown": "2026-10-21T12:56:59.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10692884446364143223",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06157318931485818881"
+          },
+          {
+            "creative_id": "CR06534877618007703553",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2025-12-20T13:14:03.000Z",
+            "last_shown": "2026-10-21T12:56:29.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15520720044226881440",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06534877618007703553"
+          },
+          {
+            "creative_id": "CR00260430306975154177",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-16T00:20:04.000Z",
+            "last_shown": "2026-10-21T12:56:00.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14136330247403128225",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00260430306975154177"
+          },
+          {
+            "creative_id": "CR00836281749448163329",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-06-01T22:35:02.000Z",
+            "last_shown": "2026-10-21T12:55:08.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8849292884137318868",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00836281749448163329"
+          },
+          {
+            "creative_id": "CR18067883161693454337",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T01:49:56.000Z",
+            "last_shown": "2026-10-21T12:53:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15070671578573096688",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR18067883161693454337"
+          },
+          {
+            "creative_id": "CR07963836327131086849",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-06-19T04:02:35.000Z",
+            "last_shown": "2026-10-21T12:53:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9784776547042148187",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR07963836327131086849"
+          },
+          {
+            "creative_id": "CR06626559433017131009",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "video",
+            "first_shown": "2026-08-01T09:16:02.000Z",
+            "last_shown": "2026-10-21T12:53:19.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4392545258&creativeId=818808224601&uiFeatures=12,54&adGroupId=200291473193&assets=%3DH4sIAAAAAAAAAAFNALL_CksKCQjm94K2iAcQAQoJCLK-wMaDBxAMCgkIq9LanO8IEAgKCQiJjPOzxwgQAgoICLy1kdM_EAYKCAjlzrP1HBApCgkI4tX514QHEAO88ng4TQAAAA&sig=ACiVB_yz8YnQbnXge9QRPyc2tRM5gxfs6A&htmlParentId=fletch-render-3962845080571179503&responseCallback=fletchCallback3962845080571179503",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR06626559433017131009"
+          },
+          {
+            "creative_id": "CR17741580546162556929",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T00:55:04.000Z",
+            "last_shown": "2026-10-21T12:52:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6534981471997126191",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR17741580546162556929"
+          },
+          {
+            "creative_id": "CR08835908520093155329",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "image",
+            "first_shown": "2025-12-17T00:21:14.000Z",
+            "last_shown": "2026-10-21T12:52:02.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13629224796578457477",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR08835908520093155329"
+          },
+          {
+            "creative_id": "CR05287881168383901697",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2024-02-05T17:15:31.000Z",
+            "last_shown": "2026-10-21T12:50:08.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13485894717863246091",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR05287881168383901697"
+          },
+          {
+            "creative_id": "CR00201983627507007489",
+            "advertiser_id": "AR11909113871291383809",
+            "advertiser_name": "Ramp Business Corporation",
+            "format": "text",
+            "first_shown": "2026-09-18T07:05:10.000Z",
+            "last_shown": "2026-10-21T12:48:24.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14205590906259660929",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR11909113871291383809/creative/CR00201983627507007489"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

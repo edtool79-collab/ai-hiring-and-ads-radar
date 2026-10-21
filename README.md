@@ -1,36 +1,45 @@
-# AI Hiring & Ads Radar
+# AI hiring & ads radar
 
-Live, evidence-based hiring signals and advertising activity for leading tech companies — measured, not guessed.
+A dated, evidence-backed snapshot of **10 companies**: public hiring activity, website technology and Google Ads Transparency results. All 10 Google Ads lookups completed successfully.
 
-**Built on [HirePulse](https://gethirepulse.xyz).** MCP server: `https://gethirepulse.xyz/mcp` · 5 free calls/day · x402 USDC on Base · [API catalog](https://gethirepulse.xyz/v1/catalog)
+[API catalog](https://gethirepulse.xyz/v1/catalog) · [MCP server](https://github.com/edtool79-collab/hirepulse-mcp) · [Apify task directory](https://edtool79-collab.github.io/hirepulse-tools/tasks-directory.md)
 
-| Badge | Company | Open roles | Hiring intent | Status | ATS | Detected tech | Google Ads | Checked (UTC) |
-|---|---|---|---|---|---|---|---|---|
-| ![badge](https://gethirepulse.xyz/badge/ramp.com.svg) **ramp.com** | 169 | 100/100 | hypergrowth | ashby | Google Workspace | no data | 2026-10-21 13:59:33 |
-| ![badge](https://gethirepulse.xyz/badge/stripe.com.svg) **stripe.com** | 730 | 100/100 | hypergrowth | greenhouse | Google Workspace | no data | 2026-10-21 13:59:40 |
-| ![badge](https://gethirepulse.xyz/badge/vercel.com.svg) **vercel.com** | 94 | 96/100 | hypergrowth | greenhouse | Google Workspace | no data | 2026-10-21 13:59:42 |
-| ![badge](https://gethirepulse.xyz/badge/linear.app.svg) **linear.app** | 29 | 67/100 | active_hiring | ashby | Google Workspace | no data | 2026-10-21 13:59:28 |
+## Company snapshot
 
-> Rows are produced from public sources only (company job boards, website HTML/DNS, Google Ads Transparency Center). `intent_score` is a hiring-based heuristic, not a purchase prediction. `no data` means the section returned nothing free of charge — never a paid estimate. Each row costs one of the 5 free daily calls.
+| Company / evidence | Open roles | Hiring score | Hiring signal | Google Ads sample | Google total estimate | Checked (UTC) |
+|---|---:|---:|---|---:|---|---|
+| [ramp.com](data/ramp.com.json) | 169 | 100 / 100 | hypergrowth | 40 | 3,000–4,000 | 2026-10-21 14:41:30 |
+| [stripe.com](data/stripe.com.json) | 730 | 100 / 100 | hypergrowth | 40 | 8,000–9,000 | 2026-10-21 14:41:37 |
+| [cloudflare.com](data/cloudflare.com.json) | 439 | 100 / 100 | hypergrowth | 40 | 3,000–4,000 | 2026-10-21 14:41:54 |
+| [notion.so](data/notion.so.json) | 135 | 100 / 100 | hypergrowth | 13 | 13 | 2026-10-21 14:41:57 |
+| [anthropic.com](data/anthropic.com.json) | 674 | 100 / 100 | hypergrowth | 5 | 5 | 2026-10-21 14:42:05 |
+| [figma.com](data/figma.com.json) | 140 | 100 / 100 | hypergrowth | 40 | 1,000–2,000 | 2026-10-21 14:42:09 |
+| [datadoghq.com](data/datadoghq.com.json) | 438 | 100 / 100 | hypergrowth | 40 | 9,000–10,000 | 2026-10-21 15:05:09 |
+| [vercel.com](data/vercel.com.json) | 94 | 96 / 100 | hypergrowth | 40 | 100–200 | 2026-10-21 14:41:40 |
+| [linear.app](data/linear.app.json) | 29 | 67 / 100 | active hiring | 26 | 26 | 2026-10-21 14:41:25 |
+| [monday.com](data/monday.com.json) | 113 | 63 / 100 | active hiring | 40 | 30,000–40,000 | 2026-10-21 15:05:09 |
 
-### Queued — free quota resets 2026-10-22 00:00 UTC
+## Evidence and interpretation
 
-`monday.com`, `cloudflare.com`, `notion.so`, `anthropic.com`, `figma.com`, `datadoghq.com` — not fetched yet: the 5 free calls per IP per day were spent on the rows above (verified `402` responses, no payment made).
+- The JSON linked in every row contains the completed profile, section statuses, ad creatives and source timestamps. Google Ads sample size is capped at 40; the total estimate is Google’s range, not a count of every active ad or an estimate of advertising spend.
+- Hiring score is a documented heuristic based on open roles, known posting dates and hiring functions. It is not a purchase prediction. Some job-board responses are truncated; the JSON states this, and breakdowns describe the returned sample.
+- Monday.com hiring was supplemented from its [official careers page](https://monday.com/careers), which exposes 113 positions. Posting dates are unavailable there, so recency points are not awarded.
+- Datadog hiring was supplemented from its [public company Greenhouse feed](https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true), which returned 438 positions. These two supplements correct automatic board discovery misses; they are identified in each JSON file.
+- The maintainer collected this snapshot through authenticated access to the independent Modal engine using the production TypeScript adapters. No Apify Actors were run, no public IP quota was bypassed, and no x402 payments were signed. The public API still has a shared allowance of five successful calls per IP per UTC day.
 
 ## Refresh
 
 ```bash
-python refresh.py linear.app ramp.com stripe.com vercel.com   # add domains as free quota allows
+python refresh.py --render-only
+python refresh.py linear.app ramp.com
 ```
 
-`refresh.py` calls `POST https://gethirepulse.xyz/v1/company-profile` (one free call per domain per day), writes the raw JSON into `data/<domain>.json` and rebuilds this table. No API key, no account.
+The first command rebuilds this README from saved evidence without network calls. The second refreshes only the named companies through the public gateway, then rebuilds the table. A 402, timeout or incomplete section preserves the previous verified snapshot. The script never pays automatically. Fresh timestamps are stored per company; running the renderer does not make older data fresh.
 
-## Why this matters for agents
+To import a verified maintainer snapshot: `python refresh.py --import-dir /path/to/verified-json`. This requires one valid JSON file per imported company; no engine credentials belong in this repository.
 
-- Hiring velocity is one of the few public, forward-looking buying signals for B2B.
-- Ads + tech stack show what a company is actively investing in right now.
-- Everything here is reproducible: same input, same public evidence, no proprietary data.
+## Use responsibly
 
-Related: [HirePulse Apify tasks directory](https://github.com/edtool79-collab/hirepulse-tools/blob/main/tasks-directory.md) · [HirePulse MCP](https://github.com/edtool79-collab/hirepulse-mcp)
+Public job postings, website tags and advertising activity are operating signals. They do not establish revenue, financial health, employment headcount, merchant safety or ownership. A HirePulse badge is a link to public signals, not a security certification.
 
-_Generated 2026-10-21 14:00 UTC from live API responses stored under `data/`._
+Maintained by [HirePulse](https://gethirepulse.xyz). Data is a snapshot of public sources and can change after collection. Code: MIT. Public-source content remains subject to its original terms.

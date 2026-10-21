@@ -1,1 +1,1356 @@
-{"domain":"stripe.com","sections_status":{"tech_stack":"ok","hiring_intent":"ok","google_ads":"error"},"sections_with_data":["tech_stack","hiring_intent"],"footprint":{"website_ad_or_analytics_tags":"not_found","job_board_with_open_roles":"found","google_ads":"unknown"},"checked_at":"2026-10-21T13:59:40.105Z","status":"ok","signals":["Hiring: hypergrowth, 730 open roles, 114 posted in the last 30 days, intent_score 100.","No ad pixels detected on the home page."],"tech_stack":{"domain":"stripe.com","status":"ok","final_url":"https://stripe.com/","title":"Stripe | Financial Infrastructure to Grow Your Revenue","has_meta_pixel":false,"has_google_ads_tag":false,"has_ga4":false,"has_gtm":false,"has_linkedin_insight":false,"has_tiktok_pixel":false,"ad_pixels":[],"analytics":[],"marketing_tools":[],"hosting_cdn":[],"frameworks":["Next.js","React"],"payments":[],"cms":null,"ecommerce":null,"email_provider":"Google Workspace","spf_senders":[],"dmarc_policy":"reject","verified_services":["Google Search Console","Meta Business","Microsoft 365","Atlassian","Stripe","Apple","DocuSign","OpenAI"],"technology_count":2,"added":null,"removed":null,"is_first_run":null,"note":null,"checked_at":"2026-10-21T13:59:39+00:00"},"hiring_intent":{"domain":"stripe.com","status":"ok","ats_type":"greenhouse","confidence":"unverified","intent_score":100,"hiring_status":"hypergrowth","total_open_roles":730,"remote_roles":117,"roles_posted_last_30_days":114,"roles_with_known_post_date":300,"function_breakdown":{"other":60,"engineering":39,"sales":119,"finance_legal":16,"operations":20,"marketing":14,"data_ai":7,"product":3,"people":5,"customer_success":15,"design":2},"department_breakdown":{"1185 Account Executives (EMEA)":33,"5112 General University":23,"Global Operations":22,"1642 Product Sales - MaaS":19,"8611 Security Analytics":16,"1170 GEO Sales HQ (NA)":16,"2317 Marketing - PMM":14,"1520 Sales Operations (SS&O)":13,"1652 Platforms - Account Executives (NA)":12,"1340 Customer Success Management":12},"top_locations":{"Singapore":49,"Dublin":47,"Bengaluru":34,"London":33,"Mexico City":20,"N/A":19,"Chicago":18,"Toronto":18,"San Francisco":15,"US":12},"top_demanded_technologies":{"SQL":148,"Python":91,"Java":71,"Ruby":69,"Go":49,"Salesforce":42,"AWS":40,"Machine Learning":37,"LLMs":36,"JavaScript":35,"Spark":31,"Scala":27,"React":24,"TypeScript":23,"Databricks":21},"buying_signals":{"cloud_infra":["AWS"],"data_ai":["Machine Learning","LLMs","Spark","Databricks"],"databases":[],"observability":[],"sales_tools":["Salesforce"]},"notable_open_roles":[{"title":"Account Executive - Nordics (Hunter)","function":"sales","department":"1185 Account Executives (EMEA)","location":"Sweden","is_remote":false,"posted_date":"2026-10-21T05:47:34-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8284974"},{"title":"Head of Key Accounts, Customer Success","function":"customer_success","department":"1340 Customer Success Management","location":"U.S.","is_remote":false,"posted_date":"2026-10-20T20:46:29-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8300616"},{"title":"Account Executive, Velocity Platforms (Hunter)","function":"sales","department":"1652 Platforms - Account Executives (NA)","location":"San Francisco, CA","is_remote":false,"posted_date":"2026-10-20T20:39:07-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8304841"},{"title":"Account Executive, Velocity Platforms (Hunter)","function":"sales","department":"1652 Platforms - Account Executives (NA)","location":"New York, NY","is_remote":false,"posted_date":"2026-10-20T20:37:08-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8304836"},{"title":"Account Executive, Bridge - Hunter","function":"sales","department":"8589 Bridge - S&M","location":"London","is_remote":false,"posted_date":"2026-10-20T07:54:44-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8299647"},{"title":"Engineering Manager, Money as a Service (MaaS)","function":"other","department":"8278 MaaS APAC","location":"Singapore","is_remote":false,"posted_date":"2026-10-20T03:14:37-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8282169"},{"title":"Account Executive, Velocity Platforms (Hunter)","function":"sales","department":"1652 Platforms - Account Executives (NA)","location":"Chicago, IL; New York, NY; San Francisco, CA","is_remote":false,"posted_date":"2026-10-19T16:51:46-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8267839"},{"title":"Account Executive, Velocity Platforms (Hunter)","function":"sales","department":"1652 Platforms - Account Executives (NA)","location":"Chicago, IL","is_remote":false,"posted_date":"2026-10-19T16:50:22-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8267841"},{"title":"Commercial Counsel, Sales","function":"sales","department":"6320 Commercial Legal","location":"Remote, US","is_remote":true,"posted_date":"2026-10-19T16:21:13-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8286649"},{"title":"Country Manager, Israel","function":"other","department":"1180 GEO Sales HQ (EMEA)","location":"Israel","is_remote":false,"posted_date":"2026-10-19T12:18:39-04:00","apply_url":"https://stripe.com/jobs/search?gh_jid=8267857"}],"jobs_truncated":true,"checked_at":"2026-10-21T13:59:39Z","note":"intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."},"google_ads":{"status":"error"},"note":"Charged only when at least two of the three sections have data. A section with a status other than ok has no data.","recommended_next_step":{"tool":"get_company_profile","url":"https://gethirepulse.xyz/v1/company-profile","body":{"domain":"stripe.com"},"price_usd":0.03,"zero_result_zero_charge":true}}
+{
+  "domain": "stripe.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:41:37.026Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 730 open roles, 113 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 8000-9000 ads.",
+    "No ad pixels detected on the home page."
+  ],
+  "tech_stack": {
+    "domain": "stripe.com",
+    "status": "ok",
+    "final_url": "https://stripe.com/au",
+    "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": null,
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [],
+    "dmarc_policy": "reject",
+    "verified_services": [
+      "Google Search Console",
+      "Meta Business",
+      "Microsoft 365",
+      "Atlassian",
+      "Stripe",
+      "Apple",
+      "DocuSign",
+      "OpenAI"
+    ],
+    "technology_count": 2,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:32+00:00"
+  },
+  "hiring_intent": {
+    "domain": "stripe.com",
+    "status": "ok",
+    "ats_type": "greenhouse",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 730,
+    "remote_roles": 116,
+    "roles_posted_last_30_days": 113,
+    "roles_with_known_post_date": 300,
+    "function_breakdown": {
+      "other": 60,
+      "engineering": 39,
+      "sales": 119,
+      "finance_legal": 16,
+      "operations": 20,
+      "marketing": 14,
+      "data_ai": 7,
+      "product": 3,
+      "people": 5,
+      "customer_success": 15,
+      "design": 2
+    },
+    "department_breakdown": {
+      "1185 Account Executives (EMEA)": 33,
+      "5112 General University": 23,
+      "Global Operations": 22,
+      "1642 Product Sales - MaaS": 19,
+      "8611 Security Analytics": 16,
+      "1170 GEO Sales HQ (NA)": 16,
+      "2317 Marketing - PMM": 14,
+      "1520 Sales Operations (SS&O)": 13,
+      "1652 Platforms - Account Executives (NA)": 12,
+      "1340 Customer Success Management": 12
+    },
+    "top_locations": {
+      "Singapore": 49,
+      "Dublin": 47,
+      "Bengaluru": 34,
+      "London": 33,
+      "Mexico City": 20,
+      "N/A": 19,
+      "Chicago": 18,
+      "Toronto": 18,
+      "San Francisco": 15,
+      "US": 12
+    },
+    "top_demanded_technologies": {
+      "SQL": 148,
+      "Python": 90,
+      "Java": 70,
+      "Ruby": 68,
+      "Go": 49,
+      "Salesforce": 42,
+      "AWS": 40,
+      "Machine Learning": 38,
+      "LLMs": 37,
+      "JavaScript": 34,
+      "Spark": 31,
+      "Scala": 27,
+      "React": 24,
+      "TypeScript": 22,
+      "Databricks": 21
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS"
+      ],
+      "data_ai": [
+        "Machine Learning",
+        "LLMs",
+        "Spark",
+        "Databricks"
+      ],
+      "databases": [],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Account Executive - Nordics (Hunter)",
+        "function": "sales",
+        "department": "1185 Account Executives (EMEA)",
+        "location": "Sweden",
+        "is_remote": false,
+        "posted_date": "2026-10-21T05:47:34-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8284974"
+      },
+      {
+        "title": "Head of Key Accounts, Customer Success",
+        "function": "customer_success",
+        "department": "1340 Customer Success Management",
+        "location": "U.S.",
+        "is_remote": false,
+        "posted_date": "2026-10-20T20:46:29-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8300616"
+      },
+      {
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "function": "sales",
+        "department": "1652 Platforms - Account Executives (NA)",
+        "location": "San Francisco, CA",
+        "is_remote": false,
+        "posted_date": "2026-10-20T20:39:07-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8304841"
+      },
+      {
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "function": "sales",
+        "department": "1652 Platforms - Account Executives (NA)",
+        "location": "New York, NY",
+        "is_remote": false,
+        "posted_date": "2026-10-20T20:37:08-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8304836"
+      },
+      {
+        "title": "Account Executive, Bridge - Hunter",
+        "function": "sales",
+        "department": "8589 Bridge - S&M",
+        "location": "London",
+        "is_remote": false,
+        "posted_date": "2026-10-20T07:54:44-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8299647"
+      },
+      {
+        "title": "Engineering Manager, Money as a Service (MaaS)",
+        "function": "other",
+        "department": "8278 MaaS APAC",
+        "location": "Singapore",
+        "is_remote": false,
+        "posted_date": "2026-10-20T03:14:37-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8282169"
+      },
+      {
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "function": "sales",
+        "department": "1652 Platforms - Account Executives (NA)",
+        "location": "Chicago, IL; New York, NY; San Francisco, CA",
+        "is_remote": false,
+        "posted_date": "2026-10-19T16:51:46-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8267839"
+      },
+      {
+        "title": "Account Executive, Velocity Platforms (Hunter)",
+        "function": "sales",
+        "department": "1652 Platforms - Account Executives (NA)",
+        "location": "Chicago, IL",
+        "is_remote": false,
+        "posted_date": "2026-10-19T16:50:22-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8267841"
+      },
+      {
+        "title": "Commercial Counsel, Sales",
+        "function": "sales",
+        "department": "6320 Commercial Legal",
+        "location": "Remote, US",
+        "is_remote": true,
+        "posted_date": "2026-10-19T16:21:13-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8286649"
+      },
+      {
+        "title": "Country Manager, Israel",
+        "function": "other",
+        "department": "1180 GEO Sales HQ (EMEA)",
+        "location": "Israel",
+        "is_remote": false,
+        "posted_date": "2026-10-19T12:18:39-04:00",
+        "apply_url": "https://stripe.com/jobs/search?gh_jid=8267857"
+      }
+    ],
+    "jobs_truncated": true,
+    "checked_at": "2026-10-21T14:41:36Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "stripe.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:30.253Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR16951989901585285121",
+        "name": "Stripe, Inc.",
+        "ads_in_sample": 37
+      },
+      {
+        "advertiser_id": "AR15042187458823323649",
+        "name": "Skövde GK AB",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR06883283921950212097",
+        "name": "Claim Climbers LLC",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR14921304607844990977",
+        "name": "Nexus Veterans",
+        "ads_in_sample": 1
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 8000,
+      "high": 9000
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 39,
+      "video": 1
+    },
+    "earliest_first_shown_in_sample": "2021-10-25T07:00:00.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:10:48.000Z",
+    "ads": [
+      {
+        "creative_id": "CR00607004996344479745",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-11-13T11:04:21.000Z",
+        "last_shown": "2026-10-21T14:10:48.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1265406304955443851",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00607004996344479745"
+      },
+      {
+        "creative_id": "CR18251067030151102465",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-03-14T16:30:08.000Z",
+        "last_shown": "2026-10-21T14:10:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8857506173339469326",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR18251067030151102465"
+      },
+      {
+        "creative_id": "CR17549111525346639873",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-02-05T11:20:25.000Z",
+        "last_shown": "2026-10-21T14:09:56.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1638336416964653623",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR17549111525346639873"
+      },
+      {
+        "creative_id": "CR09201934669669466113",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-03-10T11:30:25.000Z",
+        "last_shown": "2026-10-21T14:09:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10096644570580203574",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR09201934669669466113"
+      },
+      {
+        "creative_id": "CR14159464013255147521",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2021-10-25T07:00:00.000Z",
+        "last_shown": "2026-10-21T14:05:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5582924381436561675",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14159464013255147521"
+      },
+      {
+        "creative_id": "CR11588687123208732673",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-23T11:54:49.000Z",
+        "last_shown": "2026-10-21T14:03:52.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4764361890610548484",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11588687123208732673"
+      },
+      {
+        "creative_id": "CR05742177915324334081",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-03-26T07:00:00.000Z",
+        "last_shown": "2026-10-21T14:03:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8968289465156970219",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR05742177915324334081"
+      },
+      {
+        "creative_id": "CR15051237539031547905",
+        "advertiser_id": "AR15042187458823323649",
+        "advertiser_name": "Skövde GK AB",
+        "format": "text",
+        "first_shown": "2025-06-11T08:19:19.000Z",
+        "last_shown": "2026-10-21T14:03:04.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16107335355597333155",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15042187458823323649/creative/CR15051237539031547905"
+      },
+      {
+        "creative_id": "CR00722942948395712513",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2023-09-14T00:24:11.000Z",
+        "last_shown": "2026-10-21T14:03:01.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3480924968073944919",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00722942948395712513"
+      },
+      {
+        "creative_id": "CR02792572067818504193",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2021-10-25T07:00:00.000Z",
+        "last_shown": "2026-10-21T14:01:45.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5202398934754348820",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR02792572067818504193"
+      },
+      {
+        "creative_id": "CR11165363953830199297",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-09-25T12:15:07.000Z",
+        "last_shown": "2026-10-21T14:01:28.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8286415955996497027",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11165363953830199297"
+      },
+      {
+        "creative_id": "CR07714074117623775233",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-10-02T20:23:40.000Z",
+        "last_shown": "2026-10-21T14:01:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1657177171002849929",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07714074117623775233"
+      },
+      {
+        "creative_id": "CR11869770673779900417",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "video",
+        "first_shown": "2026-10-14T06:28:23.000Z",
+        "last_shown": "2026-10-21T14:01:08.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9706715971&creativeId=828030660152&uiFeatures=12,54&adGroupId=203794813809&versionId=2&assets=%3DH4sIAAAAAAAAAOMy5-LkeH9n-d2DPAKMXJwc-3atW_KdUUCTi5Pja-PN1jZuATYuTo6GGzd-7GQT4ODi5Li3dwVILY8UO8eHN_vutbBKsXOcfQtlfIOJdIBFABLXggJdAAAA&sig=ACiVB_x5u3HpPksuL1XfJmqIKpOFtlLcQQ&htmlParentId=fletch-render-3056186127957807469&responseCallback=fletchCallback3056186127957807469",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11869770673779900417"
+      },
+      {
+        "creative_id": "CR03066343359258820609",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-23T12:57:56.000Z",
+        "last_shown": "2026-10-21T14:00:28.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12470130256101567495",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR03066343359258820609"
+      },
+      {
+        "creative_id": "CR14629758912077758465",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-05-14T09:10:11.000Z",
+        "last_shown": "2026-10-21T14:00:18.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17957227988619970889",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14629758912077758465"
+      },
+      {
+        "creative_id": "CR14377241678618558465",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-09-25T19:52:24.000Z",
+        "last_shown": "2026-10-21T14:00:11.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14281064877139080793",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14377241678618558465"
+      },
+      {
+        "creative_id": "CR11546343727832236033",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-07-31T15:28:58.000Z",
+        "last_shown": "2026-10-21T13:59:24.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13438592910944091340",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11546343727832236033"
+      },
+      {
+        "creative_id": "CR11834470818610413569",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-01-14T08:14:35.000Z",
+        "last_shown": "2026-10-21T13:57:14.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15894855469701527160",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11834470818610413569"
+      },
+      {
+        "creative_id": "CR14642621136538435585",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-03-25T19:59:54.000Z",
+        "last_shown": "2026-10-21T13:56:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17315539892977856891",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14642621136538435585"
+      },
+      {
+        "creative_id": "CR07297129833673261057",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-08-07T12:25:11.000Z",
+        "last_shown": "2026-10-21T13:56:20.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11229504679390074938",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07297129833673261057"
+      },
+      {
+        "creative_id": "CR07788434509917061121",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-08-06T18:26:59.000Z",
+        "last_shown": "2026-10-21T13:55:49.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12584114673579289876",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07788434509917061121"
+      },
+      {
+        "creative_id": "CR16559635817232859137",
+        "advertiser_id": "AR06883283921950212097",
+        "advertiser_name": "Claim Climbers LLC",
+        "format": "text",
+        "first_shown": "2026-09-14T14:19:33.000Z",
+        "last_shown": "2026-10-21T13:54:07.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4559576987093585577",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR06883283921950212097/creative/CR16559635817232859137"
+      },
+      {
+        "creative_id": "CR10679462672862281729",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-06-13T10:39:17.000Z",
+        "last_shown": "2026-10-21T13:53:45.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2841186770008434287",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10679462672862281729"
+      },
+      {
+        "creative_id": "CR04490280538648608769",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-09-18T15:39:01.000Z",
+        "last_shown": "2026-10-21T13:53:20.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12740327246338828793",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR04490280538648608769"
+      },
+      {
+        "creative_id": "CR18269987374702264321",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-06-03T17:54:09.000Z",
+        "last_shown": "2026-10-21T13:53:13.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4117110505025993254",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR18269987374702264321"
+      },
+      {
+        "creative_id": "CR15901428857895387137",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-02-11T05:44:13.000Z",
+        "last_shown": "2026-10-21T13:53:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1812441976271294993",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15901428857895387137"
+      },
+      {
+        "creative_id": "CR17357653033026060289",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-04-04T15:03:01.000Z",
+        "last_shown": "2026-10-21T13:52:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5338612067196871150",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR17357653033026060289"
+      },
+      {
+        "creative_id": "CR15830621271139287041",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-06-24T11:46:06.000Z",
+        "last_shown": "2026-10-21T13:52:38.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2834233296926485762",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15830621271139287041"
+      },
+      {
+        "creative_id": "CR02077952542704140289",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-03-11T09:58:21.000Z",
+        "last_shown": "2026-10-21T13:52:07.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7289385288867255532",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR02077952542704140289"
+      },
+      {
+        "creative_id": "CR14857547605042266113",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-02-05T14:00:14.000Z",
+        "last_shown": "2026-10-21T13:49:42.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/119265810487657596",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14857547605042266113"
+      },
+      {
+        "creative_id": "CR07065452752196861953",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-02-29T13:12:27.000Z",
+        "last_shown": "2026-10-21T13:49:33.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17019431464590755936",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07065452752196861953"
+      },
+      {
+        "creative_id": "CR10695333247035899905",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2025-08-06T17:33:03.000Z",
+        "last_shown": "2026-10-21T13:49:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10030884765219612155",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10695333247035899905"
+      },
+      {
+        "creative_id": "CR00746898626705358849",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2024-03-26T01:52:56.000Z",
+        "last_shown": "2026-10-21T13:48:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13883472354774757291",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00746898626705358849"
+      },
+      {
+        "creative_id": "CR12848789407838240769",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2023-11-06T14:57:35.000Z",
+        "last_shown": "2026-10-21T13:48:12.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11087621949162875804",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR12848789407838240769"
+      },
+      {
+        "creative_id": "CR05928722698770317313",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-01-14T09:43:49.000Z",
+        "last_shown": "2026-10-21T13:46:38.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6607690689149268601",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR05928722698770317313"
+      },
+      {
+        "creative_id": "CR00388556972485509121",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-01-15T08:00:00.000Z",
+        "last_shown": "2026-10-21T13:45:56.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3256053199487992471",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00388556972485509121"
+      },
+      {
+        "creative_id": "CR15083045199242330113",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-07-31T17:44:45.000Z",
+        "last_shown": "2026-10-21T13:45:46.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10684054327655779777",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15083045199242330113"
+      },
+      {
+        "creative_id": "CR06835742894591049729",
+        "advertiser_id": "AR14921304607844990977",
+        "advertiser_name": "Nexus Veterans",
+        "format": "text",
+        "first_shown": "2026-09-14T18:14:28.000Z",
+        "last_shown": "2026-10-21T13:45:18.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9795839497470295789",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR14921304607844990977/creative/CR06835742894591049729"
+      },
+      {
+        "creative_id": "CR10382581691410546689",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-09-24T11:19:13.000Z",
+        "last_shown": "2026-10-21T13:42:45.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10881651523892378446",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10382581691410546689"
+      },
+      {
+        "creative_id": "CR12977204385913241601",
+        "advertiser_id": "AR16951989901585285121",
+        "advertiser_name": "Stripe, Inc.",
+        "format": "text",
+        "first_shown": "2026-03-07T10:23:15.000Z",
+        "last_shown": "2026-10-21T13:40:25.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13104540858138877097",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR12977204385913241601"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "stripe.com",
+        "status": "ok",
+        "final_url": "https://stripe.com/au",
+        "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": null,
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [],
+        "dmarc_policy": "reject",
+        "verified_services": [
+          "Google Search Console",
+          "Meta Business",
+          "Microsoft 365",
+          "Atlassian",
+          "Stripe",
+          "Apple",
+          "DocuSign",
+          "OpenAI"
+        ],
+        "technology_count": 2,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:32+00:00"
+      },
+      "hiring_intent": {
+        "domain": "stripe.com",
+        "status": "ok",
+        "ats_type": "greenhouse",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 730,
+        "remote_roles": 116,
+        "roles_posted_last_30_days": 113,
+        "roles_with_known_post_date": 300,
+        "function_breakdown": {
+          "other": 60,
+          "engineering": 39,
+          "sales": 119,
+          "finance_legal": 16,
+          "operations": 20,
+          "marketing": 14,
+          "data_ai": 7,
+          "product": 3,
+          "people": 5,
+          "customer_success": 15,
+          "design": 2
+        },
+        "department_breakdown": {
+          "1185 Account Executives (EMEA)": 33,
+          "5112 General University": 23,
+          "Global Operations": 22,
+          "1642 Product Sales - MaaS": 19,
+          "8611 Security Analytics": 16,
+          "1170 GEO Sales HQ (NA)": 16,
+          "2317 Marketing - PMM": 14,
+          "1520 Sales Operations (SS&O)": 13,
+          "1652 Platforms - Account Executives (NA)": 12,
+          "1340 Customer Success Management": 12
+        },
+        "top_locations": {
+          "Singapore": 49,
+          "Dublin": 47,
+          "Bengaluru": 34,
+          "London": 33,
+          "Mexico City": 20,
+          "N/A": 19,
+          "Chicago": 18,
+          "Toronto": 18,
+          "San Francisco": 15,
+          "US": 12
+        },
+        "top_demanded_technologies": {
+          "SQL": 148,
+          "Python": 90,
+          "Java": 70,
+          "Ruby": 68,
+          "Go": 49,
+          "Salesforce": 42,
+          "AWS": 40,
+          "Machine Learning": 38,
+          "LLMs": 37,
+          "JavaScript": 34,
+          "Spark": 31,
+          "Scala": 27,
+          "React": 24,
+          "TypeScript": 22,
+          "Databricks": 21
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS"
+          ],
+          "data_ai": [
+            "Machine Learning",
+            "LLMs",
+            "Spark",
+            "Databricks"
+          ],
+          "databases": [],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Account Executive - Nordics (Hunter)",
+            "function": "sales",
+            "department": "1185 Account Executives (EMEA)",
+            "location": "Sweden",
+            "is_remote": false,
+            "posted_date": "2026-10-21T05:47:34-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8284974"
+          },
+          {
+            "title": "Head of Key Accounts, Customer Success",
+            "function": "customer_success",
+            "department": "1340 Customer Success Management",
+            "location": "U.S.",
+            "is_remote": false,
+            "posted_date": "2026-10-20T20:46:29-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8300616"
+          },
+          {
+            "title": "Account Executive, Velocity Platforms (Hunter)",
+            "function": "sales",
+            "department": "1652 Platforms - Account Executives (NA)",
+            "location": "San Francisco, CA",
+            "is_remote": false,
+            "posted_date": "2026-10-20T20:39:07-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8304841"
+          },
+          {
+            "title": "Account Executive, Velocity Platforms (Hunter)",
+            "function": "sales",
+            "department": "1652 Platforms - Account Executives (NA)",
+            "location": "New York, NY",
+            "is_remote": false,
+            "posted_date": "2026-10-20T20:37:08-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8304836"
+          },
+          {
+            "title": "Account Executive, Bridge - Hunter",
+            "function": "sales",
+            "department": "8589 Bridge - S&M",
+            "location": "London",
+            "is_remote": false,
+            "posted_date": "2026-10-20T07:54:44-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8299647"
+          },
+          {
+            "title": "Engineering Manager, Money as a Service (MaaS)",
+            "function": "other",
+            "department": "8278 MaaS APAC",
+            "location": "Singapore",
+            "is_remote": false,
+            "posted_date": "2026-10-20T03:14:37-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8282169"
+          },
+          {
+            "title": "Account Executive, Velocity Platforms (Hunter)",
+            "function": "sales",
+            "department": "1652 Platforms - Account Executives (NA)",
+            "location": "Chicago, IL; New York, NY; San Francisco, CA",
+            "is_remote": false,
+            "posted_date": "2026-10-19T16:51:46-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8267839"
+          },
+          {
+            "title": "Account Executive, Velocity Platforms (Hunter)",
+            "function": "sales",
+            "department": "1652 Platforms - Account Executives (NA)",
+            "location": "Chicago, IL",
+            "is_remote": false,
+            "posted_date": "2026-10-19T16:50:22-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8267841"
+          },
+          {
+            "title": "Commercial Counsel, Sales",
+            "function": "sales",
+            "department": "6320 Commercial Legal",
+            "location": "Remote, US",
+            "is_remote": true,
+            "posted_date": "2026-10-19T16:21:13-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8286649"
+          },
+          {
+            "title": "Country Manager, Israel",
+            "function": "other",
+            "department": "1180 GEO Sales HQ (EMEA)",
+            "location": "Israel",
+            "is_remote": false,
+            "posted_date": "2026-10-19T12:18:39-04:00",
+            "apply_url": "https://stripe.com/jobs/search?gh_jid=8267857"
+          }
+        ],
+        "jobs_truncated": true,
+        "checked_at": "2026-10-21T14:41:36Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "stripe.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:30.253Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR16951989901585285121",
+            "name": "Stripe, Inc.",
+            "ads_in_sample": 37
+          },
+          {
+            "advertiser_id": "AR15042187458823323649",
+            "name": "Skövde GK AB",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR06883283921950212097",
+            "name": "Claim Climbers LLC",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR14921304607844990977",
+            "name": "Nexus Veterans",
+            "ads_in_sample": 1
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 8000,
+          "high": 9000
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 39,
+          "video": 1
+        },
+        "earliest_first_shown_in_sample": "2021-10-25T07:00:00.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:10:48.000Z",
+        "ads": [
+          {
+            "creative_id": "CR00607004996344479745",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-11-13T11:04:21.000Z",
+            "last_shown": "2026-10-21T14:10:48.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1265406304955443851",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00607004996344479745"
+          },
+          {
+            "creative_id": "CR18251067030151102465",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-03-14T16:30:08.000Z",
+            "last_shown": "2026-10-21T14:10:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8857506173339469326",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR18251067030151102465"
+          },
+          {
+            "creative_id": "CR17549111525346639873",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-02-05T11:20:25.000Z",
+            "last_shown": "2026-10-21T14:09:56.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1638336416964653623",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR17549111525346639873"
+          },
+          {
+            "creative_id": "CR09201934669669466113",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-03-10T11:30:25.000Z",
+            "last_shown": "2026-10-21T14:09:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10096644570580203574",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR09201934669669466113"
+          },
+          {
+            "creative_id": "CR14159464013255147521",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2021-10-25T07:00:00.000Z",
+            "last_shown": "2026-10-21T14:05:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5582924381436561675",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14159464013255147521"
+          },
+          {
+            "creative_id": "CR11588687123208732673",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-23T11:54:49.000Z",
+            "last_shown": "2026-10-21T14:03:52.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4764361890610548484",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11588687123208732673"
+          },
+          {
+            "creative_id": "CR05742177915324334081",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-03-26T07:00:00.000Z",
+            "last_shown": "2026-10-21T14:03:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8968289465156970219",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR05742177915324334081"
+          },
+          {
+            "creative_id": "CR15051237539031547905",
+            "advertiser_id": "AR15042187458823323649",
+            "advertiser_name": "Skövde GK AB",
+            "format": "text",
+            "first_shown": "2025-06-11T08:19:19.000Z",
+            "last_shown": "2026-10-21T14:03:04.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16107335355597333155",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15042187458823323649/creative/CR15051237539031547905"
+          },
+          {
+            "creative_id": "CR00722942948395712513",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2023-09-14T00:24:11.000Z",
+            "last_shown": "2026-10-21T14:03:01.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3480924968073944919",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00722942948395712513"
+          },
+          {
+            "creative_id": "CR02792572067818504193",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2021-10-25T07:00:00.000Z",
+            "last_shown": "2026-10-21T14:01:45.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5202398934754348820",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR02792572067818504193"
+          },
+          {
+            "creative_id": "CR11165363953830199297",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-09-25T12:15:07.000Z",
+            "last_shown": "2026-10-21T14:01:28.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8286415955996497027",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11165363953830199297"
+          },
+          {
+            "creative_id": "CR07714074117623775233",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-10-02T20:23:40.000Z",
+            "last_shown": "2026-10-21T14:01:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1657177171002849929",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07714074117623775233"
+          },
+          {
+            "creative_id": "CR11869770673779900417",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "video",
+            "first_shown": "2026-10-14T06:28:23.000Z",
+            "last_shown": "2026-10-21T14:01:08.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9706715971&creativeId=828030660152&uiFeatures=12,54&adGroupId=203794813809&versionId=2&assets=%3DH4sIAAAAAAAAAOMy5-LkeH9n-d2DPAKMXJwc-3atW_KdUUCTi5Pja-PN1jZuATYuTo6GGzd-7GQT4ODi5Li3dwVILY8UO8eHN_vutbBKsXOcfQtlfIOJdIBFABLXggJdAAAA&sig=ACiVB_x5u3HpPksuL1XfJmqIKpOFtlLcQQ&htmlParentId=fletch-render-3056186127957807469&responseCallback=fletchCallback3056186127957807469",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11869770673779900417"
+          },
+          {
+            "creative_id": "CR03066343359258820609",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-23T12:57:56.000Z",
+            "last_shown": "2026-10-21T14:00:28.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12470130256101567495",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR03066343359258820609"
+          },
+          {
+            "creative_id": "CR14629758912077758465",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-05-14T09:10:11.000Z",
+            "last_shown": "2026-10-21T14:00:18.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17957227988619970889",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14629758912077758465"
+          },
+          {
+            "creative_id": "CR14377241678618558465",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-09-25T19:52:24.000Z",
+            "last_shown": "2026-10-21T14:00:11.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14281064877139080793",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14377241678618558465"
+          },
+          {
+            "creative_id": "CR11546343727832236033",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-07-31T15:28:58.000Z",
+            "last_shown": "2026-10-21T13:59:24.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13438592910944091340",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11546343727832236033"
+          },
+          {
+            "creative_id": "CR11834470818610413569",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-01-14T08:14:35.000Z",
+            "last_shown": "2026-10-21T13:57:14.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15894855469701527160",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR11834470818610413569"
+          },
+          {
+            "creative_id": "CR14642621136538435585",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-03-25T19:59:54.000Z",
+            "last_shown": "2026-10-21T13:56:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17315539892977856891",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14642621136538435585"
+          },
+          {
+            "creative_id": "CR07297129833673261057",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-08-07T12:25:11.000Z",
+            "last_shown": "2026-10-21T13:56:20.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11229504679390074938",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07297129833673261057"
+          },
+          {
+            "creative_id": "CR07788434509917061121",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-08-06T18:26:59.000Z",
+            "last_shown": "2026-10-21T13:55:49.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12584114673579289876",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07788434509917061121"
+          },
+          {
+            "creative_id": "CR16559635817232859137",
+            "advertiser_id": "AR06883283921950212097",
+            "advertiser_name": "Claim Climbers LLC",
+            "format": "text",
+            "first_shown": "2026-09-14T14:19:33.000Z",
+            "last_shown": "2026-10-21T13:54:07.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4559576987093585577",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR06883283921950212097/creative/CR16559635817232859137"
+          },
+          {
+            "creative_id": "CR10679462672862281729",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-06-13T10:39:17.000Z",
+            "last_shown": "2026-10-21T13:53:45.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2841186770008434287",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10679462672862281729"
+          },
+          {
+            "creative_id": "CR04490280538648608769",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-09-18T15:39:01.000Z",
+            "last_shown": "2026-10-21T13:53:20.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12740327246338828793",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR04490280538648608769"
+          },
+          {
+            "creative_id": "CR18269987374702264321",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-06-03T17:54:09.000Z",
+            "last_shown": "2026-10-21T13:53:13.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4117110505025993254",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR18269987374702264321"
+          },
+          {
+            "creative_id": "CR15901428857895387137",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-02-11T05:44:13.000Z",
+            "last_shown": "2026-10-21T13:53:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1812441976271294993",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15901428857895387137"
+          },
+          {
+            "creative_id": "CR17357653033026060289",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-04-04T15:03:01.000Z",
+            "last_shown": "2026-10-21T13:52:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5338612067196871150",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR17357653033026060289"
+          },
+          {
+            "creative_id": "CR15830621271139287041",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-06-24T11:46:06.000Z",
+            "last_shown": "2026-10-21T13:52:38.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2834233296926485762",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15830621271139287041"
+          },
+          {
+            "creative_id": "CR02077952542704140289",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-03-11T09:58:21.000Z",
+            "last_shown": "2026-10-21T13:52:07.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7289385288867255532",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR02077952542704140289"
+          },
+          {
+            "creative_id": "CR14857547605042266113",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-02-05T14:00:14.000Z",
+            "last_shown": "2026-10-21T13:49:42.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/119265810487657596",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR14857547605042266113"
+          },
+          {
+            "creative_id": "CR07065452752196861953",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-02-29T13:12:27.000Z",
+            "last_shown": "2026-10-21T13:49:33.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17019431464590755936",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR07065452752196861953"
+          },
+          {
+            "creative_id": "CR10695333247035899905",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2025-08-06T17:33:03.000Z",
+            "last_shown": "2026-10-21T13:49:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10030884765219612155",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10695333247035899905"
+          },
+          {
+            "creative_id": "CR00746898626705358849",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2024-03-26T01:52:56.000Z",
+            "last_shown": "2026-10-21T13:48:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13883472354774757291",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00746898626705358849"
+          },
+          {
+            "creative_id": "CR12848789407838240769",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2023-11-06T14:57:35.000Z",
+            "last_shown": "2026-10-21T13:48:12.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11087621949162875804",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR12848789407838240769"
+          },
+          {
+            "creative_id": "CR05928722698770317313",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-01-14T09:43:49.000Z",
+            "last_shown": "2026-10-21T13:46:38.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6607690689149268601",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR05928722698770317313"
+          },
+          {
+            "creative_id": "CR00388556972485509121",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-01-15T08:00:00.000Z",
+            "last_shown": "2026-10-21T13:45:56.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3256053199487992471",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR00388556972485509121"
+          },
+          {
+            "creative_id": "CR15083045199242330113",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-07-31T17:44:45.000Z",
+            "last_shown": "2026-10-21T13:45:46.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10684054327655779777",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR15083045199242330113"
+          },
+          {
+            "creative_id": "CR06835742894591049729",
+            "advertiser_id": "AR14921304607844990977",
+            "advertiser_name": "Nexus Veterans",
+            "format": "text",
+            "first_shown": "2026-09-14T18:14:28.000Z",
+            "last_shown": "2026-10-21T13:45:18.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9795839497470295789",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR14921304607844990977/creative/CR06835742894591049729"
+          },
+          {
+            "creative_id": "CR10382581691410546689",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-09-24T11:19:13.000Z",
+            "last_shown": "2026-10-21T13:42:45.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10881651523892378446",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR10382581691410546689"
+          },
+          {
+            "creative_id": "CR12977204385913241601",
+            "advertiser_id": "AR16951989901585285121",
+            "advertiser_name": "Stripe, Inc.",
+            "format": "text",
+            "first_shown": "2026-03-07T10:23:15.000Z",
+            "last_shown": "2026-10-21T13:40:25.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13104540858138877097",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16951989901585285121/creative/CR12977204385913241601"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

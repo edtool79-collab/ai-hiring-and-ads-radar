@@ -1,0 +1,643 @@
+{
+  "domain": "anthropic.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:42:05.228Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 674 open roles, 106 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 5 ads in the sample, Google estimate 5 ads.",
+    "No ad pixels detected on the home page.",
+    "Site platform: Sanity."
+  ],
+  "tech_stack": {
+    "domain": "anthropic.com",
+    "status": "ok",
+    "final_url": "https://www.anthropic.com/",
+    "title": "Home \\ Anthropic",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Cloudflare"
+    ],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": "Sanity",
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [
+      "Google Workspace"
+    ],
+    "dmarc_policy": "reject",
+    "verified_services": [
+      "Google Search Console",
+      "Microsoft 365",
+      "Atlassian",
+      "Stripe",
+      "Slack"
+    ],
+    "technology_count": 4,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:58+00:00"
+  },
+  "hiring_intent": {
+    "domain": "anthropic.com",
+    "status": "ok",
+    "ats_type": "greenhouse",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 674,
+    "remote_roles": 65,
+    "roles_posted_last_30_days": 106,
+    "roles_with_known_post_date": 300,
+    "function_breakdown": {
+      "sales": 63,
+      "other": 79,
+      "engineering": 56,
+      "finance_legal": 28,
+      "data_ai": 20,
+      "operations": 10,
+      "marketing": 16,
+      "customer_success": 25,
+      "product": 2,
+      "design": 1
+    },
+    "department_breakdown": {
+      "Sales": 125,
+      "AI Research & Engineering": 68,
+      "Applied AI": 60,
+      "Finance": 52,
+      "Software Engineering - Infrastructure": 52,
+      "Security": 52,
+      "Engineering & Design - Product": 51,
+      "Safeguards (Trust & Safety)": 42,
+      "Technical Program Management": 27,
+      "Compute": 25
+    },
+    "top_locations": {
+      "San Francisco, CA | New York City, NY": 156,
+      "San Francisco, CA | New York City, NY | Seattle, WA": 103,
+      "San Francisco, CA": 85,
+      "London, UK": 46,
+      "San Francisco, CA | Seattle, WA": 28,
+      "San Francisco, CA | New York City, NY | Washington, DC": 21,
+      "Remote-Friendly, United States": 20,
+      "Tokyo, Japan": 16,
+      "Seoul, South Korea": 13,
+      "Munich, Germany": 12
+    },
+    "top_demanded_technologies": {
+      "LLMs": 241,
+      "Machine Learning": 219,
+      "Python": 199,
+      "AWS": 82,
+      "SQL": 82,
+      "GCP": 81,
+      "Kubernetes": 58,
+      "Rust": 58,
+      "Azure": 45,
+      "Go": 42,
+      "TypeScript": 35,
+      "Generative AI": 34,
+      "CI/CD": 28,
+      "Salesforce": 25,
+      "BigQuery": 19
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Azure",
+        "CI/CD"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Machine Learning",
+        "Generative AI",
+        "BigQuery"
+      ],
+      "databases": [],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Enterprise Account Executive, Industrial",
+        "function": "sales",
+        "department": "Sales",
+        "location": "London, UK",
+        "is_remote": false,
+        "posted_date": "2026-10-21T05:02:14-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454169008"
+      },
+      {
+        "title": "Enterprise Account Executive, Professional Services",
+        "function": "sales",
+        "department": "Sales",
+        "location": "London, UK",
+        "is_remote": false,
+        "posted_date": "2026-10-21T04:57:05-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454188008"
+      },
+      {
+        "title": "Financial Data and Controls Lead, Billing Platform",
+        "function": "other",
+        "department": "Engineering & Design - Product",
+        "location": "San Francisco, CA | New York City, NY",
+        "is_remote": false,
+        "posted_date": "2026-10-20T19:50:11-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459274008"
+      },
+      {
+        "title": "GTM Programs Manager, GTM Initiatives",
+        "function": "other",
+        "department": "Sales",
+        "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+        "is_remote": true,
+        "posted_date": "2026-10-20T19:09:57-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454518008"
+      },
+      {
+        "title": "Corporate Development, Deal Lead",
+        "function": "other",
+        "department": "Finance",
+        "location": "San Francisco, CA",
+        "is_remote": false,
+        "posted_date": "2026-10-20T16:30:12-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008"
+      },
+      {
+        "title": "Manager, Applied AI Cyber Specialists",
+        "function": "other",
+        "department": "Applied AI",
+        "location": "San Francisco, CA | New York City, NY",
+        "is_remote": false,
+        "posted_date": "2026-10-20T16:18:43-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454442008"
+      },
+      {
+        "title": "Manager, Cybersecurity Sales Specialist",
+        "function": "sales",
+        "department": "Sales",
+        "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+        "is_remote": false,
+        "posted_date": "2026-10-20T09:07:35-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5456812008"
+      },
+      {
+        "title": "Enterprise Account Executive, DNB",
+        "function": "sales",
+        "department": "Sales",
+        "location": "London, UK",
+        "is_remote": false,
+        "posted_date": "2026-10-20T07:00:15-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008"
+      },
+      {
+        "title": "Head of GTM Programs EMEA",
+        "function": "other",
+        "department": "Sales",
+        "location": "London, UK",
+        "is_remote": false,
+        "posted_date": "2026-10-19T12:48:34-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390992008"
+      },
+      {
+        "title": "3P Revenue Accounting & Reporting",
+        "function": "sales",
+        "department": "Finance",
+        "location": "San Francisco, CA | Seattle, WA",
+        "is_remote": false,
+        "posted_date": "2026-10-19T11:17:24-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5456619008"
+      }
+    ],
+    "jobs_truncated": true,
+    "checked_at": "2026-10-21T14:42:04Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "anthropic.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:57.736Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR14602123967213862913",
+        "name": "Anthropic, PBC",
+        "ads_in_sample": 3
+      },
+      {
+        "advertiser_id": "AR15899303072422166529",
+        "name": "Anthropic, PBC",
+        "ads_in_sample": 2
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 5,
+      "high": 5
+    },
+    "ads_returned": 5,
+    "ads_shown_last_30_days_in_sample": 5,
+    "formats_in_sample": {
+      "video": 5
+    },
+    "earliest_first_shown_in_sample": "2026-09-22T21:43:02.000Z",
+    "latest_last_shown_in_sample": "2026-10-20T06:59:58.000Z",
+    "ads": [
+      {
+        "creative_id": "CR02850701641261252609",
+        "advertiser_id": "AR14602123967213862913",
+        "advertiser_name": "Anthropic, PBC",
+        "format": "video",
+        "first_shown": "2026-09-22T21:57:41.000Z",
+        "last_shown": "2026-10-20T06:59:58.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825648764626&uiFeatures=12,54&adGroupId=201002732300&versionId=2&assets=%3DH4sIAAAAAAAAAOMy5-LkuH_pzOkGLgFNLk6OD9-3PlzNI8DDxcnxqBPMZOTi5Lhx5P-jU1wCHFycHJ-2f5vXwCXABgCt22XuOQAAAA&sig=ACiVB_zkx8u3Q6KUEI0qeBXi8AAMgOYQXQ&htmlParentId=fletch-render-10005632442182789036&responseCallback=fletchCallback10005632442182789036",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR02850701641261252609"
+      },
+      {
+        "creative_id": "CR12971415903869599745",
+        "advertiser_id": "AR14602123967213862913",
+        "advertiser_name": "Anthropic, PBC",
+        "format": "video",
+        "first_shown": "2026-09-22T21:43:02.000Z",
+        "last_shown": "2026-10-20T06:59:58.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825607721199&uiFeatures=12,54&adGroupId=201002732300&versionId=2&assets=%3DH4sIAAAAAAAAAAE5AMb_CjcKCQjLl6ixqwwQDAoJCPK39p6AChAGCgkI2MT_4soKEAgKCQjf0szLgAoQKQoJCOKJteGrDBAB7-9QkDkAAAA&sig=ACiVB_wtQZ7NBhDbnjm4FoCSf1nfLfjEdQ&htmlParentId=fletch-render-3906666711458566778&responseCallback=fletchCallback3906666711458566778",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR12971415903869599745"
+      },
+      {
+        "creative_id": "CR17596049771225677825",
+        "advertiser_id": "AR14602123967213862913",
+        "advertiser_name": "Anthropic, PBC",
+        "format": "video",
+        "first_shown": "2026-09-22T21:56:46.000Z",
+        "last_shown": "2026-10-20T06:59:40.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825607762542&uiFeatures=12,54&adGroupId=201806631593&versionId=2&assets=%3DH4sIAAAAAAAAAAE5AMb_CjcKCQjYxP_iygoQCAoJCPK39p6AChAGCgkI39LMy4AKECkKCQjLl6ixqwwQDAoJCOKJteGrDBABuu3XQjkAAAA&sig=ACiVB_zw2z--552HYYIh2RxgWiu7a7rD-w&htmlParentId=fletch-render-12855530853674584642&responseCallback=fletchCallback12855530853674584642",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR17596049771225677825"
+      },
+      {
+        "creative_id": "CR13690588867411836929",
+        "advertiser_id": "AR15899303072422166529",
+        "advertiser_name": "Anthropic, PBC",
+        "format": "video",
+        "first_shown": "2026-09-25T18:31:37.000Z",
+        "last_shown": "2026-10-01T06:59:53.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496332452&creativeId=825890074040&uiFeatures=12,54&adGroupId=206110871008&assets=%3DH4sIAAAAAAAAAOPy5eLkWLx63suf3AJsXJwcH6_u7F_LI8DIxcmxcc_xD2t4BJi5ODmeHlkEUsDBxcnx_NWmCWt5BHi4ODk-f_wxfS2PABNI24R9ILWaAJnAqQBPAAAA&sig=ACiVB_xjoft1hH6OsXzjoMQVTuIIn4J0ug&htmlParentId=fletch-render-13697445295213119694&responseCallback=fletchCallback13697445295213119694",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15899303072422166529/creative/CR13690588867411836929"
+      },
+      {
+        "creative_id": "CR11000532514988097537",
+        "advertiser_id": "AR15899303072422166529",
+        "advertiser_name": "Anthropic, PBC",
+        "format": "video",
+        "first_shown": "2026-09-25T18:31:45.000Z",
+        "last_shown": "2026-10-01T06:59:53.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496332452&creativeId=825890074043&uiFeatures=12,54&adGroupId=206110871008&assets=%3DH4sIAAAAAAAAAONy4uLk-Dhh34c1PAKaXJwcT48sevmTW4CDi5NjZs-f-2t4BHi4ODk-f_wxfS2PABMXJ8fGPcdBapm5ODkWr54HUssGAE0NYA1EAAAA&sig=ACiVB_x4R2aQlg3aPbvwey293F6qgDDmwA&htmlParentId=fletch-render-7070012258501043376&responseCallback=fletchCallback7070012258501043376",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15899303072422166529/creative/CR11000532514988097537"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "anthropic.com",
+        "status": "ok",
+        "final_url": "https://www.anthropic.com/",
+        "title": "Home \\ Anthropic",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Cloudflare"
+        ],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": "Sanity",
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [
+          "Google Workspace"
+        ],
+        "dmarc_policy": "reject",
+        "verified_services": [
+          "Google Search Console",
+          "Microsoft 365",
+          "Atlassian",
+          "Stripe",
+          "Slack"
+        ],
+        "technology_count": 4,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:58+00:00"
+      },
+      "hiring_intent": {
+        "domain": "anthropic.com",
+        "status": "ok",
+        "ats_type": "greenhouse",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 674,
+        "remote_roles": 65,
+        "roles_posted_last_30_days": 106,
+        "roles_with_known_post_date": 300,
+        "function_breakdown": {
+          "sales": 63,
+          "other": 79,
+          "engineering": 56,
+          "finance_legal": 28,
+          "data_ai": 20,
+          "operations": 10,
+          "marketing": 16,
+          "customer_success": 25,
+          "product": 2,
+          "design": 1
+        },
+        "department_breakdown": {
+          "Sales": 125,
+          "AI Research & Engineering": 68,
+          "Applied AI": 60,
+          "Finance": 52,
+          "Software Engineering - Infrastructure": 52,
+          "Security": 52,
+          "Engineering & Design - Product": 51,
+          "Safeguards (Trust & Safety)": 42,
+          "Technical Program Management": 27,
+          "Compute": 25
+        },
+        "top_locations": {
+          "San Francisco, CA | New York City, NY": 156,
+          "San Francisco, CA | New York City, NY | Seattle, WA": 103,
+          "San Francisco, CA": 85,
+          "London, UK": 46,
+          "San Francisco, CA | Seattle, WA": 28,
+          "San Francisco, CA | New York City, NY | Washington, DC": 21,
+          "Remote-Friendly, United States": 20,
+          "Tokyo, Japan": 16,
+          "Seoul, South Korea": 13,
+          "Munich, Germany": 12
+        },
+        "top_demanded_technologies": {
+          "LLMs": 241,
+          "Machine Learning": 219,
+          "Python": 199,
+          "AWS": 82,
+          "SQL": 82,
+          "GCP": 81,
+          "Kubernetes": 58,
+          "Rust": 58,
+          "Azure": 45,
+          "Go": 42,
+          "TypeScript": 35,
+          "Generative AI": 34,
+          "CI/CD": 28,
+          "Salesforce": 25,
+          "BigQuery": 19
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS",
+            "GCP",
+            "Kubernetes",
+            "Azure",
+            "CI/CD"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Machine Learning",
+            "Generative AI",
+            "BigQuery"
+          ],
+          "databases": [],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Enterprise Account Executive, Industrial",
+            "function": "sales",
+            "department": "Sales",
+            "location": "London, UK",
+            "is_remote": false,
+            "posted_date": "2026-10-21T05:02:14-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454169008"
+          },
+          {
+            "title": "Enterprise Account Executive, Professional Services",
+            "function": "sales",
+            "department": "Sales",
+            "location": "London, UK",
+            "is_remote": false,
+            "posted_date": "2026-10-21T04:57:05-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454188008"
+          },
+          {
+            "title": "Financial Data and Controls Lead, Billing Platform",
+            "function": "other",
+            "department": "Engineering & Design - Product",
+            "location": "San Francisco, CA | New York City, NY",
+            "is_remote": false,
+            "posted_date": "2026-10-20T19:50:11-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459274008"
+          },
+          {
+            "title": "GTM Programs Manager, GTM Initiatives",
+            "function": "other",
+            "department": "Sales",
+            "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+            "is_remote": true,
+            "posted_date": "2026-10-20T19:09:57-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454518008"
+          },
+          {
+            "title": "Corporate Development, Deal Lead",
+            "function": "other",
+            "department": "Finance",
+            "location": "San Francisco, CA",
+            "is_remote": false,
+            "posted_date": "2026-10-20T16:30:12-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008"
+          },
+          {
+            "title": "Manager, Applied AI Cyber Specialists",
+            "function": "other",
+            "department": "Applied AI",
+            "location": "San Francisco, CA | New York City, NY",
+            "is_remote": false,
+            "posted_date": "2026-10-20T16:18:43-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454442008"
+          },
+          {
+            "title": "Manager, Cybersecurity Sales Specialist",
+            "function": "sales",
+            "department": "Sales",
+            "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+            "is_remote": false,
+            "posted_date": "2026-10-20T09:07:35-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5456812008"
+          },
+          {
+            "title": "Enterprise Account Executive, DNB",
+            "function": "sales",
+            "department": "Sales",
+            "location": "London, UK",
+            "is_remote": false,
+            "posted_date": "2026-10-20T07:00:15-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008"
+          },
+          {
+            "title": "Head of GTM Programs EMEA",
+            "function": "other",
+            "department": "Sales",
+            "location": "London, UK",
+            "is_remote": false,
+            "posted_date": "2026-10-19T12:48:34-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390992008"
+          },
+          {
+            "title": "3P Revenue Accounting & Reporting",
+            "function": "sales",
+            "department": "Finance",
+            "location": "San Francisco, CA | Seattle, WA",
+            "is_remote": false,
+            "posted_date": "2026-10-19T11:17:24-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5456619008"
+          }
+        ],
+        "jobs_truncated": true,
+        "checked_at": "2026-10-21T14:42:04Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "anthropic.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:57.736Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR14602123967213862913",
+            "name": "Anthropic, PBC",
+            "ads_in_sample": 3
+          },
+          {
+            "advertiser_id": "AR15899303072422166529",
+            "name": "Anthropic, PBC",
+            "ads_in_sample": 2
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 5,
+          "high": 5
+        },
+        "ads_returned": 5,
+        "ads_shown_last_30_days_in_sample": 5,
+        "formats_in_sample": {
+          "video": 5
+        },
+        "earliest_first_shown_in_sample": "2026-09-22T21:43:02.000Z",
+        "latest_last_shown_in_sample": "2026-10-20T06:59:58.000Z",
+        "ads": [
+          {
+            "creative_id": "CR02850701641261252609",
+            "advertiser_id": "AR14602123967213862913",
+            "advertiser_name": "Anthropic, PBC",
+            "format": "video",
+            "first_shown": "2026-09-22T21:57:41.000Z",
+            "last_shown": "2026-10-20T06:59:58.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825648764626&uiFeatures=12,54&adGroupId=201002732300&versionId=2&assets=%3DH4sIAAAAAAAAAOMy5-LkuH_pzOkGLgFNLk6OD9-3PlzNI8DDxcnxqBPMZOTi5Lhx5P-jU1wCHFycHJ-2f5vXwCXABgCt22XuOQAAAA&sig=ACiVB_zkx8u3Q6KUEI0qeBXi8AAMgOYQXQ&htmlParentId=fletch-render-10005632442182789036&responseCallback=fletchCallback10005632442182789036",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR02850701641261252609"
+          },
+          {
+            "creative_id": "CR12971415903869599745",
+            "advertiser_id": "AR14602123967213862913",
+            "advertiser_name": "Anthropic, PBC",
+            "format": "video",
+            "first_shown": "2026-09-22T21:43:02.000Z",
+            "last_shown": "2026-10-20T06:59:58.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825607721199&uiFeatures=12,54&adGroupId=201002732300&versionId=2&assets=%3DH4sIAAAAAAAAAAE5AMb_CjcKCQjLl6ixqwwQDAoJCPK39p6AChAGCgkI2MT_4soKEAgKCQjf0szLgAoQKQoJCOKJteGrDBAB7-9QkDkAAAA&sig=ACiVB_wtQZ7NBhDbnjm4FoCSf1nfLfjEdQ&htmlParentId=fletch-render-3906666711458566778&responseCallback=fletchCallback3906666711458566778",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR12971415903869599745"
+          },
+          {
+            "creative_id": "CR17596049771225677825",
+            "advertiser_id": "AR14602123967213862913",
+            "advertiser_name": "Anthropic, PBC",
+            "format": "video",
+            "first_shown": "2026-09-22T21:56:46.000Z",
+            "last_shown": "2026-10-20T06:59:40.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9570492613&creativeId=825607762542&uiFeatures=12,54&adGroupId=201806631593&versionId=2&assets=%3DH4sIAAAAAAAAAAE5AMb_CjcKCQjYxP_iygoQCAoJCPK39p6AChAGCgkI39LMy4AKECkKCQjLl6ixqwwQDAoJCOKJteGrDBABuu3XQjkAAAA&sig=ACiVB_zw2z--552HYYIh2RxgWiu7a7rD-w&htmlParentId=fletch-render-12855530853674584642&responseCallback=fletchCallback12855530853674584642",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR14602123967213862913/creative/CR17596049771225677825"
+          },
+          {
+            "creative_id": "CR13690588867411836929",
+            "advertiser_id": "AR15899303072422166529",
+            "advertiser_name": "Anthropic, PBC",
+            "format": "video",
+            "first_shown": "2026-09-25T18:31:37.000Z",
+            "last_shown": "2026-10-01T06:59:53.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496332452&creativeId=825890074040&uiFeatures=12,54&adGroupId=206110871008&assets=%3DH4sIAAAAAAAAAOPy5eLkWLx63suf3AJsXJwcH6_u7F_LI8DIxcmxcc_xD2t4BJi5ODmeHlkEUsDBxcnx_NWmCWt5BHi4ODk-f_wxfS2PABNI24R9ILWaAJnAqQBPAAAA&sig=ACiVB_xjoft1hH6OsXzjoMQVTuIIn4J0ug&htmlParentId=fletch-render-13697445295213119694&responseCallback=fletchCallback13697445295213119694",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15899303072422166529/creative/CR13690588867411836929"
+          },
+          {
+            "creative_id": "CR11000532514988097537",
+            "advertiser_id": "AR15899303072422166529",
+            "advertiser_name": "Anthropic, PBC",
+            "format": "video",
+            "first_shown": "2026-09-25T18:31:45.000Z",
+            "last_shown": "2026-10-01T06:59:53.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=5496332452&creativeId=825890074043&uiFeatures=12,54&adGroupId=206110871008&assets=%3DH4sIAAAAAAAAAONy4uLk-Dhh34c1PAKaXJwcT48sevmTW4CDi5NjZs-f-2t4BHi4ODk-f_wxfS2PABMXJ8fGPcdBapm5ODkWr54HUssGAE0NYA1EAAAA&sig=ACiVB_x4R2aQlg3aPbvwey293F6qgDDmwA&htmlParentId=fletch-render-7070012258501043376&responseCallback=fletchCallback7070012258501043376",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15899303072422166529/creative/CR11000532514988097537"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

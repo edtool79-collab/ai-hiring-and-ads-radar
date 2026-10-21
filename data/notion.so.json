@@ -1,0 +1,869 @@
+{
+  "domain": "notion.so",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:41:57.733Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 135 open roles, 37 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 13 ads in the sample, Google estimate 13 ads.",
+    "No ad pixels detected on the home page.",
+    "Site platform: Contentful."
+  ],
+  "tech_stack": {
+    "domain": "notion.so",
+    "status": "ok",
+    "final_url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Cloudflare",
+      "Vercel"
+    ],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": "Contentful",
+    "ecommerce": null,
+    "email_provider": null,
+    "spf_senders": [],
+    "dmarc_policy": "quarantine",
+    "verified_services": [
+      "Google Search Console",
+      "Meta Business"
+    ],
+    "technology_count": 5,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:55+00:00"
+  },
+  "hiring_intent": {
+    "domain": "notion.so",
+    "status": "ok",
+    "ats_type": "ashby",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 135,
+    "remote_roles": 84,
+    "roles_posted_last_30_days": 37,
+    "roles_with_known_post_date": 135,
+    "function_breakdown": {
+      "engineering": 35,
+      "sales": 20,
+      "design": 1,
+      "other": 38,
+      "operations": 5,
+      "customer_success": 12,
+      "marketing": 6,
+      "data_ai": 1,
+      "product": 5,
+      "people": 6,
+      "finance_legal": 6
+    },
+    "department_breakdown": {
+      "Sales": 47,
+      "People": 16,
+      "Outcomes Architect": 15,
+      "Engineering": 14,
+      "Early Career": 8,
+      "Finance": 8,
+      "Marketing": 8,
+      "Security": 5,
+      "Revenue Operations & Strategy": 4,
+      "Customer Experience": 3
+    },
+    "top_locations": {
+      "San Francisco, California": 60,
+      "Dublin, Ireland": 20,
+      "Tokyo, Japan": 18,
+      "New York, New York": 15,
+      "Paris, France": 7,
+      "Seoul, South Korea": 5,
+      "London, United Kingdom": 4,
+      "Munich, Germany": 3,
+      "Hyderabad, India": 2,
+      "Sydney, Australia": 1
+    },
+    "top_demanded_technologies": {
+      "Python": 16,
+      "LLMs": 15,
+      "TypeScript": 15,
+      "Salesforce": 15,
+      "Machine Learning": 13,
+      "Node.js": 13,
+      "SQL": 12,
+      "React": 9,
+      "JavaScript": 7,
+      "AWS": 7,
+      "Java": 6,
+      "PostgreSQL": 6,
+      "Azure": 5,
+      "GCP": 5,
+      "MySQL": 5
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Machine Learning"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Startup Market Lead, AMER",
+        "function": "other",
+        "department": "Marketing",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-10-19T18:33:11.014+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/3129e7bd-f717-47d3-9fdd-c4df026bbf20"
+      },
+      {
+        "title": "Sales Strategy & Operations Manager, APAC",
+        "function": "sales",
+        "department": "Revenue Operations & Strategy",
+        "location": "Tokyo, Japan",
+        "is_remote": true,
+        "posted_date": "2026-10-19T02:21:21.108+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/b393c25a-2ce7-458d-800a-bf9e75ed070b"
+      },
+      {
+        "title": "Product Manager, Connections",
+        "function": "product",
+        "department": "Product Management",
+        "location": "San Francisco, California",
+        "is_remote": false,
+        "posted_date": "2026-10-14T21:09:33.835+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126"
+      },
+      {
+        "title": "Lifecycle Marketing Manager, Campaign Strategy & Execution",
+        "function": "marketing",
+        "department": "Marketing",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-10-14T15:38:27.470+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082"
+      },
+      {
+        "title": "Manager, Sales Development",
+        "function": "sales",
+        "department": "Sales",
+        "location": "New York, New York",
+        "is_remote": true,
+        "posted_date": "2026-10-13T16:06:03.263+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399"
+      },
+      {
+        "title": "Head of Sales Recruiting, AMER",
+        "function": "sales",
+        "department": "People",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-10-02T19:36:35.407+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/e9827815-0e9a-489f-a121-41ae83f54f77"
+      },
+      {
+        "title": "Senior Accountant - Corporate Accounting",
+        "function": "finance_legal",
+        "department": "Finance",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-10-02T16:52:26.788+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/b49d4c15-d716-4a52-8858-1a89319f3191"
+      },
+      {
+        "title": "Global Security Program Manager",
+        "function": "product",
+        "department": "Security",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-09-30T22:37:49.770+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f"
+      },
+      {
+        "title": "Strategic Finance, AI & Business Partnership",
+        "function": "sales",
+        "department": "Finance",
+        "location": "San Francisco, California",
+        "is_remote": true,
+        "posted_date": "2026-09-30T21:24:37.822+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/4e7b3471-20b7-4a37-8455-8b2735bfaf26"
+      },
+      {
+        "title": "Global Head of Land Revenue",
+        "function": "sales",
+        "department": "Sales",
+        "location": "San Francisco, California",
+        "is_remote": false,
+        "posted_date": "2026-09-30T19:19:51.852+00:00",
+        "apply_url": "https://jobs.ashbyhq.com/notion/33ca1c55-e2e4-49a2-a09f-68c83cb540e3"
+      }
+    ],
+    "jobs_truncated": false,
+    "checked_at": "2026-10-21T14:41:57Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "notion.so",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:54.409Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR10942234166510485505",
+        "name": "BlueVision Interactive Limited",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR06400702358644326401",
+        "name": "Nolan Properties PTY Limited",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR05527533445783224321",
+        "name": "NEPEAN REGIONAL SECURITY PTY LIMITED",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR08971177475698589697",
+        "name": "Westlake Canada Inc",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR10888897372843147265",
+        "name": "Notion Labs Japan合同会社",
+        "ads_in_sample": 5
+      },
+      {
+        "advertiser_id": "AR06304540033751711745",
+        "name": "AIDOS MUKHSIYNOV",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR14306620364594085889",
+        "name": "VINICIUS DE SOUZA SILVA",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR06288951011864215553",
+        "name": "Innov8tif Solutions Sdn Bhd",
+        "ads_in_sample": 1
+      },
+      {
+        "advertiser_id": "AR16391915617747206145",
+        "name": "DFS COMERCIO DE MOTOS LTDA",
+        "ads_in_sample": 1
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 13,
+      "high": 13
+    },
+    "ads_returned": 13,
+    "ads_shown_last_30_days_in_sample": 0,
+    "formats_in_sample": {
+      "text": 9,
+      "image": 3,
+      "video": 1
+    },
+    "earliest_first_shown_in_sample": "2024-09-11T16:37:12.000Z",
+    "latest_last_shown_in_sample": "2026-09-02T09:56:46.000Z",
+    "ads": [
+      {
+        "creative_id": "CR06801101131490525185",
+        "advertiser_id": "AR10942234166510485505",
+        "advertiser_name": "BlueVision Interactive Limited",
+        "format": "text",
+        "first_shown": "2026-07-14T07:36:48.000Z",
+        "last_shown": "2026-09-02T09:56:46.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3828058830408460589",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10942234166510485505/creative/CR06801101131490525185"
+      },
+      {
+        "creative_id": "CR14577794523670249473",
+        "advertiser_id": "AR06400702358644326401",
+        "advertiser_name": "Nolan Properties PTY Limited",
+        "format": "text",
+        "first_shown": "2026-04-27T18:34:03.000Z",
+        "last_shown": "2026-05-01T14:00:28.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2029085611025861156",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR06400702358644326401/creative/CR14577794523670249473"
+      },
+      {
+        "creative_id": "CR17661049428326219777",
+        "advertiser_id": "AR05527533445783224321",
+        "advertiser_name": "NEPEAN REGIONAL SECURITY PTY LIMITED",
+        "format": "text",
+        "first_shown": "2026-04-24T00:46:08.000Z",
+        "last_shown": "2026-05-01T10:14:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16058539502355674391",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR05527533445783224321/creative/CR17661049428326219777"
+      },
+      {
+        "creative_id": "CR03416489262395162625",
+        "advertiser_id": "AR08971177475698589697",
+        "advertiser_name": "Westlake Canada Inc",
+        "format": "text",
+        "first_shown": "2026-04-29T01:21:07.000Z",
+        "last_shown": "2026-04-29T23:50:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17771262703359007730",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR08971177475698589697/creative/CR03416489262395162625"
+      },
+      {
+        "creative_id": "CR01458448993959804929",
+        "advertiser_id": "AR10888897372843147265",
+        "advertiser_name": "Notion Labs Japan合同会社",
+        "format": "image",
+        "first_shown": "2026-04-04T18:59:21.000Z",
+        "last_shown": "2026-04-21T14:59:58.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13309407416081113412",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR01458448993959804929"
+      },
+      {
+        "creative_id": "CR08388038289768054785",
+        "advertiser_id": "AR10888897372843147265",
+        "advertiser_name": "Notion Labs Japan合同会社",
+        "format": "text",
+        "first_shown": "2026-04-04T02:46:25.000Z",
+        "last_shown": "2026-04-21T14:39:59.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17601278650391276273",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR08388038289768054785"
+      },
+      {
+        "creative_id": "CR01507650764913246209",
+        "advertiser_id": "AR10888897372843147265",
+        "advertiser_name": "Notion Labs Japan合同会社",
+        "format": "text",
+        "first_shown": "2026-04-05T15:14:05.000Z",
+        "last_shown": "2026-04-21T14:15:16.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4519942472704741096",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR01507650764913246209"
+      },
+      {
+        "creative_id": "CR16950833911137566721",
+        "advertiser_id": "AR10888897372843147265",
+        "advertiser_name": "Notion Labs Japan合同会社",
+        "format": "image",
+        "first_shown": "2026-04-03T12:35:36.000Z",
+        "last_shown": "2026-04-21T12:32:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2674139559227897673",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR16950833911137566721"
+      },
+      {
+        "creative_id": "CR10907388040276082689",
+        "advertiser_id": "AR10888897372843147265",
+        "advertiser_name": "Notion Labs Japan合同会社",
+        "format": "video",
+        "first_shown": "2026-04-03T10:53:29.000Z",
+        "last_shown": "2026-04-21T10:55:02.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4821970388&creativeId=803650235185&uiFeatures=12,54&adGroupId=195594139152&sig=ACiVB_yvxa266BLC-oCjV97c4R-RCXNNKQ&htmlParentId=fletch-render-16102414616528929772&responseCallback=fletchCallback16102414616528929772",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR10907388040276082689"
+      },
+      {
+        "creative_id": "CR11087411079091847169",
+        "advertiser_id": "AR06304540033751711745",
+        "advertiser_name": "AIDOS MUKHSIYNOV",
+        "format": "text",
+        "first_shown": "2026-03-30T22:11:48.000Z",
+        "last_shown": "2026-04-02T21:54:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13869075636439518585",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR06304540033751711745/creative/CR11087411079091847169"
+      },
+      {
+        "creative_id": "CR00928035556699406337",
+        "advertiser_id": "AR14306620364594085889",
+        "advertiser_name": "VINICIUS DE SOUZA SILVA",
+        "format": "text",
+        "first_shown": "2025-08-01T07:00:00.000Z",
+        "last_shown": "2025-11-02T09:51:57.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17035895733158489998",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR14306620364594085889/creative/CR00928035556699406337"
+      },
+      {
+        "creative_id": "CR02150452346574864385",
+        "advertiser_id": "AR06288951011864215553",
+        "advertiser_name": "Innov8tif Solutions Sdn Bhd",
+        "format": "text",
+        "first_shown": "2024-09-11T16:37:12.000Z",
+        "last_shown": "2025-10-30T03:34:14.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8888461352076778409",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR06288951011864215553/creative/CR02150452346574864385"
+      },
+      {
+        "creative_id": "CR15829105525640921089",
+        "advertiser_id": "AR16391915617747206145",
+        "advertiser_name": "DFS COMERCIO DE MOTOS LTDA",
+        "format": "image",
+        "first_shown": "2025-09-05T11:26:26.000Z",
+        "last_shown": "2025-10-24T07:10:46.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10794168058424332838",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR16391915617747206145/creative/CR15829105525640921089"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "notion.so",
+        "status": "ok",
+        "final_url": "https://www.notion.com/",
+        "title": "The AI workspace that works for you. | Notion",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Cloudflare",
+          "Vercel"
+        ],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": "Contentful",
+        "ecommerce": null,
+        "email_provider": null,
+        "spf_senders": [],
+        "dmarc_policy": "quarantine",
+        "verified_services": [
+          "Google Search Console",
+          "Meta Business"
+        ],
+        "technology_count": 5,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:55+00:00"
+      },
+      "hiring_intent": {
+        "domain": "notion.so",
+        "status": "ok",
+        "ats_type": "ashby",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 135,
+        "remote_roles": 84,
+        "roles_posted_last_30_days": 37,
+        "roles_with_known_post_date": 135,
+        "function_breakdown": {
+          "engineering": 35,
+          "sales": 20,
+          "design": 1,
+          "other": 38,
+          "operations": 5,
+          "customer_success": 12,
+          "marketing": 6,
+          "data_ai": 1,
+          "product": 5,
+          "people": 6,
+          "finance_legal": 6
+        },
+        "department_breakdown": {
+          "Sales": 47,
+          "People": 16,
+          "Outcomes Architect": 15,
+          "Engineering": 14,
+          "Early Career": 8,
+          "Finance": 8,
+          "Marketing": 8,
+          "Security": 5,
+          "Revenue Operations & Strategy": 4,
+          "Customer Experience": 3
+        },
+        "top_locations": {
+          "San Francisco, California": 60,
+          "Dublin, Ireland": 20,
+          "Tokyo, Japan": 18,
+          "New York, New York": 15,
+          "Paris, France": 7,
+          "Seoul, South Korea": 5,
+          "London, United Kingdom": 4,
+          "Munich, Germany": 3,
+          "Hyderabad, India": 2,
+          "Sydney, Australia": 1
+        },
+        "top_demanded_technologies": {
+          "Python": 16,
+          "LLMs": 15,
+          "TypeScript": 15,
+          "Salesforce": 15,
+          "Machine Learning": 13,
+          "Node.js": 13,
+          "SQL": 12,
+          "React": 9,
+          "JavaScript": 7,
+          "AWS": 7,
+          "Java": 6,
+          "PostgreSQL": 6,
+          "Azure": 5,
+          "GCP": 5,
+          "MySQL": 5
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS",
+            "Azure",
+            "GCP"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Machine Learning"
+          ],
+          "databases": [
+            "PostgreSQL",
+            "MySQL"
+          ],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Startup Market Lead, AMER",
+            "function": "other",
+            "department": "Marketing",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-10-19T18:33:11.014+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/3129e7bd-f717-47d3-9fdd-c4df026bbf20"
+          },
+          {
+            "title": "Sales Strategy & Operations Manager, APAC",
+            "function": "sales",
+            "department": "Revenue Operations & Strategy",
+            "location": "Tokyo, Japan",
+            "is_remote": true,
+            "posted_date": "2026-10-19T02:21:21.108+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/b393c25a-2ce7-458d-800a-bf9e75ed070b"
+          },
+          {
+            "title": "Product Manager, Connections",
+            "function": "product",
+            "department": "Product Management",
+            "location": "San Francisco, California",
+            "is_remote": false,
+            "posted_date": "2026-10-14T21:09:33.835+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126"
+          },
+          {
+            "title": "Lifecycle Marketing Manager, Campaign Strategy & Execution",
+            "function": "marketing",
+            "department": "Marketing",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-10-14T15:38:27.470+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082"
+          },
+          {
+            "title": "Manager, Sales Development",
+            "function": "sales",
+            "department": "Sales",
+            "location": "New York, New York",
+            "is_remote": true,
+            "posted_date": "2026-10-13T16:06:03.263+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399"
+          },
+          {
+            "title": "Head of Sales Recruiting, AMER",
+            "function": "sales",
+            "department": "People",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-10-02T19:36:35.407+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/e9827815-0e9a-489f-a121-41ae83f54f77"
+          },
+          {
+            "title": "Senior Accountant - Corporate Accounting",
+            "function": "finance_legal",
+            "department": "Finance",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-10-02T16:52:26.788+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/b49d4c15-d716-4a52-8858-1a89319f3191"
+          },
+          {
+            "title": "Global Security Program Manager",
+            "function": "product",
+            "department": "Security",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-09-30T22:37:49.770+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f"
+          },
+          {
+            "title": "Strategic Finance, AI & Business Partnership",
+            "function": "sales",
+            "department": "Finance",
+            "location": "San Francisco, California",
+            "is_remote": true,
+            "posted_date": "2026-09-30T21:24:37.822+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/4e7b3471-20b7-4a37-8455-8b2735bfaf26"
+          },
+          {
+            "title": "Global Head of Land Revenue",
+            "function": "sales",
+            "department": "Sales",
+            "location": "San Francisco, California",
+            "is_remote": false,
+            "posted_date": "2026-09-30T19:19:51.852+00:00",
+            "apply_url": "https://jobs.ashbyhq.com/notion/33ca1c55-e2e4-49a2-a09f-68c83cb540e3"
+          }
+        ],
+        "jobs_truncated": false,
+        "checked_at": "2026-10-21T14:41:57Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "notion.so",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:54.409Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR10942234166510485505",
+            "name": "BlueVision Interactive Limited",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR06400702358644326401",
+            "name": "Nolan Properties PTY Limited",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR05527533445783224321",
+            "name": "NEPEAN REGIONAL SECURITY PTY LIMITED",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR08971177475698589697",
+            "name": "Westlake Canada Inc",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR10888897372843147265",
+            "name": "Notion Labs Japan合同会社",
+            "ads_in_sample": 5
+          },
+          {
+            "advertiser_id": "AR06304540033751711745",
+            "name": "AIDOS MUKHSIYNOV",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR14306620364594085889",
+            "name": "VINICIUS DE SOUZA SILVA",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR06288951011864215553",
+            "name": "Innov8tif Solutions Sdn Bhd",
+            "ads_in_sample": 1
+          },
+          {
+            "advertiser_id": "AR16391915617747206145",
+            "name": "DFS COMERCIO DE MOTOS LTDA",
+            "ads_in_sample": 1
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 13,
+          "high": 13
+        },
+        "ads_returned": 13,
+        "ads_shown_last_30_days_in_sample": 0,
+        "formats_in_sample": {
+          "text": 9,
+          "image": 3,
+          "video": 1
+        },
+        "earliest_first_shown_in_sample": "2024-09-11T16:37:12.000Z",
+        "latest_last_shown_in_sample": "2026-09-02T09:56:46.000Z",
+        "ads": [
+          {
+            "creative_id": "CR06801101131490525185",
+            "advertiser_id": "AR10942234166510485505",
+            "advertiser_name": "BlueVision Interactive Limited",
+            "format": "text",
+            "first_shown": "2026-07-14T07:36:48.000Z",
+            "last_shown": "2026-09-02T09:56:46.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3828058830408460589",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10942234166510485505/creative/CR06801101131490525185"
+          },
+          {
+            "creative_id": "CR14577794523670249473",
+            "advertiser_id": "AR06400702358644326401",
+            "advertiser_name": "Nolan Properties PTY Limited",
+            "format": "text",
+            "first_shown": "2026-04-27T18:34:03.000Z",
+            "last_shown": "2026-05-01T14:00:28.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2029085611025861156",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR06400702358644326401/creative/CR14577794523670249473"
+          },
+          {
+            "creative_id": "CR17661049428326219777",
+            "advertiser_id": "AR05527533445783224321",
+            "advertiser_name": "NEPEAN REGIONAL SECURITY PTY LIMITED",
+            "format": "text",
+            "first_shown": "2026-04-24T00:46:08.000Z",
+            "last_shown": "2026-05-01T10:14:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16058539502355674391",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR05527533445783224321/creative/CR17661049428326219777"
+          },
+          {
+            "creative_id": "CR03416489262395162625",
+            "advertiser_id": "AR08971177475698589697",
+            "advertiser_name": "Westlake Canada Inc",
+            "format": "text",
+            "first_shown": "2026-04-29T01:21:07.000Z",
+            "last_shown": "2026-04-29T23:50:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17771262703359007730",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR08971177475698589697/creative/CR03416489262395162625"
+          },
+          {
+            "creative_id": "CR01458448993959804929",
+            "advertiser_id": "AR10888897372843147265",
+            "advertiser_name": "Notion Labs Japan合同会社",
+            "format": "image",
+            "first_shown": "2026-04-04T18:59:21.000Z",
+            "last_shown": "2026-04-21T14:59:58.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13309407416081113412",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR01458448993959804929"
+          },
+          {
+            "creative_id": "CR08388038289768054785",
+            "advertiser_id": "AR10888897372843147265",
+            "advertiser_name": "Notion Labs Japan合同会社",
+            "format": "text",
+            "first_shown": "2026-04-04T02:46:25.000Z",
+            "last_shown": "2026-04-21T14:39:59.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17601278650391276273",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR08388038289768054785"
+          },
+          {
+            "creative_id": "CR01507650764913246209",
+            "advertiser_id": "AR10888897372843147265",
+            "advertiser_name": "Notion Labs Japan合同会社",
+            "format": "text",
+            "first_shown": "2026-04-05T15:14:05.000Z",
+            "last_shown": "2026-04-21T14:15:16.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4519942472704741096",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR01507650764913246209"
+          },
+          {
+            "creative_id": "CR16950833911137566721",
+            "advertiser_id": "AR10888897372843147265",
+            "advertiser_name": "Notion Labs Japan合同会社",
+            "format": "image",
+            "first_shown": "2026-04-03T12:35:36.000Z",
+            "last_shown": "2026-04-21T12:32:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2674139559227897673",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR16950833911137566721"
+          },
+          {
+            "creative_id": "CR10907388040276082689",
+            "advertiser_id": "AR10888897372843147265",
+            "advertiser_name": "Notion Labs Japan合同会社",
+            "format": "video",
+            "first_shown": "2026-04-03T10:53:29.000Z",
+            "last_shown": "2026-04-21T10:55:02.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4821970388&creativeId=803650235185&uiFeatures=12,54&adGroupId=195594139152&sig=ACiVB_yvxa266BLC-oCjV97c4R-RCXNNKQ&htmlParentId=fletch-render-16102414616528929772&responseCallback=fletchCallback16102414616528929772",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR10888897372843147265/creative/CR10907388040276082689"
+          },
+          {
+            "creative_id": "CR11087411079091847169",
+            "advertiser_id": "AR06304540033751711745",
+            "advertiser_name": "AIDOS MUKHSIYNOV",
+            "format": "text",
+            "first_shown": "2026-03-30T22:11:48.000Z",
+            "last_shown": "2026-04-02T21:54:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13869075636439518585",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR06304540033751711745/creative/CR11087411079091847169"
+          },
+          {
+            "creative_id": "CR00928035556699406337",
+            "advertiser_id": "AR14306620364594085889",
+            "advertiser_name": "VINICIUS DE SOUZA SILVA",
+            "format": "text",
+            "first_shown": "2025-08-01T07:00:00.000Z",
+            "last_shown": "2025-11-02T09:51:57.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17035895733158489998",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR14306620364594085889/creative/CR00928035556699406337"
+          },
+          {
+            "creative_id": "CR02150452346574864385",
+            "advertiser_id": "AR06288951011864215553",
+            "advertiser_name": "Innov8tif Solutions Sdn Bhd",
+            "format": "text",
+            "first_shown": "2024-09-11T16:37:12.000Z",
+            "last_shown": "2025-10-30T03:34:14.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8888461352076778409",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR06288951011864215553/creative/CR02150452346574864385"
+          },
+          {
+            "creative_id": "CR15829105525640921089",
+            "advertiser_id": "AR16391915617747206145",
+            "advertiser_name": "DFS COMERCIO DE MOTOS LTDA",
+            "format": "image",
+            "first_shown": "2025-09-05T11:26:26.000Z",
+            "last_shown": "2025-10-24T07:10:46.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10794168058424332838",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR16391915617747206145/creative/CR15829105525640921089"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

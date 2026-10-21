@@ -1,1 +1,1348 @@
-{"domain":"vercel.com","sections_status":{"tech_stack":"ok","hiring_intent":"ok","google_ads":"error"},"sections_with_data":["tech_stack","hiring_intent"],"footprint":{"website_ad_or_analytics_tags":"not_found","job_board_with_open_roles":"found","google_ads":"unknown"},"checked_at":"2026-10-21T13:59:42.464Z","status":"ok","signals":["Hiring: hypergrowth, 94 open roles, 17 posted in the last 30 days, intent_score 96.","No ad pixels detected on the home page."],"tech_stack":{"domain":"vercel.com","status":"ok","final_url":"https://vercel.com/","title":"Agentic Infrastructure - Vercel","has_meta_pixel":false,"has_google_ads_tag":false,"has_ga4":false,"has_gtm":false,"has_linkedin_insight":false,"has_tiktok_pixel":false,"ad_pixels":[],"analytics":[],"marketing_tools":[],"hosting_cdn":["Vercel"],"frameworks":["Next.js","React"],"payments":[],"cms":null,"ecommerce":null,"email_provider":"Google Workspace","spf_senders":["SendGrid","Amazon SES","Salesforce","Marketo"],"dmarc_policy":"quarantine","verified_services":["Google Search Console","Microsoft 365","Stripe","Apple","DocuSign","OpenAI"],"technology_count":3,"added":null,"removed":null,"is_first_run":null,"note":null,"checked_at":"2026-10-21T13:59:41+00:00"},"hiring_intent":{"domain":"vercel.com","status":"ok","ats_type":"greenhouse","confidence":"unverified","intent_score":96,"hiring_status":"hypergrowth","total_open_roles":94,"remote_roles":9,"roles_posted_last_30_days":17,"roles_with_known_post_date":94,"function_breakdown":{"sales":22,"engineering":30,"other":19,"operations":2,"finance_legal":5,"data_ai":1,"customer_success":2,"people":2,"marketing":4,"design":2,"product":5},"department_breakdown":{"Engineering":18,"Account Executive":12,"Security":7,"Product":7,"Marketing":6,"Partnerships":6,"Professional Services":5,"Solution Architects":5,"People":5,"Design":4},"top_locations":{"Hybrid - San Francisco":26,"Hybrid - San Francisco, New York City, Austin":21,"Hybrid - San Francisco, New York City":14,"Hybrid - London":8,"Remote - United States":8,"Hybrid - London, Berlin":5,"Hybrid - Sydney":3,"Hybrid - San Francisco, New York City, London":3,"Hybrid - New York City":3,"Hybrid - India":2},"top_demanded_technologies":{"Next.js":29,"TypeScript":23,"JavaScript":20,"AWS":19,"React":19,"GCP":11,"Salesforce":10,"Go":10,"LLMs":10,"CI/CD":9,"Terraform":9,"Azure":8,"Machine Learning":8,"Node.js":8,"Python":5},"buying_signals":{"cloud_infra":["AWS","GCP","CI/CD","Terraform","Azure"],"data_ai":["LLMs","Machine Learning"],"databases":[],"observability":[],"sales_tools":["Salesforce"]},"notable_open_roles":[{"title":"Director of Engineering","function":"other","department":"Engineering","location":"Hybrid - San Francisco, New York City","is_remote":false,"posted_date":"2026-10-20T11:54:35-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6228758004"},{"title":"Product Manager, Storage","function":"product","department":"Product","location":"Remote - United States","is_remote":true,"posted_date":"2026-10-20T04:04:32-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6228301004"},{"title":"Senior Deal Desk Analyst, EMEA","function":"sales","department":"Field Readiness","location":"Hybrid - London","is_remote":false,"posted_date":"2026-10-13T20:11:58-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6222271004"},{"title":"Senior Accountant","function":"finance_legal","department":"Controllership","location":"Hybrid - San Francisco","is_remote":false,"posted_date":"2026-10-09T12:20:18-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6196563004"},{"title":"People Systems Manager, Workday","function":"people","department":"People","location":"Hybrid - San Francisco","is_remote":false,"posted_date":"2026-10-09T11:58:50-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6221327004"},{"title":"Machine Learning Engineer, Trust & Safety","function":"data_ai","department":"Security","location":"Hybrid - San Francisco, New York City","is_remote":false,"posted_date":"2026-10-09T00:59:47-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6208037004"},{"title":"Product Manager, Software Factory","function":"engineering","department":"Product","location":"Hybrid - San Francisco","is_remote":false,"posted_date":"2026-09-29T14:15:04-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6210353004"},{"title":"Product Manager, Networking + CDN","function":"product","department":"Product","location":"Hybrid - San Francisco","is_remote":false,"posted_date":"2026-09-28T18:09:24-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6209044004"},{"title":"Product Manager, Compute","function":"product","department":"Product","location":"Hybrid - San Francisco","is_remote":false,"posted_date":"2026-09-28T18:08:11-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6209001004"},{"title":"Product Manager, Dashboard","function":"product","department":"Product","location":"Remote - United States","is_remote":true,"posted_date":"2026-09-24T19:38:23-04:00","apply_url":"https://job-boards.greenhouse.io/vercel/jobs/6205772004"}],"jobs_truncated":false,"checked_at":"2026-10-21T13:59:42Z","note":"intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."},"google_ads":{"status":"error"},"note":"Charged only when at least two of the three sections have data. A section with a status other than ok has no data.","recommended_next_step":{"tool":"get_company_profile","url":"https://gethirepulse.xyz/v1/company-profile","body":{"domain":"vercel.com"},"price_usd":0.03,"zero_result_zero_charge":true}}
+{
+  "domain": "vercel.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:41:40.494Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 94 open roles, 17 posted in the last 30 days, intent_score 96.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 100-200 ads.",
+    "No ad pixels detected on the home page."
+  ],
+  "tech_stack": {
+    "domain": "vercel.com",
+    "status": "ok",
+    "final_url": "https://vercel.com/",
+    "title": "Agentic Infrastructure - Vercel",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Vercel"
+    ],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": null,
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [
+      "SendGrid",
+      "Amazon SES",
+      "Salesforce",
+      "Marketo"
+    ],
+    "dmarc_policy": "quarantine",
+    "verified_services": [
+      "Google Search Console",
+      "Microsoft 365",
+      "Stripe",
+      "Apple",
+      "DocuSign",
+      "OpenAI"
+    ],
+    "technology_count": 3,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:38+00:00"
+  },
+  "hiring_intent": {
+    "domain": "vercel.com",
+    "status": "ok",
+    "ats_type": "greenhouse",
+    "confidence": "unverified",
+    "intent_score": 96,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 94,
+    "remote_roles": 9,
+    "roles_posted_last_30_days": 17,
+    "roles_with_known_post_date": 94,
+    "function_breakdown": {
+      "sales": 22,
+      "engineering": 30,
+      "other": 19,
+      "operations": 2,
+      "finance_legal": 5,
+      "data_ai": 1,
+      "customer_success": 2,
+      "people": 2,
+      "marketing": 4,
+      "design": 2,
+      "product": 5
+    },
+    "department_breakdown": {
+      "Engineering": 18,
+      "Account Executive": 12,
+      "Security": 7,
+      "Product": 7,
+      "Marketing": 6,
+      "Partnerships": 6,
+      "Professional Services": 5,
+      "Solution Architects": 5,
+      "People": 5,
+      "Design": 4
+    },
+    "top_locations": {
+      "Hybrid - San Francisco": 26,
+      "Hybrid - San Francisco, New York City, Austin": 21,
+      "Hybrid - San Francisco, New York City": 14,
+      "Hybrid - London": 8,
+      "Remote - United States": 8,
+      "Hybrid - London, Berlin": 5,
+      "Hybrid - Sydney": 3,
+      "Hybrid - San Francisco, New York City, London": 3,
+      "Hybrid - New York City": 3,
+      "Hybrid - India": 2
+    },
+    "top_demanded_technologies": {
+      "Next.js": 29,
+      "TypeScript": 23,
+      "JavaScript": 20,
+      "AWS": 19,
+      "React": 19,
+      "GCP": 11,
+      "Salesforce": 10,
+      "Go": 10,
+      "LLMs": 10,
+      "CI/CD": 9,
+      "Terraform": 9,
+      "Azure": 8,
+      "Machine Learning": 8,
+      "Node.js": 8,
+      "Python": 5
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS",
+        "GCP",
+        "CI/CD",
+        "Terraform",
+        "Azure"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Machine Learning"
+      ],
+      "databases": [],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Director of Engineering",
+        "function": "other",
+        "department": "Engineering",
+        "location": "Hybrid - San Francisco, New York City",
+        "is_remote": false,
+        "posted_date": "2026-10-20T11:54:35-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6228758004"
+      },
+      {
+        "title": "Product Manager, Storage",
+        "function": "product",
+        "department": "Product",
+        "location": "Remote - United States",
+        "is_remote": true,
+        "posted_date": "2026-10-20T04:04:32-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
+      },
+      {
+        "title": "Senior Deal Desk Analyst, EMEA",
+        "function": "sales",
+        "department": "Field Readiness",
+        "location": "Hybrid - London",
+        "is_remote": false,
+        "posted_date": "2026-10-13T20:11:58-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6222271004"
+      },
+      {
+        "title": "Senior Accountant",
+        "function": "finance_legal",
+        "department": "Controllership",
+        "location": "Hybrid - San Francisco",
+        "is_remote": false,
+        "posted_date": "2026-10-09T12:20:18-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6196563004"
+      },
+      {
+        "title": "People Systems Manager, Workday",
+        "function": "people",
+        "department": "People",
+        "location": "Hybrid - San Francisco",
+        "is_remote": false,
+        "posted_date": "2026-10-09T11:58:50-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6221327004"
+      },
+      {
+        "title": "Machine Learning Engineer, Trust & Safety",
+        "function": "data_ai",
+        "department": "Security",
+        "location": "Hybrid - San Francisco, New York City",
+        "is_remote": false,
+        "posted_date": "2026-10-09T00:59:47-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004"
+      },
+      {
+        "title": "Product Manager, Software Factory",
+        "function": "engineering",
+        "department": "Product",
+        "location": "Hybrid - San Francisco",
+        "is_remote": false,
+        "posted_date": "2026-09-29T14:15:04-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6210353004"
+      },
+      {
+        "title": "Product Manager, Networking + CDN",
+        "function": "product",
+        "department": "Product",
+        "location": "Hybrid - San Francisco",
+        "is_remote": false,
+        "posted_date": "2026-09-28T18:09:24-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6209044004"
+      },
+      {
+        "title": "Product Manager, Compute",
+        "function": "product",
+        "department": "Product",
+        "location": "Hybrid - San Francisco",
+        "is_remote": false,
+        "posted_date": "2026-09-28T18:08:11-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6209001004"
+      },
+      {
+        "title": "Product Manager, Dashboard",
+        "function": "product",
+        "department": "Product",
+        "location": "Remote - United States",
+        "is_remote": true,
+        "posted_date": "2026-09-24T19:38:23-04:00",
+        "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6205772004"
+      }
+    ],
+    "jobs_truncated": false,
+    "checked_at": "2026-10-21T14:41:40Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "vercel.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:37.034Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR03920035274037395457",
+        "name": "Vercel Inc.",
+        "ads_in_sample": 39
+      },
+      {
+        "advertiser_id": "AR01441183766595764225",
+        "name": "Xun Meng International Limited",
+        "ads_in_sample": 1
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 100,
+      "high": 200
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 40
+    },
+    "earliest_first_shown_in_sample": "2026-01-28T18:46:05.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:05:17.000Z",
+    "ads": [
+      {
+        "creative_id": "CR12424976801166524417",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T14:02:46.000Z",
+        "last_shown": "2026-10-21T14:05:17.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8668035905399272971",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12424976801166524417"
+      },
+      {
+        "creative_id": "CR01983381065108029441",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T14:03:32.000Z",
+        "last_shown": "2026-10-21T14:02:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17793402808119312907",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR01983381065108029441"
+      },
+      {
+        "creative_id": "CR04982702619353939969",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-03-25T19:04:07.000Z",
+        "last_shown": "2026-10-21T14:01:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13437110170089784179",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR04982702619353939969"
+      },
+      {
+        "creative_id": "CR13581365031576010753",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-14T07:04:36.000Z",
+        "last_shown": "2026-10-21T13:52:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6629503403404524547",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13581365031576010753"
+      },
+      {
+        "creative_id": "CR12588484350699372545",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-07-10T14:57:28.000Z",
+        "last_shown": "2026-10-21T13:09:48.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11161800580349731911",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12588484350699372545"
+      },
+      {
+        "creative_id": "CR07781307088998760449",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T14:09:50.000Z",
+        "last_shown": "2026-10-21T13:06:57.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8946838425038233706",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07781307088998760449"
+      },
+      {
+        "creative_id": "CR11329182209887174657",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-06-28T07:00:00.000Z",
+        "last_shown": "2026-10-21T13:01:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11826650739351497313",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR11329182209887174657"
+      },
+      {
+        "creative_id": "CR13892309118934319105",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-14T07:03:53.000Z",
+        "last_shown": "2026-10-21T12:53:31.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/857876587056635852",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13892309118934319105"
+      },
+      {
+        "creative_id": "CR06231320874398515201",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T15:39:15.000Z",
+        "last_shown": "2026-10-21T12:39:35.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9208345385510293191",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06231320874398515201"
+      },
+      {
+        "creative_id": "CR01009866185610625025",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-31T09:39:40.000Z",
+        "last_shown": "2026-10-21T12:16:41.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14148669734603859310",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR01009866185610625025"
+      },
+      {
+        "creative_id": "CR05012457499945598977",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-14T07:05:41.000Z",
+        "last_shown": "2026-10-21T12:03:42.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6629503403404524547",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05012457499945598977"
+      },
+      {
+        "creative_id": "CR09486810427254898689",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-07-10T14:53:28.000Z",
+        "last_shown": "2026-10-21T12:01:56.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16808903262323762409",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09486810427254898689"
+      },
+      {
+        "creative_id": "CR06241764826113114113",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-09-18T05:03:53.000Z",
+        "last_shown": "2026-10-21T11:37:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7429731872818521687",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06241764826113114113"
+      },
+      {
+        "creative_id": "CR05729476210971377665",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-01-28T18:46:05.000Z",
+        "last_shown": "2026-10-21T10:57:30.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8875479070391752018",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05729476210971377665"
+      },
+      {
+        "creative_id": "CR14144669474418065409",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-25T11:19:25.000Z",
+        "last_shown": "2026-10-21T10:47:41.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15494497055640276272",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR14144669474418065409"
+      },
+      {
+        "creative_id": "CR14130399016080375809",
+        "advertiser_id": "AR01441183766595764225",
+        "advertiser_name": "Xun Meng International Limited",
+        "format": "text",
+        "first_shown": "2026-09-29T12:54:38.000Z",
+        "last_shown": "2026-10-21T09:55:24.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15364966521128309104",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR01441183766595764225/creative/CR14130399016080375809"
+      },
+      {
+        "creative_id": "CR06671906865959403521",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-09-08T17:13:17.000Z",
+        "last_shown": "2026-10-21T09:17:15.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17194004034727253888",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06671906865959403521"
+      },
+      {
+        "creative_id": "CR02488691045588533249",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T17:42:25.000Z",
+        "last_shown": "2026-10-21T09:11:43.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16235901977893222195",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02488691045588533249"
+      },
+      {
+        "creative_id": "CR15885524241810980865",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-03-05T16:08:56.000Z",
+        "last_shown": "2026-10-21T07:05:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9675598343297901176",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR15885524241810980865"
+      },
+      {
+        "creative_id": "CR16048721729064796161",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-02-09T20:49:47.000Z",
+        "last_shown": "2026-10-21T05:49:59.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4348486546424863019",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR16048721729064796161"
+      },
+      {
+        "creative_id": "CR18279363159460413441",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T21:20:03.000Z",
+        "last_shown": "2026-10-21T04:59:32.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13456218258483845471",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR18279363159460413441"
+      },
+      {
+        "creative_id": "CR17322632737277870081",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T14:35:35.000Z",
+        "last_shown": "2026-10-21T04:56:40.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11912013980041619143",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR17322632737277870081"
+      },
+      {
+        "creative_id": "CR00081213167232876545",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-21T16:16:48.000Z",
+        "last_shown": "2026-10-21T04:34:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9388907513856712867",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR00081213167232876545"
+      },
+      {
+        "creative_id": "CR15486453644651397121",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T19:19:28.000Z",
+        "last_shown": "2026-10-21T04:31:37.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4781567124937065843",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR15486453644651397121"
+      },
+      {
+        "creative_id": "CR07188219246982201345",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-05-28T18:12:09.000Z",
+        "last_shown": "2026-10-21T04:26:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15422516638250230641",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07188219246982201345"
+      },
+      {
+        "creative_id": "CR02513568733117546497",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-21T16:11:23.000Z",
+        "last_shown": "2026-10-21T04:08:49.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18446265686647166414",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02513568733117546497"
+      },
+      {
+        "creative_id": "CR09292607777249689601",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T19:15:36.000Z",
+        "last_shown": "2026-10-21T04:08:21.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15293363003728755500",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09292607777249689601"
+      },
+      {
+        "creative_id": "CR02748620129880244225",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-21T16:35:53.000Z",
+        "last_shown": "2026-10-21T04:00:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10199279581252558795",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02748620129880244225"
+      },
+      {
+        "creative_id": "CR04607099208103624705",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-02-09T22:16:55.000Z",
+        "last_shown": "2026-10-21T03:52:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14954263186826218387",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR04607099208103624705"
+      },
+      {
+        "creative_id": "CR08781916408905728001",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-21T16:10:43.000Z",
+        "last_shown": "2026-10-21T03:48:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/853930460874490637",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR08781916408905728001"
+      },
+      {
+        "creative_id": "CR08258481906954272769",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T19:16:53.000Z",
+        "last_shown": "2026-10-21T03:45:03.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14835237201485374964",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR08258481906954272769"
+      },
+      {
+        "creative_id": "CR09767854086169821185",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T17:38:34.000Z",
+        "last_shown": "2026-10-21T03:41:22.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8048454775257095102",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09767854086169821185"
+      },
+      {
+        "creative_id": "CR09494398947272163329",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T19:15:50.000Z",
+        "last_shown": "2026-10-21T03:39:25.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/132341417637730726",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09494398947272163329"
+      },
+      {
+        "creative_id": "CR06991402405002739713",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-08-21T16:26:11.000Z",
+        "last_shown": "2026-10-21T03:34:51.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/168146348950787253",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06991402405002739713"
+      },
+      {
+        "creative_id": "CR02607758946466791425",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-09-08T14:46:25.000Z",
+        "last_shown": "2026-10-21T03:19:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11408951248759619359",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02607758946466791425"
+      },
+      {
+        "creative_id": "CR03269722773827616769",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T17:40:46.000Z",
+        "last_shown": "2026-10-21T03:01:57.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/987871099325643018",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR03269722773827616769"
+      },
+      {
+        "creative_id": "CR07405599533381451777",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T19:16:09.000Z",
+        "last_shown": "2026-10-21T03:01:11.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5065561244676773747",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07405599533381451777"
+      },
+      {
+        "creative_id": "CR05240375265267286017",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T16:17:14.000Z",
+        "last_shown": "2026-10-21T02:48:11.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6741826797649481418",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05240375265267286017"
+      },
+      {
+        "creative_id": "CR13864746561449230337",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T17:38:15.000Z",
+        "last_shown": "2026-10-21T02:46:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4107451070254330549",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13864746561449230337"
+      },
+      {
+        "creative_id": "CR12861102177132740609",
+        "advertiser_id": "AR03920035274037395457",
+        "advertiser_name": "Vercel Inc.",
+        "format": "text",
+        "first_shown": "2026-10-13T23:43:56.000Z",
+        "last_shown": "2026-10-21T02:42:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8852460254005422247",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12861102177132740609"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "vercel.com",
+        "status": "ok",
+        "final_url": "https://vercel.com/",
+        "title": "Agentic Infrastructure - Vercel",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Vercel"
+        ],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": null,
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [
+          "SendGrid",
+          "Amazon SES",
+          "Salesforce",
+          "Marketo"
+        ],
+        "dmarc_policy": "quarantine",
+        "verified_services": [
+          "Google Search Console",
+          "Microsoft 365",
+          "Stripe",
+          "Apple",
+          "DocuSign",
+          "OpenAI"
+        ],
+        "technology_count": 3,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:38+00:00"
+      },
+      "hiring_intent": {
+        "domain": "vercel.com",
+        "status": "ok",
+        "ats_type": "greenhouse",
+        "confidence": "unverified",
+        "intent_score": 96,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 94,
+        "remote_roles": 9,
+        "roles_posted_last_30_days": 17,
+        "roles_with_known_post_date": 94,
+        "function_breakdown": {
+          "sales": 22,
+          "engineering": 30,
+          "other": 19,
+          "operations": 2,
+          "finance_legal": 5,
+          "data_ai": 1,
+          "customer_success": 2,
+          "people": 2,
+          "marketing": 4,
+          "design": 2,
+          "product": 5
+        },
+        "department_breakdown": {
+          "Engineering": 18,
+          "Account Executive": 12,
+          "Security": 7,
+          "Product": 7,
+          "Marketing": 6,
+          "Partnerships": 6,
+          "Professional Services": 5,
+          "Solution Architects": 5,
+          "People": 5,
+          "Design": 4
+        },
+        "top_locations": {
+          "Hybrid - San Francisco": 26,
+          "Hybrid - San Francisco, New York City, Austin": 21,
+          "Hybrid - San Francisco, New York City": 14,
+          "Hybrid - London": 8,
+          "Remote - United States": 8,
+          "Hybrid - London, Berlin": 5,
+          "Hybrid - Sydney": 3,
+          "Hybrid - San Francisco, New York City, London": 3,
+          "Hybrid - New York City": 3,
+          "Hybrid - India": 2
+        },
+        "top_demanded_technologies": {
+          "Next.js": 29,
+          "TypeScript": 23,
+          "JavaScript": 20,
+          "AWS": 19,
+          "React": 19,
+          "GCP": 11,
+          "Salesforce": 10,
+          "Go": 10,
+          "LLMs": 10,
+          "CI/CD": 9,
+          "Terraform": 9,
+          "Azure": 8,
+          "Machine Learning": 8,
+          "Node.js": 8,
+          "Python": 5
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS",
+            "GCP",
+            "CI/CD",
+            "Terraform",
+            "Azure"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Machine Learning"
+          ],
+          "databases": [],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Director of Engineering",
+            "function": "other",
+            "department": "Engineering",
+            "location": "Hybrid - San Francisco, New York City",
+            "is_remote": false,
+            "posted_date": "2026-10-20T11:54:35-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6228758004"
+          },
+          {
+            "title": "Product Manager, Storage",
+            "function": "product",
+            "department": "Product",
+            "location": "Remote - United States",
+            "is_remote": true,
+            "posted_date": "2026-10-20T04:04:32-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6228301004"
+          },
+          {
+            "title": "Senior Deal Desk Analyst, EMEA",
+            "function": "sales",
+            "department": "Field Readiness",
+            "location": "Hybrid - London",
+            "is_remote": false,
+            "posted_date": "2026-10-13T20:11:58-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6222271004"
+          },
+          {
+            "title": "Senior Accountant",
+            "function": "finance_legal",
+            "department": "Controllership",
+            "location": "Hybrid - San Francisco",
+            "is_remote": false,
+            "posted_date": "2026-10-09T12:20:18-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6196563004"
+          },
+          {
+            "title": "People Systems Manager, Workday",
+            "function": "people",
+            "department": "People",
+            "location": "Hybrid - San Francisco",
+            "is_remote": false,
+            "posted_date": "2026-10-09T11:58:50-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6221327004"
+          },
+          {
+            "title": "Machine Learning Engineer, Trust & Safety",
+            "function": "data_ai",
+            "department": "Security",
+            "location": "Hybrid - San Francisco, New York City",
+            "is_remote": false,
+            "posted_date": "2026-10-09T00:59:47-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6208037004"
+          },
+          {
+            "title": "Product Manager, Software Factory",
+            "function": "engineering",
+            "department": "Product",
+            "location": "Hybrid - San Francisco",
+            "is_remote": false,
+            "posted_date": "2026-09-29T14:15:04-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6210353004"
+          },
+          {
+            "title": "Product Manager, Networking + CDN",
+            "function": "product",
+            "department": "Product",
+            "location": "Hybrid - San Francisco",
+            "is_remote": false,
+            "posted_date": "2026-09-28T18:09:24-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6209044004"
+          },
+          {
+            "title": "Product Manager, Compute",
+            "function": "product",
+            "department": "Product",
+            "location": "Hybrid - San Francisco",
+            "is_remote": false,
+            "posted_date": "2026-09-28T18:08:11-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6209001004"
+          },
+          {
+            "title": "Product Manager, Dashboard",
+            "function": "product",
+            "department": "Product",
+            "location": "Remote - United States",
+            "is_remote": true,
+            "posted_date": "2026-09-24T19:38:23-04:00",
+            "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6205772004"
+          }
+        ],
+        "jobs_truncated": false,
+        "checked_at": "2026-10-21T14:41:40Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "vercel.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:37.034Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR03920035274037395457",
+            "name": "Vercel Inc.",
+            "ads_in_sample": 39
+          },
+          {
+            "advertiser_id": "AR01441183766595764225",
+            "name": "Xun Meng International Limited",
+            "ads_in_sample": 1
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 100,
+          "high": 200
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 40
+        },
+        "earliest_first_shown_in_sample": "2026-01-28T18:46:05.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:05:17.000Z",
+        "ads": [
+          {
+            "creative_id": "CR12424976801166524417",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T14:02:46.000Z",
+            "last_shown": "2026-10-21T14:05:17.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8668035905399272971",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12424976801166524417"
+          },
+          {
+            "creative_id": "CR01983381065108029441",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T14:03:32.000Z",
+            "last_shown": "2026-10-21T14:02:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17793402808119312907",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR01983381065108029441"
+          },
+          {
+            "creative_id": "CR04982702619353939969",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-03-25T19:04:07.000Z",
+            "last_shown": "2026-10-21T14:01:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13437110170089784179",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR04982702619353939969"
+          },
+          {
+            "creative_id": "CR13581365031576010753",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-14T07:04:36.000Z",
+            "last_shown": "2026-10-21T13:52:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6629503403404524547",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13581365031576010753"
+          },
+          {
+            "creative_id": "CR12588484350699372545",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-07-10T14:57:28.000Z",
+            "last_shown": "2026-10-21T13:09:48.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11161800580349731911",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12588484350699372545"
+          },
+          {
+            "creative_id": "CR07781307088998760449",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T14:09:50.000Z",
+            "last_shown": "2026-10-21T13:06:57.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8946838425038233706",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07781307088998760449"
+          },
+          {
+            "creative_id": "CR11329182209887174657",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-06-28T07:00:00.000Z",
+            "last_shown": "2026-10-21T13:01:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11826650739351497313",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR11329182209887174657"
+          },
+          {
+            "creative_id": "CR13892309118934319105",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-14T07:03:53.000Z",
+            "last_shown": "2026-10-21T12:53:31.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/857876587056635852",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13892309118934319105"
+          },
+          {
+            "creative_id": "CR06231320874398515201",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T15:39:15.000Z",
+            "last_shown": "2026-10-21T12:39:35.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9208345385510293191",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06231320874398515201"
+          },
+          {
+            "creative_id": "CR01009866185610625025",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-31T09:39:40.000Z",
+            "last_shown": "2026-10-21T12:16:41.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14148669734603859310",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR01009866185610625025"
+          },
+          {
+            "creative_id": "CR05012457499945598977",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-14T07:05:41.000Z",
+            "last_shown": "2026-10-21T12:03:42.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6629503403404524547",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05012457499945598977"
+          },
+          {
+            "creative_id": "CR09486810427254898689",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-07-10T14:53:28.000Z",
+            "last_shown": "2026-10-21T12:01:56.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16808903262323762409",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09486810427254898689"
+          },
+          {
+            "creative_id": "CR06241764826113114113",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-09-18T05:03:53.000Z",
+            "last_shown": "2026-10-21T11:37:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7429731872818521687",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06241764826113114113"
+          },
+          {
+            "creative_id": "CR05729476210971377665",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-01-28T18:46:05.000Z",
+            "last_shown": "2026-10-21T10:57:30.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8875479070391752018",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05729476210971377665"
+          },
+          {
+            "creative_id": "CR14144669474418065409",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-25T11:19:25.000Z",
+            "last_shown": "2026-10-21T10:47:41.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15494497055640276272",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR14144669474418065409"
+          },
+          {
+            "creative_id": "CR14130399016080375809",
+            "advertiser_id": "AR01441183766595764225",
+            "advertiser_name": "Xun Meng International Limited",
+            "format": "text",
+            "first_shown": "2026-09-29T12:54:38.000Z",
+            "last_shown": "2026-10-21T09:55:24.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15364966521128309104",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR01441183766595764225/creative/CR14130399016080375809"
+          },
+          {
+            "creative_id": "CR06671906865959403521",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-09-08T17:13:17.000Z",
+            "last_shown": "2026-10-21T09:17:15.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/17194004034727253888",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06671906865959403521"
+          },
+          {
+            "creative_id": "CR02488691045588533249",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T17:42:25.000Z",
+            "last_shown": "2026-10-21T09:11:43.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16235901977893222195",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02488691045588533249"
+          },
+          {
+            "creative_id": "CR15885524241810980865",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-03-05T16:08:56.000Z",
+            "last_shown": "2026-10-21T07:05:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9675598343297901176",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR15885524241810980865"
+          },
+          {
+            "creative_id": "CR16048721729064796161",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-02-09T20:49:47.000Z",
+            "last_shown": "2026-10-21T05:49:59.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4348486546424863019",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR16048721729064796161"
+          },
+          {
+            "creative_id": "CR18279363159460413441",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T21:20:03.000Z",
+            "last_shown": "2026-10-21T04:59:32.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13456218258483845471",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR18279363159460413441"
+          },
+          {
+            "creative_id": "CR17322632737277870081",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T14:35:35.000Z",
+            "last_shown": "2026-10-21T04:56:40.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11912013980041619143",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR17322632737277870081"
+          },
+          {
+            "creative_id": "CR00081213167232876545",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-21T16:16:48.000Z",
+            "last_shown": "2026-10-21T04:34:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9388907513856712867",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR00081213167232876545"
+          },
+          {
+            "creative_id": "CR15486453644651397121",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T19:19:28.000Z",
+            "last_shown": "2026-10-21T04:31:37.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4781567124937065843",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR15486453644651397121"
+          },
+          {
+            "creative_id": "CR07188219246982201345",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-05-28T18:12:09.000Z",
+            "last_shown": "2026-10-21T04:26:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15422516638250230641",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07188219246982201345"
+          },
+          {
+            "creative_id": "CR02513568733117546497",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-21T16:11:23.000Z",
+            "last_shown": "2026-10-21T04:08:49.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/18446265686647166414",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02513568733117546497"
+          },
+          {
+            "creative_id": "CR09292607777249689601",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T19:15:36.000Z",
+            "last_shown": "2026-10-21T04:08:21.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15293363003728755500",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09292607777249689601"
+          },
+          {
+            "creative_id": "CR02748620129880244225",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-21T16:35:53.000Z",
+            "last_shown": "2026-10-21T04:00:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/10199279581252558795",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02748620129880244225"
+          },
+          {
+            "creative_id": "CR04607099208103624705",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-02-09T22:16:55.000Z",
+            "last_shown": "2026-10-21T03:52:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14954263186826218387",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR04607099208103624705"
+          },
+          {
+            "creative_id": "CR08781916408905728001",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-21T16:10:43.000Z",
+            "last_shown": "2026-10-21T03:48:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/853930460874490637",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR08781916408905728001"
+          },
+          {
+            "creative_id": "CR08258481906954272769",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T19:16:53.000Z",
+            "last_shown": "2026-10-21T03:45:03.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14835237201485374964",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR08258481906954272769"
+          },
+          {
+            "creative_id": "CR09767854086169821185",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T17:38:34.000Z",
+            "last_shown": "2026-10-21T03:41:22.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8048454775257095102",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09767854086169821185"
+          },
+          {
+            "creative_id": "CR09494398947272163329",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T19:15:50.000Z",
+            "last_shown": "2026-10-21T03:39:25.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/132341417637730726",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR09494398947272163329"
+          },
+          {
+            "creative_id": "CR06991402405002739713",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-08-21T16:26:11.000Z",
+            "last_shown": "2026-10-21T03:34:51.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/168146348950787253",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR06991402405002739713"
+          },
+          {
+            "creative_id": "CR02607758946466791425",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-09-08T14:46:25.000Z",
+            "last_shown": "2026-10-21T03:19:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11408951248759619359",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR02607758946466791425"
+          },
+          {
+            "creative_id": "CR03269722773827616769",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T17:40:46.000Z",
+            "last_shown": "2026-10-21T03:01:57.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/987871099325643018",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR03269722773827616769"
+          },
+          {
+            "creative_id": "CR07405599533381451777",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T19:16:09.000Z",
+            "last_shown": "2026-10-21T03:01:11.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5065561244676773747",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR07405599533381451777"
+          },
+          {
+            "creative_id": "CR05240375265267286017",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T16:17:14.000Z",
+            "last_shown": "2026-10-21T02:48:11.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6741826797649481418",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR05240375265267286017"
+          },
+          {
+            "creative_id": "CR13864746561449230337",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T17:38:15.000Z",
+            "last_shown": "2026-10-21T02:46:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4107451070254330549",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR13864746561449230337"
+          },
+          {
+            "creative_id": "CR12861102177132740609",
+            "advertiser_id": "AR03920035274037395457",
+            "advertiser_name": "Vercel Inc.",
+            "format": "text",
+            "first_shown": "2026-10-13T23:43:56.000Z",
+            "last_shown": "2026-10-21T02:42:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8852460254005422247",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03920035274037395457/creative/CR12861102177132740609"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}

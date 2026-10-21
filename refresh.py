@@ -1,39 +1,25 @@
 #!/usr/bin/env python3
-"""Refresh the HirePulse hiring/ads radar table.
-
-Each domain costs one free HirePulse call (5 per UTC day per IP, shared).
-No account, no API key. After the free calls the API answers 402 with x402
-payment terms; this script never pays and just records the 402.
-
-Usage: python refresh.py linear.app ramp.com stripe.com
-"""
-import json, os, sys, urllib.request, urllib.error, datetime
-
-API = "https://gethirepulse.xyz/v1/company-profile"
-DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-
-
-def fetch(domain: str):
-    body = json.dumps({"domain": domain}).encode()
-    req = urllib.request.Request(API, data=body, headers={"Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            return r.status, json.loads(r.read().decode())
-    except urllib.error.HTTPError as e:
-        return e.code, {"error": e.read().decode()[:400]}
-
-
-def main(domains):
-    os.makedirs(DATA, exist_ok=True)
-    for d in domains:
-        code, payload = fetch(d)
-        print(d, code)
-        if code == 200:
-            json.dump(payload, open(os.path.join(DATA, d + ".json"), "w", encoding="utf-8"), indent=2)
-        else:
-            print("  not stored:", json.dumps(payload)[:160])
-    print("done", datetime.datetime.utcnow().isoformat(), "UTC — rebuild the table with scripts/build_table.py")
-
-
-if __name__ == "__main__":
-    main(sys.argv[1:] or ["linear.app"])
+"""Refresh evidence without automatic payments or overwriting failed results."""
+import argparse,json,shutil,urllib.request,urllib.error
+from pathlib import Path
+from build_table import build,validate,DOMAINS
+ROOT=Path(__file__).parent
+def store(row):
+ validate(row);p=ROOT/'data'/f"{row['domain']}.json";p.parent.mkdir(exist_ok=True);tmp=p.with_suffix('.json.tmp');tmp.write_text(json.dumps(row,indent=2,ensure_ascii=False)+'\n',encoding='utf-8');tmp.replace(p)
+def main():
+ parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('domains',nargs='*');parser.add_argument('--render-only',action='store_true');parser.add_argument('--import-dir',type=Path);args=parser.parse_args()
+ if set(args.domains)-set(DOMAINS):parser.error('Unknown company domain; see DOMAINS in build_table.py')
+ if args.import_dir:
+  for p in sorted(args.import_dir.glob('*.json')):
+   try:store(json.loads(p.read_text(encoding='utf-8')));print('Imported',p.name)
+   except (ValueError,KeyError) as e:print('Preserved existing snapshot:',p.name,str(e))
+ elif not args.render_only:
+  for domain in args.domains or DOMAINS:
+   req=urllib.request.Request('https://gethirepulse.xyz/v1/company-profile',data=json.dumps({'domain':domain}).encode(),headers={'Content-Type':'application/json','User-Agent':'HirePulse-Radar/1.0'})
+   try:
+    with urllib.request.urlopen(req,timeout=35) as r:row=json.load(r)
+    if row.get('domain')!=domain:raise ValueError('Response domain mismatch')
+    store(row);print('Updated',domain)
+   except (urllib.error.URLError,ValueError,KeyError) as e:print('Preserved existing snapshot:',domain,type(e).__name__)
+ print('Rendered',build(ROOT),'companies from saved evidence.')
+if __name__=='__main__':main()

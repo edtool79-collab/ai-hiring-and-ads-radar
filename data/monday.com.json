@@ -1,0 +1,1382 @@
+{
+  "domain": "monday.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T15:05:09.602Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: active_hiring, 113 open roles, 0 posted in the last 30 days, intent_score 63.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 30000-40000 ads.",
+    "Ad pixels on the site: Meta Pixel, Google Ads, LinkedIn Insight, TikTok Pixel, X (Twitter) Pixel, Reddit Pixel, Microsoft Ads (UET).",
+    "Site platform: Webflow."
+  ],
+  "tech_stack": {
+    "domain": "monday.com",
+    "status": "ok",
+    "final_url": "https://monday.com/",
+    "title": "The AI Workspace for People &amp; Agents | monday.com",
+    "has_meta_pixel": true,
+    "has_google_ads_tag": true,
+    "has_ga4": false,
+    "has_gtm": true,
+    "has_linkedin_insight": true,
+    "has_tiktok_pixel": true,
+    "ad_pixels": [
+      "Meta Pixel",
+      "Google Ads",
+      "LinkedIn Insight",
+      "TikTok Pixel",
+      "X (Twitter) Pixel",
+      "Reddit Pixel",
+      "Microsoft Ads (UET)"
+    ],
+    "analytics": [
+      "Google Tag Manager",
+      "Hotjar"
+    ],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Cloudflare",
+      "Amazon CloudFront"
+    ],
+    "frameworks": [],
+    "payments": [],
+    "cms": "Webflow",
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [
+      "Google Workspace",
+      "Mailchimp",
+      "Salesforce",
+      "Zendesk"
+    ],
+    "dmarc_policy": "reject",
+    "verified_services": [
+      "Google Search Console",
+      "Stripe",
+      "Apple",
+      "DocuSign",
+      "Adobe",
+      "Zoom",
+      "OpenAI",
+      "Miro",
+      "Dropbox",
+      "Figma"
+    ],
+    "technology_count": 12,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:41:42+00:00"
+  },
+  "hiring_intent": {
+    "domain": "monday.com",
+    "status": "ok",
+    "ats_type": "ashby (official careers feed)",
+    "confidence": "high",
+    "intent_score": 63,
+    "hiring_status": "active_hiring",
+    "total_open_roles": 113,
+    "remote_roles": 5,
+    "roles_posted_last_30_days": 0,
+    "roles_with_known_post_date": 0,
+    "function_breakdown": {
+      "sales": 29,
+      "engineering": 26,
+      "data_ai": 4,
+      "other": 25,
+      "finance_legal": 2,
+      "customer_success": 7,
+      "design": 4,
+      "operations": 3,
+      "product": 4,
+      "marketing": 7,
+      "people": 2
+    },
+    "department_breakdown": {
+      "Consulting": 28,
+      "Agent Labs": 3,
+      "Render": 2,
+      "Customer Strategy & Operations": 2,
+      "Harmony": 2,
+      "R&D": 9,
+      "Solutions Engineering": 5,
+      "Solution & Ops": 3,
+      "Commercial Counsel": 1,
+      "FP&A": 1,
+      "Customer Success": 6,
+      "Customer Management": 1,
+      "Delivery & Solutions": 12,
+      "Product Design": 4,
+      "Information Technology & Data": 2,
+      "RES- Intech": 1,
+      "Security": 1,
+      "Foundations": 1,
+      "Workplace": 2,
+      "GTM": 1,
+      "People Operations & Programs": 1,
+      "CEO Office": 1,
+      "Product": 2,
+      "Revenue Operations": 1,
+      "Revenue Growth": 2,
+      "Talent Acquisition": 3,
+      "Empowerment & Loyalty ": 2,
+      "Marketing Ops & Analytics": 2,
+      "Partnerships": 2,
+      "Total Rewards": 2,
+      "Product Counsel": 1,
+      "Lifecycle & Monetization": 3,
+      "Big Brain": 1,
+      "Tech & AI ": 1,
+      "Tech Touch": 2
+    },
+    "top_locations": {
+      "US Remote": 2,
+      "Melbourne": 1,
+      "Denver": 3,
+      "New York": 14,
+      "Atlanta": 4,
+      "Tel Aviv": 54,
+      "Munich": 3,
+      "London": 13,
+      "Paris": 7,
+      "Zurich (Remote)": 1,
+      "Amsterdam (Remote)": 2,
+      "Sydney": 4,
+      "Singapore": 4,
+      "Warsaw": 1
+    },
+    "top_demanded_technologies": {},
+    "buying_signals": {
+      "cloud_infra": [],
+      "data_ai": [],
+      "databases": [],
+      "observability": [],
+      "sales_tools": []
+    },
+    "notable_open_roles": [
+      {
+        "title": "Account Executive Enterprise",
+        "function": "sales",
+        "department": "Consulting",
+        "location": "US Remote",
+        "is_remote": true,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Account Executive - Mid Market",
+        "function": "sales",
+        "department": "Consulting",
+        "location": "Melbourne",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Account Executive Mid-Market",
+        "function": "sales",
+        "department": "Consulting",
+        "location": "Denver",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Account Executive, SMB",
+        "function": "sales",
+        "department": "Consulting",
+        "location": "New York",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Account Executive, SMB",
+        "function": "sales",
+        "department": "Consulting",
+        "location": "Atlanta",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "AI Engineer (render.ai)",
+        "function": "data_ai",
+        "department": "Render",
+        "location": "Tel Aviv",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "AI Research Scientist (Harmony)",
+        "function": "data_ai",
+        "department": "Harmony",
+        "location": "Tel Aviv",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Applied AI Engineer – Sidekick",
+        "function": "data_ai",
+        "department": "R&D",
+        "location": "Tel Aviv",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Channel Partner Manager - CEE",
+        "function": "other",
+        "department": "Consulting",
+        "location": "Munich",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      },
+      {
+        "title": "Channel Partner Manager - Middle East",
+        "function": "other",
+        "department": "Consulting",
+        "location": "Tel Aviv",
+        "is_remote": false,
+        "posted_date": null,
+        "apply_url": "https://monday.com/careers"
+      }
+    ],
+    "jobs_truncated": false,
+    "checked_at": "2026-10-21T14:48:21.404999+00:00",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board.",
+    "source_url": "https://monday.com/careers",
+    "verification_evidence": "All 113 positions are embedded in the official company careers page.",
+    "limitations": [
+      "The careers feed does not expose posting dates; recent-role counts are unavailable and the heuristic cannot award recency points."
+    ]
+  },
+  "google_ads": {
+    "domain": "monday.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:41:40.496Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR15972262369074085889",
+        "name": "monday.com LTD",
+        "ads_in_sample": 40
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 30000,
+      "high": 40000
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 28,
+      "video": 12
+    },
+    "earliest_first_shown_in_sample": "2022-10-18T19:39:17.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:12:54.000Z",
+    "ads": [
+      {
+        "creative_id": "CR16613392761780961281",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T10:00:01.000Z",
+        "last_shown": "2026-10-21T14:12:54.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/977663235775175038",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR16613392761780961281"
+      },
+      {
+        "creative_id": "CR01117328157142155265",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-09-17T10:38:18.000Z",
+        "last_shown": "2026-10-21T14:08:52.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/97331663588085196",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR01117328157142155265"
+      },
+      {
+        "creative_id": "CR03916046185722281985",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-02-05T16:58:55.000Z",
+        "last_shown": "2026-10-21T14:08:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15361916312996137541",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR03916046185722281985"
+      },
+      {
+        "creative_id": "CR08638702373688049665",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-29T12:27:44.000Z",
+        "last_shown": "2026-10-21T14:08:31.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15478286141063888517",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08638702373688049665"
+      },
+      {
+        "creative_id": "CR00791326704718053377",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-08-31T19:51:59.000Z",
+        "last_shown": "2026-10-21T14:08:24.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1943521983552445181",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR00791326704718053377"
+      },
+      {
+        "creative_id": "CR14319255977990291457",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-08-31T19:25:36.000Z",
+        "last_shown": "2026-10-21T14:08:14.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2353153619&creativeId=822929038055&uiFeatures=12,54&adGroupId=198493313185&sig=ACiVB_y7HDfOnqcEp9xhsAzgGEstzwPsbQ&htmlParentId=fletch-render-1479942714236167566&responseCallback=fletchCallback1479942714236167566",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14319255977990291457"
+      },
+      {
+        "creative_id": "CR15864300265780805633",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-09-24T14:17:51.000Z",
+        "last_shown": "2026-10-21T14:08:00.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4015718689&creativeId=825807744894&uiFeatures=12,54&adGroupId=206192197811&versionId=1&assets=%3DH4sIAAAAAAAAAOMK5-LkeNv3YeMiHgEeLk6O1xM_gZiMXJwcrQ-n3VrII8DBxcGx88rl-X4CmlycHJ2HX8xbyyPAxsXJ8WQyWCkTFyfHh0nzQUpluTg5rkJEmQGv8AeuWQAAAA&sig=ACiVB_x5lcGwCHlxpFRqfOl8MjwCiBQHsg&htmlParentId=fletch-render-6630609385486725980&responseCallback=fletchCallback6630609385486725980",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15864300265780805633"
+      },
+      {
+        "creative_id": "CR08718828184050597889",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-09-17T10:52:43.000Z",
+        "last_shown": "2026-10-21T14:07:23.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8906816928028933030",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08718828184050597889"
+      },
+      {
+        "creative_id": "CR07438825640901476353",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-01-13T09:49:44.000Z",
+        "last_shown": "2026-10-21T14:06:25.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=792483879966&uiFeatures=12,54&adGroupId=191882381735&versionId=3&assets=%3DH4sIAAAAAAAAAOMK5-Lk6Nw0sX8HhwATFyfHmqXfO3ZwCPBwcXA8_rn7oKsAIxcnx_l5ix70sQjIcnFyfN8IVsrMxclxc_rsXX9ZBDi4ODn29YGZmlycHEu2r9_7l0WADQDJvqYnWQAAAA&sig=ACiVB_yRZiW7rnwvPTJoMICQbmuG5ZhhiQ&htmlParentId=fletch-render-2214588398625117096&responseCallback=fletchCallback2214588398625117096",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR07438825640901476353"
+      },
+      {
+        "creative_id": "CR02973233656602034177",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-01-22T10:14:28.000Z",
+        "last_shown": "2026-10-21T14:05:42.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14630906939317295689",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR02973233656602034177"
+      },
+      {
+        "creative_id": "CR04563127470366130177",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-01-22T10:30:05.000Z",
+        "last_shown": "2026-10-21T14:04:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9881856995994901969",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR04563127470366130177"
+      },
+      {
+        "creative_id": "CR06036932999633698817",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2025-03-04T15:20:19.000Z",
+        "last_shown": "2026-10-21T14:04:28.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6528177290&creativeId=736549473252&uiFeatures=12,54&adGroupId=175309977585&versionId=6&overlay=%3DH4sIAAAAAAAAAFWOu0oDURBA1ULk2m2RymIIgt1GLFMIQqptLPIBMs6d3B24jzBzd4n5A_8i2OU79sdkC1Hrcw6c7tnd9Iw-SubmyT2-asAsQTElBs4QJWSGNWyrDlQH5SOMpSpDVRxRYvd56W49G6nsq5TcHN1hM52pDOPsUkmJcwX7yfV_DkGnL2KYTuBlt5vOyrka8IHTPrKBfyh_huz3CInYTN5naTpBLYO1XeuuR7FBY3Pvlqlkjx8tlbQKbPPbW0Xq2VaxBCHh2N25BXovM8O4ZVTqX_wGKzZXy4tv2qv58hoBAAA&sig=ACiVB_zQZjDrSZ7HPNr3DTQg98iQJhxLWg&htmlParentId=fletch-render-1405518276068888905&responseCallback=fletchCallback1405518276068888905",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06036932999633698817"
+      },
+      {
+        "creative_id": "CR04663740412169551873",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-29T12:27:38.000Z",
+        "last_shown": "2026-10-21T14:04:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2758299793588487592",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR04663740412169551873"
+      },
+      {
+        "creative_id": "CR06426711477998059521",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-09-17T10:47:27.000Z",
+        "last_shown": "2026-10-21T14:04:13.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14128048012656637838",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06426711477998059521"
+      },
+      {
+        "creative_id": "CR14161002788368154625",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-01-05T09:46:23.000Z",
+        "last_shown": "2026-10-21T14:03:35.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791195434274&uiFeatures=12,54&adGroupId=182003634140&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwcu5-8frmKU4CHi5NjX9_sXX9ZBDS5ODl61877_JxdQJaLk-PgjNb1qzgFGLk4ObbuXbrxKZsAhxQ7x-Tmad9vsUmxc0yDMWaCGQBJ0mAVXwAAAA&sig=ACiVB_yVv72kCwjWoLuy4h4nM82hz6Dp7A&htmlParentId=fletch-render-15383120626758071698&responseCallback=fletchCallback15383120626758071698",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14161002788368154625"
+      },
+      {
+        "creative_id": "CR13612673522097717249",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T13:02:47.000Z",
+        "last_shown": "2026-10-21T14:03:10.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16628384467696997615",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR13612673522097717249"
+      },
+      {
+        "creative_id": "CR15425225690391248897",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-09-27T17:40:56.000Z",
+        "last_shown": "2026-10-21T14:02:29.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7359649874&creativeId=826135235943&uiFeatures=12,54&adGroupId=202067329633&versionId=3&assets=%3DH4sIAAAAAAAAAOPK4-Lk2P7nzIwNPAKMXJwcf2_2nLjDLcDGxcmxESLKzMXJsQXBfLHv_bI73AKaXJwc687-bNrII8DDxcmxC2HCXgTzHUQtSNsBqCgA_ZUlP3AAAAA&sig=ACiVB_xH_EjYlXlE09aN2Sp9UF0aeWoQ0A&htmlParentId=fletch-render-10365514803251635811&responseCallback=fletchCallback10365514803251635811",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15425225690391248897"
+      },
+      {
+        "creative_id": "CR09790096278686793729",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T09:56:28.000Z",
+        "last_shown": "2026-10-21T14:01:37.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8379965351910975083",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR09790096278686793729"
+      },
+      {
+        "creative_id": "CR17204391600424222721",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-01-08T19:52:29.000Z",
+        "last_shown": "2026-10-21T14:01:30.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791823637589&uiFeatures=12,54&adGroupId=167506407743&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwcu5-8frmKU4CHi5Ojd-28z8_ZBWS5ODkOzmhdv4pTgJGLk2Nf3-xdf1kENLk4ObbuXbrxKZsAhxQ7x7Tmad9vsUmxc0yGMWaCGQDEWCz4XwAAAA&sig=ACiVB_xkFU3Bg9daUX_wDKLGK6H6lqj5bg&htmlParentId=fletch-render-10217502477450644464&responseCallback=fletchCallback10217502477450644464",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR17204391600424222721"
+      },
+      {
+        "creative_id": "CR14066678640758751233",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-08-04T13:47:51.000Z",
+        "last_shown": "2026-10-21T14:00:40.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6133126743753107747",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14066678640758751233"
+      },
+      {
+        "creative_id": "CR17667839805980934145",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T15:03:55.000Z",
+        "last_shown": "2026-10-21T14:00:35.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9607942637073572782",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR17667839805980934145"
+      },
+      {
+        "creative_id": "CR02302287746955214849",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-01-19T16:45:53.000Z",
+        "last_shown": "2026-10-21T14:00:14.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=793520113361&uiFeatures=12,54&adGroupId=193275594673&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwc7f3P995iFZDl4uRY9uLene2cAoxcnBz7-mbv-ssioMnFyXFzOpjJwcXJcf3WwfnbOQV4ABMac8pEAAAA&sig=ACiVB_we6ixzCxyKlyuc3ZIimW7WhXqP8Q&htmlParentId=fletch-render-540797586157363701&responseCallback=fletchCallback540797586157363701",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR02302287746955214849"
+      },
+      {
+        "creative_id": "CR15122679638486155265",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-01-05T12:02:43.000Z",
+        "last_shown": "2026-10-21T14:00:06.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791183734547&uiFeatures=12,54&adGroupId=196716974811&assets=%3DH4sIAAAAAAAAAOOK4OLk2NgxddYEdgEeLk6Ozgl3miewCzBxcXJ0Pel4t5RVQJaLk2PJ9vV7_7IIsHFxctycPnvXXxYBDi5OjjaIWmYuTo59fWBRTS5Ojqlz1zx7yCTACAAiDnpYWgAAAA&sig=ACiVB_zK0Vqvpz945NUTR5VtLGd63-VqUw&htmlParentId=fletch-render-13227593360716850522&responseCallback=fletchCallback13227593360716850522",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15122679638486155265"
+      },
+      {
+        "creative_id": "CR14889642272147636225",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-02-23T16:51:32.000Z",
+        "last_shown": "2026-10-21T13:59:43.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=798108652926&uiFeatures=12,54&adGroupId=197422198990&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk2Hp6T8drZgFmLk6OJdvX7_3LIsDGxcmxCSLKxMXJ0fWk491SVgFZLk6OfX2zd_1lEdDk4uToOQlWwMPFyXFr-4nnm5kEGLk4OW5OByvgAADuRYUSWgAAAA&sig=ACiVB_zk78ryjmpTr3ifTeS3-PNDZ5cJrQ&htmlParentId=fletch-render-17794886135760487380&responseCallback=fletchCallback17794886135760487380",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14889642272147636225"
+      },
+      {
+        "creative_id": "CR00255138589438902273",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-29T12:23:35.000Z",
+        "last_shown": "2026-10-21T13:58:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/469768050779268641",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR00255138589438902273"
+      },
+      {
+        "creative_id": "CR11117879027333857281",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-05-06T10:21:43.000Z",
+        "last_shown": "2026-10-21T13:58:33.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7613697336&creativeId=807979791995&uiFeatures=12,54&adGroupId=199818632761&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk-Dn1ZedcLgFZLk6ORQ1zV83lEmDj4uS4f2rHmrlcAjxcnBxdDatBTEYuTo5pECYTFyfHv_-rQExmLk6O3xCmJhcnx-rez2fncglwAAD_ctGvWgAAAA&sig=ACiVB_xOAgF6hlLJGbumd767RcYDrkdwFA&htmlParentId=fletch-render-8627842154487797661&responseCallback=fletchCallback8627842154487797661",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR11117879027333857281"
+      },
+      {
+        "creative_id": "CR15467484775559725057",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2025-01-07T15:35:51.000Z",
+        "last_shown": "2026-10-21T13:58:29.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14663380617891860004",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15467484775559725057"
+      },
+      {
+        "creative_id": "CR14900555955845464065",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T09:54:31.000Z",
+        "last_shown": "2026-10-21T13:58:00.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7477902270505096656",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14900555955845464065"
+      },
+      {
+        "creative_id": "CR14180650717559128065",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T14:25:00.000Z",
+        "last_shown": "2026-10-21T13:57:15.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13996869886490826729",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14180650717559128065"
+      },
+      {
+        "creative_id": "CR07351196694471507969",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-29T07:00:00.000Z",
+        "last_shown": "2026-10-21T13:54:21.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4897635290265220943",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR07351196694471507969"
+      },
+      {
+        "creative_id": "CR14850930975994544129",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-09-30T17:47:26.000Z",
+        "last_shown": "2026-10-21T13:53:30.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=826488800323&uiFeatures=12,54&adGroupId=184108759808&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk6Nl7c9ESbgFZLk6OrXuXbnzKJsDBxcmxr2_2rr8sAppcnByrX828upFHgImLk-P-oa1_N_II8HBxciyCiDJycXLMhDCZuTg5lmxfv_cviwAbABbEF_taAAAA&sig=ACiVB_wqB-uqqWlScinGOT54n4wMik2foQ&htmlParentId=fletch-render-16832214175152324252&responseCallback=fletchCallback16832214175152324252",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14850930975994544129"
+      },
+      {
+        "creative_id": "CR16241967417406783489",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2022-10-18T19:39:17.000Z",
+        "last_shown": "2026-10-21T13:53:12.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2150541182432075645",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR16241967417406783489"
+      },
+      {
+        "creative_id": "CR01029842602490331137",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2025-01-29T15:40:58.000Z",
+        "last_shown": "2026-10-21T13:53:05.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16773627713913233371",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR01029842602490331137"
+      },
+      {
+        "creative_id": "CR11756704594560811009",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-09-24T12:43:20.000Z",
+        "last_shown": "2026-10-21T13:52:29.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4015718689&creativeId=825844916389&uiFeatures=12,54&adGroupId=199884611643&versionId=3&assets=%3DH4sIAAAAAAAAAOMK5-Lk-NAw5d8aHgEmLk6OzsMv5q3lEWDj4uR4PfHTxkU8AoxcnBzPIQqYuTg59myfDGLycHFw7Lxyeb6fgCbIgEnzby3kEZDl4uRofTgNxOQAAGIKKLBZAAAA&sig=ACiVB_yVo0S5O6aGZEdsXEDifUQDYTRCaw&htmlParentId=fletch-render-11631542457061868708&responseCallback=fletchCallback11631542457061868708",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR11756704594560811009"
+      },
+      {
+        "creative_id": "CR13075886722737242113",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-08-04T13:46:33.000Z",
+        "last_shown": "2026-10-21T13:52:27.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16040203867539692107",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR13075886722737242113"
+      },
+      {
+        "creative_id": "CR14306743544256135169",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2025-01-29T21:08:52.000Z",
+        "last_shown": "2026-10-21T13:52:04.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13722774045647473188",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14306743544256135169"
+      },
+      {
+        "creative_id": "CR06411108042200317953",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2025-06-05T10:53:04.000Z",
+        "last_shown": "2026-10-21T13:51:12.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5989354355710150966",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06411108042200317953"
+      },
+      {
+        "creative_id": "CR09769234213780848641",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "video",
+        "first_shown": "2026-02-23T16:14:27.000Z",
+        "last_shown": "2026-10-21T13:50:51.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=798108652785&uiFeatures=12,54&adGroupId=197422198950&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk2Nc3e9dfFgFNLk6Om9PBTA4uTo7l_5Zum8oqwMPFyTFp2rNDU1kFmLk4OfohTCYuTo5b208838wkwMjFybFk-_q9f1kE2Lg4OTZvuTxxIYuALAAJI7u3WgAAAA&sig=ACiVB_zQdZwHl1LyywRclkfCG-8qMA30WQ&htmlParentId=fletch-render-11317587018025280262&responseCallback=fletchCallback11317587018025280262",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR09769234213780848641"
+      },
+      {
+        "creative_id": "CR08860194008941461505",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-01-26T10:49:08.000Z",
+        "last_shown": "2026-10-21T13:49:55.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/367072962140381747",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08860194008941461505"
+      },
+      {
+        "creative_id": "CR05451537469814079489",
+        "advertiser_id": "AR15972262369074085889",
+        "advertiser_name": "monday.com LTD",
+        "format": "text",
+        "first_shown": "2026-07-28T13:34:45.000Z",
+        "last_shown": "2026-10-21T13:49:02.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2353153619&creativeId=818586593925&uiFeatures=12,54&adGroupId=200238844953&overlay=%3DH4sIAAAAAAAAAG3PsUoEQQyAYc9CZOy2sBKMtp53eoXYCofFgo0-QXYmtxuZSZZM7sSHEXwEH1EWPSvrkD9f2udwPBCmzELNY1jf3kNH1aGwJCg4jiw9VN34GxrBmNE3aqXCRg16cp_G0QiddwQssLpZ3bVfs3CSqEbj0Vml-ZyFj9nTv8WB8ljBCUsF35oAJ8IKLK6AcdpewJpr1B0Z-ECwB7pq_mH8ne8MWaqrFZZ-DlFzxk4Np8ocUBKMpq8UffpDZHL8ihftVTjacd1abi7CeVFJ-L6IWpY9ivt1HNB8uUe3Z-EUU-Kpi_mF0OLwkNbo2BxeHnwDZNX9hFIBAAA&sig=ACiVB_yHwt5yFNszBVuCiQe8bXv9Pbnm8A&htmlParentId=fletch-render-9551995597295426238&responseCallback=fletchCallback9551995597295426238",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR05451537469814079489"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "monday.com",
+        "status": "ok",
+        "final_url": "https://monday.com/",
+        "title": "The AI Workspace for People &amp; Agents | monday.com",
+        "has_meta_pixel": true,
+        "has_google_ads_tag": true,
+        "has_ga4": false,
+        "has_gtm": true,
+        "has_linkedin_insight": true,
+        "has_tiktok_pixel": true,
+        "ad_pixels": [
+          "Meta Pixel",
+          "Google Ads",
+          "LinkedIn Insight",
+          "TikTok Pixel",
+          "X (Twitter) Pixel",
+          "Reddit Pixel",
+          "Microsoft Ads (UET)"
+        ],
+        "analytics": [
+          "Google Tag Manager",
+          "Hotjar"
+        ],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Cloudflare",
+          "Amazon CloudFront"
+        ],
+        "frameworks": [],
+        "payments": [],
+        "cms": "Webflow",
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [
+          "Google Workspace",
+          "Mailchimp",
+          "Salesforce",
+          "Zendesk"
+        ],
+        "dmarc_policy": "reject",
+        "verified_services": [
+          "Google Search Console",
+          "Stripe",
+          "Apple",
+          "DocuSign",
+          "Adobe",
+          "Zoom",
+          "OpenAI",
+          "Miro",
+          "Dropbox",
+          "Figma"
+        ],
+        "technology_count": 12,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:41:42+00:00"
+      },
+      "hiring_intent": {
+        "domain": "monday.com",
+        "status": "ok",
+        "ats_type": "ashby (official careers feed)",
+        "confidence": "high",
+        "intent_score": 63,
+        "hiring_status": "active_hiring",
+        "total_open_roles": 113,
+        "remote_roles": 5,
+        "roles_posted_last_30_days": 0,
+        "roles_with_known_post_date": 0,
+        "function_breakdown": {
+          "sales": 29,
+          "engineering": 26,
+          "data_ai": 4,
+          "other": 25,
+          "finance_legal": 2,
+          "customer_success": 7,
+          "design": 4,
+          "operations": 3,
+          "product": 4,
+          "marketing": 7,
+          "people": 2
+        },
+        "department_breakdown": {
+          "Consulting": 28,
+          "Agent Labs": 3,
+          "Render": 2,
+          "Customer Strategy & Operations": 2,
+          "Harmony": 2,
+          "R&D": 9,
+          "Solutions Engineering": 5,
+          "Solution & Ops": 3,
+          "Commercial Counsel": 1,
+          "FP&A": 1,
+          "Customer Success": 6,
+          "Customer Management": 1,
+          "Delivery & Solutions": 12,
+          "Product Design": 4,
+          "Information Technology & Data": 2,
+          "RES- Intech": 1,
+          "Security": 1,
+          "Foundations": 1,
+          "Workplace": 2,
+          "GTM": 1,
+          "People Operations & Programs": 1,
+          "CEO Office": 1,
+          "Product": 2,
+          "Revenue Operations": 1,
+          "Revenue Growth": 2,
+          "Talent Acquisition": 3,
+          "Empowerment & Loyalty ": 2,
+          "Marketing Ops & Analytics": 2,
+          "Partnerships": 2,
+          "Total Rewards": 2,
+          "Product Counsel": 1,
+          "Lifecycle & Monetization": 3,
+          "Big Brain": 1,
+          "Tech & AI ": 1,
+          "Tech Touch": 2
+        },
+        "top_locations": {
+          "US Remote": 2,
+          "Melbourne": 1,
+          "Denver": 3,
+          "New York": 14,
+          "Atlanta": 4,
+          "Tel Aviv": 54,
+          "Munich": 3,
+          "London": 13,
+          "Paris": 7,
+          "Zurich (Remote)": 1,
+          "Amsterdam (Remote)": 2,
+          "Sydney": 4,
+          "Singapore": 4,
+          "Warsaw": 1
+        },
+        "top_demanded_technologies": {},
+        "buying_signals": {
+          "cloud_infra": [],
+          "data_ai": [],
+          "databases": [],
+          "observability": [],
+          "sales_tools": []
+        },
+        "notable_open_roles": [
+          {
+            "title": "Account Executive Enterprise",
+            "function": "sales",
+            "department": "Consulting",
+            "location": "US Remote",
+            "is_remote": true,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Account Executive - Mid Market",
+            "function": "sales",
+            "department": "Consulting",
+            "location": "Melbourne",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Account Executive Mid-Market",
+            "function": "sales",
+            "department": "Consulting",
+            "location": "Denver",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Account Executive, SMB",
+            "function": "sales",
+            "department": "Consulting",
+            "location": "New York",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Account Executive, SMB",
+            "function": "sales",
+            "department": "Consulting",
+            "location": "Atlanta",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "AI Engineer (render.ai)",
+            "function": "data_ai",
+            "department": "Render",
+            "location": "Tel Aviv",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "AI Research Scientist (Harmony)",
+            "function": "data_ai",
+            "department": "Harmony",
+            "location": "Tel Aviv",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Applied AI Engineer – Sidekick",
+            "function": "data_ai",
+            "department": "R&D",
+            "location": "Tel Aviv",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Channel Partner Manager - CEE",
+            "function": "other",
+            "department": "Consulting",
+            "location": "Munich",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          },
+          {
+            "title": "Channel Partner Manager - Middle East",
+            "function": "other",
+            "department": "Consulting",
+            "location": "Tel Aviv",
+            "is_remote": false,
+            "posted_date": null,
+            "apply_url": "https://monday.com/careers"
+          }
+        ],
+        "jobs_truncated": false,
+        "checked_at": "2026-10-21T14:48:21.404999+00:00",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board.",
+        "source_url": "https://monday.com/careers",
+        "verification_evidence": "All 113 positions are embedded in the official company careers page.",
+        "limitations": [
+          "The careers feed does not expose posting dates; recent-role counts are unavailable and the heuristic cannot award recency points."
+        ]
+      },
+      "google_ads": {
+        "domain": "monday.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:41:40.496Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR15972262369074085889",
+            "name": "monday.com LTD",
+            "ads_in_sample": 40
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 30000,
+          "high": 40000
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 28,
+          "video": 12
+        },
+        "earliest_first_shown_in_sample": "2022-10-18T19:39:17.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:12:54.000Z",
+        "ads": [
+          {
+            "creative_id": "CR16613392761780961281",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T10:00:01.000Z",
+            "last_shown": "2026-10-21T14:12:54.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/977663235775175038",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR16613392761780961281"
+          },
+          {
+            "creative_id": "CR01117328157142155265",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-09-17T10:38:18.000Z",
+            "last_shown": "2026-10-21T14:08:52.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/97331663588085196",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR01117328157142155265"
+          },
+          {
+            "creative_id": "CR03916046185722281985",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-02-05T16:58:55.000Z",
+            "last_shown": "2026-10-21T14:08:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15361916312996137541",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR03916046185722281985"
+          },
+          {
+            "creative_id": "CR08638702373688049665",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-29T12:27:44.000Z",
+            "last_shown": "2026-10-21T14:08:31.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15478286141063888517",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08638702373688049665"
+          },
+          {
+            "creative_id": "CR00791326704718053377",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-08-31T19:51:59.000Z",
+            "last_shown": "2026-10-21T14:08:24.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1943521983552445181",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR00791326704718053377"
+          },
+          {
+            "creative_id": "CR14319255977990291457",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-08-31T19:25:36.000Z",
+            "last_shown": "2026-10-21T14:08:14.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2353153619&creativeId=822929038055&uiFeatures=12,54&adGroupId=198493313185&sig=ACiVB_y7HDfOnqcEp9xhsAzgGEstzwPsbQ&htmlParentId=fletch-render-1479942714236167566&responseCallback=fletchCallback1479942714236167566",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14319255977990291457"
+          },
+          {
+            "creative_id": "CR15864300265780805633",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-09-24T14:17:51.000Z",
+            "last_shown": "2026-10-21T14:08:00.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4015718689&creativeId=825807744894&uiFeatures=12,54&adGroupId=206192197811&versionId=1&assets=%3DH4sIAAAAAAAAAOMK5-LkeNv3YeMiHgEeLk6O1xM_gZiMXJwcrQ-n3VrII8DBxcGx88rl-X4CmlycHJ2HX8xbyyPAxsXJ8WQyWCkTFyfHh0nzQUpluTg5rkJEmQGv8AeuWQAAAA&sig=ACiVB_x5lcGwCHlxpFRqfOl8MjwCiBQHsg&htmlParentId=fletch-render-6630609385486725980&responseCallback=fletchCallback6630609385486725980",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15864300265780805633"
+          },
+          {
+            "creative_id": "CR08718828184050597889",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-09-17T10:52:43.000Z",
+            "last_shown": "2026-10-21T14:07:23.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8906816928028933030",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08718828184050597889"
+          },
+          {
+            "creative_id": "CR07438825640901476353",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-01-13T09:49:44.000Z",
+            "last_shown": "2026-10-21T14:06:25.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=792483879966&uiFeatures=12,54&adGroupId=191882381735&versionId=3&assets=%3DH4sIAAAAAAAAAOMK5-Lk6Nw0sX8HhwATFyfHmqXfO3ZwCPBwcXA8_rn7oKsAIxcnx_l5ix70sQjIcnFyfN8IVsrMxclxc_rsXX9ZBDi4ODn29YGZmlycHEu2r9_7l0WADQDJvqYnWQAAAA&sig=ACiVB_yRZiW7rnwvPTJoMICQbmuG5ZhhiQ&htmlParentId=fletch-render-2214588398625117096&responseCallback=fletchCallback2214588398625117096",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR07438825640901476353"
+          },
+          {
+            "creative_id": "CR02973233656602034177",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-01-22T10:14:28.000Z",
+            "last_shown": "2026-10-21T14:05:42.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14630906939317295689",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR02973233656602034177"
+          },
+          {
+            "creative_id": "CR04563127470366130177",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-01-22T10:30:05.000Z",
+            "last_shown": "2026-10-21T14:04:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9881856995994901969",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR04563127470366130177"
+          },
+          {
+            "creative_id": "CR06036932999633698817",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2025-03-04T15:20:19.000Z",
+            "last_shown": "2026-10-21T14:04:28.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=6528177290&creativeId=736549473252&uiFeatures=12,54&adGroupId=175309977585&versionId=6&overlay=%3DH4sIAAAAAAAAAFWOu0oDURBA1ULk2m2RymIIgt1GLFMIQqptLPIBMs6d3B24jzBzd4n5A_8i2OU79sdkC1Hrcw6c7tnd9Iw-SubmyT2-asAsQTElBs4QJWSGNWyrDlQH5SOMpSpDVRxRYvd56W49G6nsq5TcHN1hM52pDOPsUkmJcwX7yfV_DkGnL2KYTuBlt5vOyrka8IHTPrKBfyh_huz3CInYTN5naTpBLYO1XeuuR7FBY3Pvlqlkjx8tlbQKbPPbW0Xq2VaxBCHh2N25BXovM8O4ZVTqX_wGKzZXy4tv2qv58hoBAAA&sig=ACiVB_zQZjDrSZ7HPNr3DTQg98iQJhxLWg&htmlParentId=fletch-render-1405518276068888905&responseCallback=fletchCallback1405518276068888905",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06036932999633698817"
+          },
+          {
+            "creative_id": "CR04663740412169551873",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-29T12:27:38.000Z",
+            "last_shown": "2026-10-21T14:04:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2758299793588487592",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR04663740412169551873"
+          },
+          {
+            "creative_id": "CR06426711477998059521",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-09-17T10:47:27.000Z",
+            "last_shown": "2026-10-21T14:04:13.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14128048012656637838",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06426711477998059521"
+          },
+          {
+            "creative_id": "CR14161002788368154625",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-01-05T09:46:23.000Z",
+            "last_shown": "2026-10-21T14:03:35.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791195434274&uiFeatures=12,54&adGroupId=182003634140&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwcu5-8frmKU4CHi5NjX9_sXX9ZBDS5ODl61877_JxdQJaLk-PgjNb1qzgFGLk4ObbuXbrxKZsAhxQ7x-Tmad9vsUmxc0yDMWaCGQBJ0mAVXwAAAA&sig=ACiVB_yVv72kCwjWoLuy4h4nM82hz6Dp7A&htmlParentId=fletch-render-15383120626758071698&responseCallback=fletchCallback15383120626758071698",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14161002788368154625"
+          },
+          {
+            "creative_id": "CR13612673522097717249",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T13:02:47.000Z",
+            "last_shown": "2026-10-21T14:03:10.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16628384467696997615",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR13612673522097717249"
+          },
+          {
+            "creative_id": "CR15425225690391248897",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-09-27T17:40:56.000Z",
+            "last_shown": "2026-10-21T14:02:29.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7359649874&creativeId=826135235943&uiFeatures=12,54&adGroupId=202067329633&versionId=3&assets=%3DH4sIAAAAAAAAAOPK4-Lk2P7nzIwNPAKMXJwcf2_2nLjDLcDGxcmxESLKzMXJsQXBfLHv_bI73AKaXJwc687-bNrII8DDxcmxC2HCXgTzHUQtSNsBqCgA_ZUlP3AAAAA&sig=ACiVB_xH_EjYlXlE09aN2Sp9UF0aeWoQ0A&htmlParentId=fletch-render-10365514803251635811&responseCallback=fletchCallback10365514803251635811",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15425225690391248897"
+          },
+          {
+            "creative_id": "CR09790096278686793729",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T09:56:28.000Z",
+            "last_shown": "2026-10-21T14:01:37.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8379965351910975083",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR09790096278686793729"
+          },
+          {
+            "creative_id": "CR17204391600424222721",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-01-08T19:52:29.000Z",
+            "last_shown": "2026-10-21T14:01:30.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791823637589&uiFeatures=12,54&adGroupId=167506407743&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwcu5-8frmKU4CHi5Ojd-28z8_ZBWS5ODkOzmhdv4pTgJGLk2Nf3-xdf1kENLk4ObbuXbrxKZsAhxQ7x7Tmad9vsUmxc0yGMWaCGQDEWCz4XwAAAA&sig=ACiVB_xkFU3Bg9daUX_wDKLGK6H6lqj5bg&htmlParentId=fletch-render-10217502477450644464&responseCallback=fletchCallback10217502477450644464",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR17204391600424222721"
+          },
+          {
+            "creative_id": "CR14066678640758751233",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-08-04T13:47:51.000Z",
+            "last_shown": "2026-10-21T14:00:40.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6133126743753107747",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14066678640758751233"
+          },
+          {
+            "creative_id": "CR17667839805980934145",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T15:03:55.000Z",
+            "last_shown": "2026-10-21T14:00:35.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9607942637073572782",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR17667839805980934145"
+          },
+          {
+            "creative_id": "CR02302287746955214849",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-01-19T16:45:53.000Z",
+            "last_shown": "2026-10-21T14:00:14.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=793520113361&uiFeatures=12,54&adGroupId=193275594673&versionId=3&assets=%3DH4sIAAAAAAAAAONy4uLkWLJ9_d6_LAJsXJwc7f3P995iFZDl4uRY9uLene2cAoxcnBz7-mbv-ssioMnFyXFzOpjJwcXJcf3WwfnbOQV4ABMac8pEAAAA&sig=ACiVB_we6ixzCxyKlyuc3ZIimW7WhXqP8Q&htmlParentId=fletch-render-540797586157363701&responseCallback=fletchCallback540797586157363701",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR02302287746955214849"
+          },
+          {
+            "creative_id": "CR15122679638486155265",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-01-05T12:02:43.000Z",
+            "last_shown": "2026-10-21T14:00:06.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=791183734547&uiFeatures=12,54&adGroupId=196716974811&assets=%3DH4sIAAAAAAAAAOOK4OLk2NgxddYEdgEeLk6Ozgl3miewCzBxcXJ0Pel4t5RVQJaLk2PJ9vV7_7IIsHFxctycPnvXXxYBDi5OjjaIWmYuTo59fWBRTS5Ojqlz1zx7yCTACAAiDnpYWgAAAA&sig=ACiVB_zK0Vqvpz945NUTR5VtLGd63-VqUw&htmlParentId=fletch-render-13227593360716850522&responseCallback=fletchCallback13227593360716850522",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15122679638486155265"
+          },
+          {
+            "creative_id": "CR14889642272147636225",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-02-23T16:51:32.000Z",
+            "last_shown": "2026-10-21T13:59:43.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=798108652926&uiFeatures=12,54&adGroupId=197422198990&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk2Hp6T8drZgFmLk6OJdvX7_3LIsDGxcmxCSLKxMXJ0fWk491SVgFZLk6OfX2zd_1lEdDk4uToOQlWwMPFyXFr-4nnm5kEGLk4OW5OByvgAADuRYUSWgAAAA&sig=ACiVB_zk78ryjmpTr3ifTeS3-PNDZ5cJrQ&htmlParentId=fletch-render-17794886135760487380&responseCallback=fletchCallback17794886135760487380",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14889642272147636225"
+          },
+          {
+            "creative_id": "CR00255138589438902273",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-29T12:23:35.000Z",
+            "last_shown": "2026-10-21T13:58:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/469768050779268641",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR00255138589438902273"
+          },
+          {
+            "creative_id": "CR11117879027333857281",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-05-06T10:21:43.000Z",
+            "last_shown": "2026-10-21T13:58:33.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=7613697336&creativeId=807979791995&uiFeatures=12,54&adGroupId=199818632761&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk-Dn1ZedcLgFZLk6ORQ1zV83lEmDj4uS4f2rHmrlcAjxcnBxdDatBTEYuTo5pECYTFyfHv_-rQExmLk6O3xCmJhcnx-rez2fncglwAAD_ctGvWgAAAA&sig=ACiVB_xOAgF6hlLJGbumd767RcYDrkdwFA&htmlParentId=fletch-render-8627842154487797661&responseCallback=fletchCallback8627842154487797661",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR11117879027333857281"
+          },
+          {
+            "creative_id": "CR15467484775559725057",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2025-01-07T15:35:51.000Z",
+            "last_shown": "2026-10-21T13:58:29.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14663380617891860004",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR15467484775559725057"
+          },
+          {
+            "creative_id": "CR14900555955845464065",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T09:54:31.000Z",
+            "last_shown": "2026-10-21T13:58:00.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7477902270505096656",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14900555955845464065"
+          },
+          {
+            "creative_id": "CR14180650717559128065",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T14:25:00.000Z",
+            "last_shown": "2026-10-21T13:57:15.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13996869886490826729",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14180650717559128065"
+          },
+          {
+            "creative_id": "CR07351196694471507969",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-29T07:00:00.000Z",
+            "last_shown": "2026-10-21T13:54:21.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4897635290265220943",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR07351196694471507969"
+          },
+          {
+            "creative_id": "CR14850930975994544129",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-09-30T17:47:26.000Z",
+            "last_shown": "2026-10-21T13:53:30.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=826488800323&uiFeatures=12,54&adGroupId=184108759808&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk6Nl7c9ESbgFZLk6OrXuXbnzKJsDBxcmxr2_2rr8sAppcnByrX828upFHgImLk-P-oa1_N_II8HBxciyCiDJycXLMhDCZuTg5lmxfv_cviwAbABbEF_taAAAA&sig=ACiVB_wqB-uqqWlScinGOT54n4wMik2foQ&htmlParentId=fletch-render-16832214175152324252&responseCallback=fletchCallback16832214175152324252",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14850930975994544129"
+          },
+          {
+            "creative_id": "CR16241967417406783489",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2022-10-18T19:39:17.000Z",
+            "last_shown": "2026-10-21T13:53:12.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/2150541182432075645",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR16241967417406783489"
+          },
+          {
+            "creative_id": "CR01029842602490331137",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2025-01-29T15:40:58.000Z",
+            "last_shown": "2026-10-21T13:53:05.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16773627713913233371",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR01029842602490331137"
+          },
+          {
+            "creative_id": "CR11756704594560811009",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-09-24T12:43:20.000Z",
+            "last_shown": "2026-10-21T13:52:29.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=4015718689&creativeId=825844916389&uiFeatures=12,54&adGroupId=199884611643&versionId=3&assets=%3DH4sIAAAAAAAAAOMK5-Lk-NAw5d8aHgEmLk6OzsMv5q3lEWDj4uR4PfHTxkU8AoxcnBzPIQqYuTg59myfDGLycHFw7Lxyeb6fgCbIgEnzby3kEZDl4uRofTgNxOQAAGIKKLBZAAAA&sig=ACiVB_yVo0S5O6aGZEdsXEDifUQDYTRCaw&htmlParentId=fletch-render-11631542457061868708&responseCallback=fletchCallback11631542457061868708",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR11756704594560811009"
+          },
+          {
+            "creative_id": "CR13075886722737242113",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-08-04T13:46:33.000Z",
+            "last_shown": "2026-10-21T13:52:27.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16040203867539692107",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR13075886722737242113"
+          },
+          {
+            "creative_id": "CR14306743544256135169",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2025-01-29T21:08:52.000Z",
+            "last_shown": "2026-10-21T13:52:04.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/13722774045647473188",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR14306743544256135169"
+          },
+          {
+            "creative_id": "CR06411108042200317953",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2025-06-05T10:53:04.000Z",
+            "last_shown": "2026-10-21T13:51:12.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5989354355710150966",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR06411108042200317953"
+          },
+          {
+            "creative_id": "CR09769234213780848641",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "video",
+            "first_shown": "2026-02-23T16:14:27.000Z",
+            "last_shown": "2026-10-21T13:50:51.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=3638868375&creativeId=798108652785&uiFeatures=12,54&adGroupId=197422198950&versionId=2&assets=%3DH4sIAAAAAAAAAOOK4OLk2Nc3e9dfFgFNLk6Om9PBTA4uTo7l_5Zum8oqwMPFyTFp2rNDU1kFmLk4OfohTCYuTo5b208838wkwMjFybFk-_q9f1kE2Lg4OTZvuTxxIYuALAAJI7u3WgAAAA&sig=ACiVB_zQdZwHl1LyywRclkfCG-8qMA30WQ&htmlParentId=fletch-render-11317587018025280262&responseCallback=fletchCallback11317587018025280262",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR09769234213780848641"
+          },
+          {
+            "creative_id": "CR08860194008941461505",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-01-26T10:49:08.000Z",
+            "last_shown": "2026-10-21T13:49:55.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/367072962140381747",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR08860194008941461505"
+          },
+          {
+            "creative_id": "CR05451537469814079489",
+            "advertiser_id": "AR15972262369074085889",
+            "advertiser_name": "monday.com LTD",
+            "format": "text",
+            "first_shown": "2026-07-28T13:34:45.000Z",
+            "last_shown": "2026-10-21T13:49:02.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=2353153619&creativeId=818586593925&uiFeatures=12,54&adGroupId=200238844953&overlay=%3DH4sIAAAAAAAAAG3PsUoEQQyAYc9CZOy2sBKMtp53eoXYCofFgo0-QXYmtxuZSZZM7sSHEXwEH1EWPSvrkD9f2udwPBCmzELNY1jf3kNH1aGwJCg4jiw9VN34GxrBmNE3aqXCRg16cp_G0QiddwQssLpZ3bVfs3CSqEbj0Vml-ZyFj9nTv8WB8ljBCUsF35oAJ8IKLK6AcdpewJpr1B0Z-ECwB7pq_mH8ne8MWaqrFZZ-DlFzxk4Np8ocUBKMpq8UffpDZHL8ihftVTjacd1abi7CeVFJ-L6IWpY9ivt1HNB8uUe3Z-EUU-Kpi_mF0OLwkNbo2BxeHnwDZNX9hFIBAAA&sig=ACiVB_yHwt5yFNszBVuCiQe8bXv9Pbnm8A&htmlParentId=fletch-render-9551995597295426238&responseCallback=fletchCallback9551995597295426238",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15972262369074085889/creative/CR05451537469814079489"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    },
+    "supplemental_hiring_source": "https://monday.com/careers"
+  }
+}

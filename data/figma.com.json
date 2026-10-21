@@ -1,0 +1,1359 @@
+{
+  "domain": "figma.com",
+  "sections_status": {
+    "tech_stack": "ok",
+    "hiring_intent": "ok",
+    "google_ads": "ok"
+  },
+  "sections_with_data": [
+    "tech_stack",
+    "hiring_intent",
+    "google_ads"
+  ],
+  "footprint": {
+    "website_ad_or_analytics_tags": "not_found",
+    "job_board_with_open_roles": "found",
+    "google_ads": "found"
+  },
+  "checked_at": "2026-10-21T14:42:09.482Z",
+  "status": "ok",
+  "signals": [
+    "Hiring: hypergrowth, 140 open roles, 38 posted in the last 30 days, intent_score 100.",
+    "Runs Google Ads: 40 ads in the sample, Google estimate 1000-2000 ads.",
+    "No ad pixels detected on the home page.",
+    "Site platform: Sanity."
+  ],
+  "tech_stack": {
+    "domain": "figma.com",
+    "status": "ok",
+    "final_url": "https://www.figma.com/",
+    "title": "Figma: The collaborative canvas for design, code, and AI",
+    "has_meta_pixel": false,
+    "has_google_ads_tag": false,
+    "has_ga4": false,
+    "has_gtm": false,
+    "has_linkedin_insight": false,
+    "has_tiktok_pixel": false,
+    "ad_pixels": [],
+    "analytics": [],
+    "marketing_tools": [],
+    "hosting_cdn": [
+      "Netlify",
+      "Amazon CloudFront"
+    ],
+    "frameworks": [
+      "Next.js",
+      "React"
+    ],
+    "payments": [],
+    "cms": "Sanity",
+    "ecommerce": null,
+    "email_provider": "Google Workspace",
+    "spf_senders": [
+      "Google Workspace",
+      "Zendesk"
+    ],
+    "dmarc_policy": "quarantine",
+    "verified_services": [
+      "Google Search Console",
+      "Microsoft 365",
+      "Atlassian",
+      "Stripe",
+      "Apple",
+      "DocuSign",
+      "Adobe",
+      "OpenAI",
+      "Notion",
+      "Dropbox",
+      "Figma"
+    ],
+    "technology_count": 5,
+    "added": null,
+    "removed": null,
+    "is_first_run": null,
+    "note": null,
+    "checked_at": "2026-10-21T14:42:09+00:00"
+  },
+  "hiring_intent": {
+    "domain": "figma.com",
+    "status": "ok",
+    "ats_type": "greenhouse",
+    "confidence": "unverified",
+    "intent_score": 100,
+    "hiring_status": "hypergrowth",
+    "total_open_roles": 140,
+    "remote_roles": 0,
+    "roles_posted_last_30_days": 38,
+    "roles_with_known_post_date": 140,
+    "function_breakdown": {
+      "sales": 38,
+      "data_ai": 6,
+      "marketing": 11,
+      "people": 3,
+      "other": 33,
+      "engineering": 25,
+      "customer_success": 3,
+      "design": 10,
+      "finance_legal": 3,
+      "product": 6,
+      "operations": 2
+    },
+    "department_breakdown": {
+      "Sales": 45,
+      "Engineering": 26,
+      "Early Career": 11,
+      "Business Operations": 10,
+      "Design": 10,
+      "Marketing": 9,
+      "People": 7,
+      "Customer Operations and Support": 6,
+      "Product": 6,
+      "Business Development": 4
+    },
+    "top_locations": {
+      "San Francisco, CA • New York, NY • United States": 70,
+      "London, England": 19,
+      "San Francisco, CA • New York, NY": 13,
+      "Berlin, Germany": 7,
+      "São Paulo, Brazil": 5,
+      "Paris, France": 4,
+      "San Francisco, CA": 4,
+      "Bengaluru, India": 3,
+      "New York, NY • United States": 3,
+      "Singapore": 2
+    },
+    "top_demanded_technologies": {
+      "Figma": 140,
+      "Python": 23,
+      "LLMs": 14,
+      "TypeScript": 12,
+      "SQL": 10,
+      "C++": 9,
+      "Machine Learning": 9,
+      "Salesforce": 8,
+      "Ruby": 8,
+      "Go": 8,
+      "Generative AI": 7,
+      "Snowflake": 6,
+      "React": 6,
+      "AWS": 5,
+      "CI/CD": 5
+    },
+    "buying_signals": {
+      "cloud_infra": [
+        "AWS",
+        "CI/CD"
+      ],
+      "data_ai": [
+        "LLMs",
+        "Machine Learning",
+        "Generative AI",
+        "Snowflake"
+      ],
+      "databases": [],
+      "observability": [],
+      "sales_tools": [
+        "Salesforce"
+      ]
+    },
+    "notable_open_roles": [
+      {
+        "title": "Manager, Solutions Consulting",
+        "function": "other",
+        "department": "Sales",
+        "location": "New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-20T13:46:17-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6223693004?gh_jid=6223693004"
+      },
+      {
+        "title": "Manager, Recruiting (London, United Kingdom)",
+        "function": "other",
+        "department": "Talent",
+        "location": "London, England",
+        "is_remote": false,
+        "posted_date": "2026-10-20T09:57:48-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6226427004?gh_jid=6226427004"
+      },
+      {
+        "title": "Manager, Software Engineering - AI Infrastructure",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "San Francisco, CA • New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-19T19:44:50-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004"
+      },
+      {
+        "title": "Manager, Software Engineering - External Platform",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-19T17:44:06-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6224661004?gh_jid=6224661004"
+      },
+      {
+        "title": "Manager, Software Engineering - Production Engineering",
+        "function": "engineering",
+        "department": "Engineering",
+        "location": "San Francisco, CA • New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-19T13:49:15-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6223657004?gh_jid=6223657004"
+      },
+      {
+        "title": "Senior Solutions Consultant (Seoul, South Korea)",
+        "function": "other",
+        "department": "Sales",
+        "location": "Seoul, South Korea",
+        "is_remote": false,
+        "posted_date": "2026-10-19T04:13:42-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6225172004?gh_jid=6225172004"
+      },
+      {
+        "title": "Director, Governance Risk & Compliance",
+        "function": "finance_legal",
+        "department": "Business Operations",
+        "location": "San Francisco, CA • New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-14T12:51:31-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6211088004?gh_jid=6211088004"
+      },
+      {
+        "title": "Senior Order Management Analyst",
+        "function": "other",
+        "department": "Business Operations",
+        "location": "San Francisco, CA • New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-14T10:50:37-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6217137004?gh_jid=6217137004"
+      },
+      {
+        "title": "Director, Product Communications",
+        "function": "marketing",
+        "department": "Marketing",
+        "location": "San Francisco, CA • New York, NY • United States",
+        "is_remote": false,
+        "posted_date": "2026-10-13T22:53:22-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004"
+      },
+      {
+        "title": "Early Career, Inside Sales Representative (2027)",
+        "function": "sales",
+        "department": "Early Career",
+        "location": "San Francisco, CA • New York, NY",
+        "is_remote": false,
+        "posted_date": "2026-10-11T15:54:43-04:00",
+        "apply_url": "https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004"
+      }
+    ],
+    "jobs_truncated": false,
+    "checked_at": "2026-10-21T14:42:07Z",
+    "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+  },
+  "google_ads": {
+    "domain": "figma.com",
+    "region": "anywhere",
+    "checked_at": "2026-10-21T14:42:05.230Z",
+    "status": "ok",
+    "advertisers": [
+      {
+        "advertiser_id": "AR15466204033491927041",
+        "name": "Figma INC",
+        "ads_in_sample": 39
+      },
+      {
+        "advertiser_id": "AR03250851065486114817",
+        "name": "Obra Studio",
+        "ads_in_sample": 1
+      }
+    ],
+    "total_ads_estimate": {
+      "low": 1000,
+      "high": 2000
+    },
+    "ads_returned": 40,
+    "ads_shown_last_30_days_in_sample": 40,
+    "formats_in_sample": {
+      "text": 28,
+      "video": 11,
+      "image": 1
+    },
+    "earliest_first_shown_in_sample": "2025-05-19T18:01:45.000Z",
+    "latest_last_shown_in_sample": "2026-10-21T14:04:35.000Z",
+    "ads": [
+      {
+        "creative_id": "CR16703721421573980161",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-03-11T07:03:45.000Z",
+        "last_shown": "2026-10-21T14:04:35.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16620852390468283978",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16703721421573980161"
+      },
+      {
+        "creative_id": "CR16180216379079655425",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-14T21:57:36.000Z",
+        "last_shown": "2026-10-21T13:57:56.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/34733087185354165",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16180216379079655425"
+      },
+      {
+        "creative_id": "CR17892941309707026433",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-06-25T05:50:16.000Z",
+        "last_shown": "2026-10-21T13:51:18.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=813434129177&uiFeatures=12,54&adGroupId=188544503168&sig=ACiVB_wxC5kQFdCvMk0LZIGDPyrZO_dUzA&htmlParentId=fletch-render-2528523153229578128&responseCallback=fletchCallback2528523153229578128",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR17892941309707026433"
+      },
+      {
+        "creative_id": "CR13586487415731650561",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-06-10T12:00:18.000Z",
+        "last_shown": "2026-10-21T13:37:01.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=812229409662&uiFeatures=12,54&adGroupId=195661356845&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_yNPQ9umFVdtsKZ1jm-ISDG_bnkKA&htmlParentId=fletch-render-14957333207877605110&responseCallback=fletchCallback14957333207877605110",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13586487415731650561"
+      },
+      {
+        "creative_id": "CR06433109407311069185",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-08-12T16:54:29.000Z",
+        "last_shown": "2026-10-21T13:28:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16777182961980770593",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR06433109407311069185"
+      },
+      {
+        "creative_id": "CR00632820558702051329",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-09-03T21:51:14.000Z",
+        "last_shown": "2026-10-21T13:28:15.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9147591850653366691",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR00632820558702051329"
+      },
+      {
+        "creative_id": "CR03222473331798179841",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-07-25T14:12:42.000Z",
+        "last_shown": "2026-10-21T13:27:38.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4981377901342375514",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR03222473331798179841"
+      },
+      {
+        "creative_id": "CR04552593461777268737",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-04-06T18:06:36.000Z",
+        "last_shown": "2026-10-21T13:27:32.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1644529730176317722",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR04552593461777268737"
+      },
+      {
+        "creative_id": "CR16224468561001709569",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-16T18:53:37.000Z",
+        "last_shown": "2026-10-21T13:24:47.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074357596&uiFeatures=12,54&adGroupId=197925063986&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_ysR9jh5-BEM7bC71jD28eaAE0SlA&htmlParentId=fletch-render-7208058362278798553&responseCallback=fletchCallback7208058362278798553",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16224468561001709569"
+      },
+      {
+        "creative_id": "CR06365707858469715969",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-27T22:29:46.000Z",
+        "last_shown": "2026-10-21T13:23:52.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4330210157442392824",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR06365707858469715969"
+      },
+      {
+        "creative_id": "CR12244804915964149761",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:19:00.000Z",
+        "last_shown": "2026-10-21T13:23:47.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177546&uiFeatures=12,54&adGroupId=202388733110&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiZkI6d_goQAQoJCNrs3-PlChAICgkI26iOnv4KEAwKCQi2iMjfnwoQBgoICMbirZYmECkaBwjKx4Px7wldigZWQQAAAA&sig=ACiVB_ygWY-549-nCkakOwe_NJ74LpSvOA&htmlParentId=fletch-render-5880991818498595887&responseCallback=fletchCallback5880991818498595887",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR12244804915964149761"
+      },
+      {
+        "creative_id": "CR08062697789861134337",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-08-05T15:25:02.000Z",
+        "last_shown": "2026-10-21T13:22:42.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5487994473019780031",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08062697789861134337"
+      },
+      {
+        "creative_id": "CR18014892404951220225",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:12:30.000Z",
+        "last_shown": "2026-10-21T13:16:28.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177330&uiFeatures=12,54&adGroupId=198746455379&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCNrs3-PlChAICggIxuKtliYQKQoJCJaQjp3-ChABCgkI26iOnv4KEAwaBwjKx4Px7wmpZ09BQQAAAA&sig=ACiVB_xyau9yOB9hh2XY0CscGWXzXefC0A&htmlParentId=fletch-render-4215926275107793310&responseCallback=fletchCallback4215926275107793310",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR18014892404951220225"
+      },
+      {
+        "creative_id": "CR10443078367359008769",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-08-18T07:13:45.000Z",
+        "last_shown": "2026-10-21T13:08:32.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3102536335603662007",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10443078367359008769"
+      },
+      {
+        "creative_id": "CR15628978560956366849",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:16:58.000Z",
+        "last_shown": "2026-10-21T13:08:25.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177504&uiFeatures=12,54&adGroupId=205308334944&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiZkI6d_goQAQoICMbirZYmECkKCQi2iMjfnwoQBgoJCNuojp7-ChAMCgkI2uzf4-UKEAgaBwjKx4Px7wlxntNGQQAAAA&sig=ACiVB_wk9sBWT4tCMDD035db4Rv9vQw7yQ&htmlParentId=fletch-render-14957390692772740971&responseCallback=fletchCallback14957390692772740971",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15628978560956366849"
+      },
+      {
+        "creative_id": "CR01623756375307845633",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-06-25T10:45:45.000Z",
+        "last_shown": "2026-10-21T13:06:14.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=814038406980&uiFeatures=12,54&adGroupId=198716449118&sig=ACiVB_xEfXtTRlENhDtnGTim_nLXHS09vQ&htmlParentId=fletch-render-10055251162752100117&responseCallback=fletchCallback10055251162752100117",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01623756375307845633"
+      },
+      {
+        "creative_id": "CR05273595918178844673",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-05-19T18:01:45.000Z",
+        "last_shown": "2026-10-21T13:05:02.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15574821322449109111",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR05273595918178844673"
+      },
+      {
+        "creative_id": "CR09395576250916929537",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-06-25T05:05:48.000Z",
+        "last_shown": "2026-10-21T12:59:04.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=813363276607&uiFeatures=12,54&adGroupId=188930568222&sig=ACiVB_yAjR0j5zUnSrksMWUgo142GVmTZQ&htmlParentId=fletch-render-3736570311679046063&responseCallback=fletchCallback3736570311679046063",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR09395576250916929537"
+      },
+      {
+        "creative_id": "CR12485828585011019777",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-09-03T21:28:36.000Z",
+        "last_shown": "2026-10-21T12:57:23.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11276370039659295745",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR12485828585011019777"
+      },
+      {
+        "creative_id": "CR08736011248690266113",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-09-08T22:06:21.000Z",
+        "last_shown": "2026-10-21T12:56:24.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11315650778749632238",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08736011248690266113"
+      },
+      {
+        "creative_id": "CR06484025067784110081",
+        "advertiser_id": "AR03250851065486114817",
+        "advertiser_name": "Obra Studio",
+        "format": "image",
+        "first_shown": "2026-08-21T20:10:37.000Z",
+        "last_shown": "2026-10-21T12:56:19.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14379920337398267615",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR03250851065486114817/creative/CR06484025067784110081"
+      },
+      {
+        "creative_id": "CR15130083818507075585",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-14T22:38:10.000Z",
+        "last_shown": "2026-10-21T12:48:16.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16743792796594797859",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15130083818507075585"
+      },
+      {
+        "creative_id": "CR11044058916156604417",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-14T20:46:10.000Z",
+        "last_shown": "2026-10-21T12:47:36.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12831131927580429417",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11044058916156604417"
+      },
+      {
+        "creative_id": "CR10750021194464886785",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-06-25T05:07:12.000Z",
+        "last_shown": "2026-10-21T12:46:34.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=814038406977&uiFeatures=12,54&adGroupId=198716448958&sig=ACiVB_wpklAUiSgbsGqJHtDLCHGsAvEHpA&htmlParentId=fletch-render-4074265308075623451&responseCallback=fletchCallback4074265308075623451",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10750021194464886785"
+      },
+      {
+        "creative_id": "CR05592152336853106689",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-07-25T14:13:13.000Z",
+        "last_shown": "2026-10-21T12:45:06.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14598646987448216492",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR05592152336853106689"
+      },
+      {
+        "creative_id": "CR11796083474660589569",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-08-01T14:04:45.000Z",
+        "last_shown": "2026-10-21T12:40:28.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1943672345291085741",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11796083474660589569"
+      },
+      {
+        "creative_id": "CR01068083101508304897",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2025-08-12T17:16:33.000Z",
+        "last_shown": "2026-10-21T12:40:04.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16799926768234008065",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01068083101508304897"
+      },
+      {
+        "creative_id": "CR11020420927987908609",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-08-18T07:08:41.000Z",
+        "last_shown": "2026-10-21T12:29:41.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=792972990469&uiFeatures=12,54&adGroupId=203197671270&sig=ACiVB_wxGi2HbEgvbiqcxt4gDj60T95Tpw&htmlParentId=fletch-render-2849199327287839327&responseCallback=fletchCallback2849199327287839327",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11020420927987908609"
+      },
+      {
+        "creative_id": "CR01839773920123682817",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-03-17T21:13:22.000Z",
+        "last_shown": "2026-10-21T12:29:26.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8215284517442190800",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01839773920123682817"
+      },
+      {
+        "creative_id": "CR11343306536257585153",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:19:00.000Z",
+        "last_shown": "2026-10-21T12:24:49.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177591&uiFeatures=12,54&adGroupId=202388733310&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJmQjp3-ChABCgkIh5TzzP4KEAwKCQja7N_j5QoQCAoICMbirZYmECkaBwjKx4Px7wmRFkdEQQAAAA&sig=ACiVB_wyTNvR8KYULWBpp78X94wRuqpNMg&htmlParentId=fletch-render-10034255002416472165&responseCallback=fletchCallback10034255002416472165",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11343306536257585153"
+      },
+      {
+        "creative_id": "CR00208653436839788545",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:12:28.000Z",
+        "last_shown": "2026-10-21T12:23:57.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177291&uiFeatures=12,54&adGroupId=198746455179&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJmQjp3-ChABCggIxuKtliYQKQoJCNrs3-PlChAICgkIh5TzzP4KEAwaBwjKx4Px7wnFw2xRQQAAAA&sig=ACiVB_wMM_HiBnidqg7uhdG-scmcHWopJg&htmlParentId=fletch-render-4659640435433822700&responseCallback=fletchCallback4659640435433822700",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR00208653436839788545"
+      },
+      {
+        "creative_id": "CR17299234992399843329",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-27T22:31:37.000Z",
+        "last_shown": "2026-10-21T12:23:38.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16159015032207090943",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR17299234992399843329"
+      },
+      {
+        "creative_id": "CR15702439131831336961",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-16T19:02:04.000Z",
+        "last_shown": "2026-10-21T12:23:18.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074357779&uiFeatures=12,54&adGroupId=195606966662&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_x9t-eFob1aVVFGKHP9bovdXcTiRQ&htmlParentId=fletch-render-10923985483102843273&responseCallback=fletchCallback10923985483102843273",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15702439131831336961"
+      },
+      {
+        "creative_id": "CR10366191443373981697",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-16T18:57:33.000Z",
+        "last_shown": "2026-10-21T12:03:51.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074358049&uiFeatures=12,54&adGroupId=198851739256&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_yLyx9zbgQcNmni8mSCPmdFIXyxVw&htmlParentId=fletch-render-17021002962048131282&responseCallback=fletchCallback17021002962048131282",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10366191443373981697"
+      },
+      {
+        "creative_id": "CR07645507369924820993",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-08-18T07:14:07.000Z",
+        "last_shown": "2026-10-21T11:55:39.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7961085935331220374",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR07645507369924820993"
+      },
+      {
+        "creative_id": "CR08348282629367267329",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-15T04:56:43.000Z",
+        "last_shown": "2026-10-21T11:54:44.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=808819272179&uiFeatures=12,54&adGroupId=195189800303&sig=ACiVB_wKbn1mMh7_CBMLf-Y9-T_LB0lK6Q&htmlParentId=fletch-render-1298985676926756036&responseCallback=fletchCallback1298985676926756036",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08348282629367267329"
+      },
+      {
+        "creative_id": "CR18402748808141209601",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-03-13T14:50:40.000Z",
+        "last_shown": "2026-10-21T11:52:57.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15959692396535407623",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR18402748808141209601"
+      },
+      {
+        "creative_id": "CR13678916486331105281",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "text",
+        "first_shown": "2026-05-12T15:37:23.000Z",
+        "last_shown": "2026-10-21T11:52:50.000Z",
+        "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6792450704131057899",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13678916486331105281"
+      },
+      {
+        "creative_id": "CR13127791368149663745",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:12:47.000Z",
+        "last_shown": "2026-10-21T11:47:37.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177333&uiFeatures=12,54&adGroupId=198746455419&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiHlPPM_goQDAoJCJOQjp3-ChABCggIxuKtliYQKQoJCLaIyN-fChAGCgkI2uzf4-UKEAgaBwjKx4Px7wkL8L4-QQAAAA&sig=ACiVB_wFbYfBrjZeMGvFMNBeVYWLBPRUuw&htmlParentId=fletch-render-11203152283636900728&responseCallback=fletchCallback11203152283636900728",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13127791368149663745"
+      },
+      {
+        "creative_id": "CR11251611664547577857",
+        "advertiser_id": "AR15466204033491927041",
+        "advertiser_name": "Figma INC",
+        "format": "video",
+        "first_shown": "2026-07-21T22:12:28.000Z",
+        "last_shown": "2026-10-21T11:41:28.000Z",
+        "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177318&uiFeatures=12,54&adGroupId=198746455379&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJOQjp3-ChABCggIxuKtliYQKQoJCNuojp7-ChAMCgkI2uzf4-UKEAgaBwjKx4Px7wm-lRlAQQAAAA&sig=ACiVB_xDVKDY8_LpkSRM-wR2Jm9dMerufg&htmlParentId=fletch-render-10905752240063007501&responseCallback=fletchCallback10905752240063007501",
+        "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11251611664547577857"
+      }
+    ],
+    "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+  },
+  "note": "Charged only when at least two of the three sections have data. A section with a status other than ok has no data.",
+  "collection": {
+    "method": "Authenticated owner access to the independent Modal engine using the production TypeScript adapters; no public IP quota or Apify runs",
+    "source_gateway_version": "7f5ee941-05e6-48b7-aeca-a8fac2e15ba1",
+    "upstream_sections": {
+      "tech_stack": {
+        "domain": "figma.com",
+        "status": "ok",
+        "final_url": "https://www.figma.com/",
+        "title": "Figma: The collaborative canvas for design, code, and AI",
+        "has_meta_pixel": false,
+        "has_google_ads_tag": false,
+        "has_ga4": false,
+        "has_gtm": false,
+        "has_linkedin_insight": false,
+        "has_tiktok_pixel": false,
+        "ad_pixels": [],
+        "analytics": [],
+        "marketing_tools": [],
+        "hosting_cdn": [
+          "Netlify",
+          "Amazon CloudFront"
+        ],
+        "frameworks": [
+          "Next.js",
+          "React"
+        ],
+        "payments": [],
+        "cms": "Sanity",
+        "ecommerce": null,
+        "email_provider": "Google Workspace",
+        "spf_senders": [
+          "Google Workspace",
+          "Zendesk"
+        ],
+        "dmarc_policy": "quarantine",
+        "verified_services": [
+          "Google Search Console",
+          "Microsoft 365",
+          "Atlassian",
+          "Stripe",
+          "Apple",
+          "DocuSign",
+          "Adobe",
+          "OpenAI",
+          "Notion",
+          "Dropbox",
+          "Figma"
+        ],
+        "technology_count": 5,
+        "added": null,
+        "removed": null,
+        "is_first_run": null,
+        "note": null,
+        "checked_at": "2026-10-21T14:42:09+00:00"
+      },
+      "hiring_intent": {
+        "domain": "figma.com",
+        "status": "ok",
+        "ats_type": "greenhouse",
+        "confidence": "unverified",
+        "intent_score": 100,
+        "hiring_status": "hypergrowth",
+        "total_open_roles": 140,
+        "remote_roles": 0,
+        "roles_posted_last_30_days": 38,
+        "roles_with_known_post_date": 140,
+        "function_breakdown": {
+          "sales": 38,
+          "data_ai": 6,
+          "marketing": 11,
+          "people": 3,
+          "other": 33,
+          "engineering": 25,
+          "customer_success": 3,
+          "design": 10,
+          "finance_legal": 3,
+          "product": 6,
+          "operations": 2
+        },
+        "department_breakdown": {
+          "Sales": 45,
+          "Engineering": 26,
+          "Early Career": 11,
+          "Business Operations": 10,
+          "Design": 10,
+          "Marketing": 9,
+          "People": 7,
+          "Customer Operations and Support": 6,
+          "Product": 6,
+          "Business Development": 4
+        },
+        "top_locations": {
+          "San Francisco, CA • New York, NY • United States": 70,
+          "London, England": 19,
+          "San Francisco, CA • New York, NY": 13,
+          "Berlin, Germany": 7,
+          "São Paulo, Brazil": 5,
+          "Paris, France": 4,
+          "San Francisco, CA": 4,
+          "Bengaluru, India": 3,
+          "New York, NY • United States": 3,
+          "Singapore": 2
+        },
+        "top_demanded_technologies": {
+          "Figma": 140,
+          "Python": 23,
+          "LLMs": 14,
+          "TypeScript": 12,
+          "SQL": 10,
+          "C++": 9,
+          "Machine Learning": 9,
+          "Salesforce": 8,
+          "Ruby": 8,
+          "Go": 8,
+          "Generative AI": 7,
+          "Snowflake": 6,
+          "React": 6,
+          "AWS": 5,
+          "CI/CD": 5
+        },
+        "buying_signals": {
+          "cloud_infra": [
+            "AWS",
+            "CI/CD"
+          ],
+          "data_ai": [
+            "LLMs",
+            "Machine Learning",
+            "Generative AI",
+            "Snowflake"
+          ],
+          "databases": [],
+          "observability": [],
+          "sales_tools": [
+            "Salesforce"
+          ]
+        },
+        "notable_open_roles": [
+          {
+            "title": "Manager, Solutions Consulting",
+            "function": "other",
+            "department": "Sales",
+            "location": "New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-20T13:46:17-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6223693004?gh_jid=6223693004"
+          },
+          {
+            "title": "Manager, Recruiting (London, United Kingdom)",
+            "function": "other",
+            "department": "Talent",
+            "location": "London, England",
+            "is_remote": false,
+            "posted_date": "2026-10-20T09:57:48-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6226427004?gh_jid=6226427004"
+          },
+          {
+            "title": "Manager, Software Engineering - AI Infrastructure",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "San Francisco, CA • New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-19T19:44:50-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004"
+          },
+          {
+            "title": "Manager, Software Engineering - External Platform",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-19T17:44:06-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6224661004?gh_jid=6224661004"
+          },
+          {
+            "title": "Manager, Software Engineering - Production Engineering",
+            "function": "engineering",
+            "department": "Engineering",
+            "location": "San Francisco, CA • New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-19T13:49:15-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6223657004?gh_jid=6223657004"
+          },
+          {
+            "title": "Senior Solutions Consultant (Seoul, South Korea)",
+            "function": "other",
+            "department": "Sales",
+            "location": "Seoul, South Korea",
+            "is_remote": false,
+            "posted_date": "2026-10-19T04:13:42-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6225172004?gh_jid=6225172004"
+          },
+          {
+            "title": "Director, Governance Risk & Compliance",
+            "function": "finance_legal",
+            "department": "Business Operations",
+            "location": "San Francisco, CA • New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-14T12:51:31-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6211088004?gh_jid=6211088004"
+          },
+          {
+            "title": "Senior Order Management Analyst",
+            "function": "other",
+            "department": "Business Operations",
+            "location": "San Francisco, CA • New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-14T10:50:37-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6217137004?gh_jid=6217137004"
+          },
+          {
+            "title": "Director, Product Communications",
+            "function": "marketing",
+            "department": "Marketing",
+            "location": "San Francisco, CA • New York, NY • United States",
+            "is_remote": false,
+            "posted_date": "2026-10-13T22:53:22-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6221563004?gh_jid=6221563004"
+          },
+          {
+            "title": "Early Career, Inside Sales Representative (2027)",
+            "function": "sales",
+            "department": "Early Career",
+            "location": "San Francisco, CA • New York, NY",
+            "is_remote": false,
+            "posted_date": "2026-10-11T15:54:43-04:00",
+            "apply_url": "https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004"
+          }
+        ],
+        "jobs_truncated": false,
+        "checked_at": "2026-10-21T14:42:07Z",
+        "note": "intent_score = hiring size (max 50) + roles posted in the last 30 days (max 35) + sales/marketing/customer-success hiring (max 15). Computed only from the public job board."
+      },
+      "google_ads": {
+        "domain": "figma.com",
+        "region": "anywhere",
+        "checked_at": "2026-10-21T14:42:05.230Z",
+        "status": "ok",
+        "advertisers": [
+          {
+            "advertiser_id": "AR15466204033491927041",
+            "name": "Figma INC",
+            "ads_in_sample": 39
+          },
+          {
+            "advertiser_id": "AR03250851065486114817",
+            "name": "Obra Studio",
+            "ads_in_sample": 1
+          }
+        ],
+        "total_ads_estimate": {
+          "low": 1000,
+          "high": 2000
+        },
+        "ads_returned": 40,
+        "ads_shown_last_30_days_in_sample": 40,
+        "formats_in_sample": {
+          "text": 28,
+          "video": 11,
+          "image": 1
+        },
+        "earliest_first_shown_in_sample": "2025-05-19T18:01:45.000Z",
+        "latest_last_shown_in_sample": "2026-10-21T14:04:35.000Z",
+        "ads": [
+          {
+            "creative_id": "CR16703721421573980161",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-03-11T07:03:45.000Z",
+            "last_shown": "2026-10-21T14:04:35.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16620852390468283978",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16703721421573980161"
+          },
+          {
+            "creative_id": "CR16180216379079655425",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-14T21:57:36.000Z",
+            "last_shown": "2026-10-21T13:57:56.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/34733087185354165",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16180216379079655425"
+          },
+          {
+            "creative_id": "CR17892941309707026433",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-06-25T05:50:16.000Z",
+            "last_shown": "2026-10-21T13:51:18.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=813434129177&uiFeatures=12,54&adGroupId=188544503168&sig=ACiVB_wxC5kQFdCvMk0LZIGDPyrZO_dUzA&htmlParentId=fletch-render-2528523153229578128&responseCallback=fletchCallback2528523153229578128",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR17892941309707026433"
+          },
+          {
+            "creative_id": "CR13586487415731650561",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-06-10T12:00:18.000Z",
+            "last_shown": "2026-10-21T13:37:01.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=812229409662&uiFeatures=12,54&adGroupId=195661356845&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_yNPQ9umFVdtsKZ1jm-ISDG_bnkKA&htmlParentId=fletch-render-14957333207877605110&responseCallback=fletchCallback14957333207877605110",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13586487415731650561"
+          },
+          {
+            "creative_id": "CR06433109407311069185",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-08-12T16:54:29.000Z",
+            "last_shown": "2026-10-21T13:28:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16777182961980770593",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR06433109407311069185"
+          },
+          {
+            "creative_id": "CR00632820558702051329",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-09-03T21:51:14.000Z",
+            "last_shown": "2026-10-21T13:28:15.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/9147591850653366691",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR00632820558702051329"
+          },
+          {
+            "creative_id": "CR03222473331798179841",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-07-25T14:12:42.000Z",
+            "last_shown": "2026-10-21T13:27:38.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4981377901342375514",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR03222473331798179841"
+          },
+          {
+            "creative_id": "CR04552593461777268737",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-04-06T18:06:36.000Z",
+            "last_shown": "2026-10-21T13:27:32.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1644529730176317722",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR04552593461777268737"
+          },
+          {
+            "creative_id": "CR16224468561001709569",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-16T18:53:37.000Z",
+            "last_shown": "2026-10-21T13:24:47.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074357596&uiFeatures=12,54&adGroupId=197925063986&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_ysR9jh5-BEM7bC71jD28eaAE0SlA&htmlParentId=fletch-render-7208058362278798553&responseCallback=fletchCallback7208058362278798553",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR16224468561001709569"
+          },
+          {
+            "creative_id": "CR06365707858469715969",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-27T22:29:46.000Z",
+            "last_shown": "2026-10-21T13:23:52.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/4330210157442392824",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR06365707858469715969"
+          },
+          {
+            "creative_id": "CR12244804915964149761",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:19:00.000Z",
+            "last_shown": "2026-10-21T13:23:47.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177546&uiFeatures=12,54&adGroupId=202388733110&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiZkI6d_goQAQoJCNrs3-PlChAICgkI26iOnv4KEAwKCQi2iMjfnwoQBgoICMbirZYmECkaBwjKx4Px7wldigZWQQAAAA&sig=ACiVB_ygWY-549-nCkakOwe_NJ74LpSvOA&htmlParentId=fletch-render-5880991818498595887&responseCallback=fletchCallback5880991818498595887",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR12244804915964149761"
+          },
+          {
+            "creative_id": "CR08062697789861134337",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-08-05T15:25:02.000Z",
+            "last_shown": "2026-10-21T13:22:42.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/5487994473019780031",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08062697789861134337"
+          },
+          {
+            "creative_id": "CR18014892404951220225",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:12:30.000Z",
+            "last_shown": "2026-10-21T13:16:28.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177330&uiFeatures=12,54&adGroupId=198746455379&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCNrs3-PlChAICggIxuKtliYQKQoJCJaQjp3-ChABCgkI26iOnv4KEAwaBwjKx4Px7wmpZ09BQQAAAA&sig=ACiVB_xyau9yOB9hh2XY0CscGWXzXefC0A&htmlParentId=fletch-render-4215926275107793310&responseCallback=fletchCallback4215926275107793310",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR18014892404951220225"
+          },
+          {
+            "creative_id": "CR10443078367359008769",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-08-18T07:13:45.000Z",
+            "last_shown": "2026-10-21T13:08:32.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/3102536335603662007",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10443078367359008769"
+          },
+          {
+            "creative_id": "CR15628978560956366849",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:16:58.000Z",
+            "last_shown": "2026-10-21T13:08:25.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177504&uiFeatures=12,54&adGroupId=205308334944&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiZkI6d_goQAQoICMbirZYmECkKCQi2iMjfnwoQBgoJCNuojp7-ChAMCgkI2uzf4-UKEAgaBwjKx4Px7wlxntNGQQAAAA&sig=ACiVB_wk9sBWT4tCMDD035db4Rv9vQw7yQ&htmlParentId=fletch-render-14957390692772740971&responseCallback=fletchCallback14957390692772740971",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15628978560956366849"
+          },
+          {
+            "creative_id": "CR01623756375307845633",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-06-25T10:45:45.000Z",
+            "last_shown": "2026-10-21T13:06:14.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=814038406980&uiFeatures=12,54&adGroupId=198716449118&sig=ACiVB_xEfXtTRlENhDtnGTim_nLXHS09vQ&htmlParentId=fletch-render-10055251162752100117&responseCallback=fletchCallback10055251162752100117",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01623756375307845633"
+          },
+          {
+            "creative_id": "CR05273595918178844673",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-05-19T18:01:45.000Z",
+            "last_shown": "2026-10-21T13:05:02.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15574821322449109111",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR05273595918178844673"
+          },
+          {
+            "creative_id": "CR09395576250916929537",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-06-25T05:05:48.000Z",
+            "last_shown": "2026-10-21T12:59:04.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=813363276607&uiFeatures=12,54&adGroupId=188930568222&sig=ACiVB_yAjR0j5zUnSrksMWUgo142GVmTZQ&htmlParentId=fletch-render-3736570311679046063&responseCallback=fletchCallback3736570311679046063",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR09395576250916929537"
+          },
+          {
+            "creative_id": "CR12485828585011019777",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-09-03T21:28:36.000Z",
+            "last_shown": "2026-10-21T12:57:23.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11276370039659295745",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR12485828585011019777"
+          },
+          {
+            "creative_id": "CR08736011248690266113",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-09-08T22:06:21.000Z",
+            "last_shown": "2026-10-21T12:56:24.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/11315650778749632238",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08736011248690266113"
+          },
+          {
+            "creative_id": "CR06484025067784110081",
+            "advertiser_id": "AR03250851065486114817",
+            "advertiser_name": "Obra Studio",
+            "format": "image",
+            "first_shown": "2026-08-21T20:10:37.000Z",
+            "last_shown": "2026-10-21T12:56:19.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14379920337398267615",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR03250851065486114817/creative/CR06484025067784110081"
+          },
+          {
+            "creative_id": "CR15130083818507075585",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-14T22:38:10.000Z",
+            "last_shown": "2026-10-21T12:48:16.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16743792796594797859",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15130083818507075585"
+          },
+          {
+            "creative_id": "CR11044058916156604417",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-14T20:46:10.000Z",
+            "last_shown": "2026-10-21T12:47:36.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/12831131927580429417",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11044058916156604417"
+          },
+          {
+            "creative_id": "CR10750021194464886785",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-06-25T05:07:12.000Z",
+            "last_shown": "2026-10-21T12:46:34.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=814038406977&uiFeatures=12,54&adGroupId=198716448958&sig=ACiVB_wpklAUiSgbsGqJHtDLCHGsAvEHpA&htmlParentId=fletch-render-4074265308075623451&responseCallback=fletchCallback4074265308075623451",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10750021194464886785"
+          },
+          {
+            "creative_id": "CR05592152336853106689",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-07-25T14:13:13.000Z",
+            "last_shown": "2026-10-21T12:45:06.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/14598646987448216492",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR05592152336853106689"
+          },
+          {
+            "creative_id": "CR11796083474660589569",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-08-01T14:04:45.000Z",
+            "last_shown": "2026-10-21T12:40:28.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/1943672345291085741",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11796083474660589569"
+          },
+          {
+            "creative_id": "CR01068083101508304897",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2025-08-12T17:16:33.000Z",
+            "last_shown": "2026-10-21T12:40:04.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16799926768234008065",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01068083101508304897"
+          },
+          {
+            "creative_id": "CR11020420927987908609",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-08-18T07:08:41.000Z",
+            "last_shown": "2026-10-21T12:29:41.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=792972990469&uiFeatures=12,54&adGroupId=203197671270&sig=ACiVB_wxGi2HbEgvbiqcxt4gDj60T95Tpw&htmlParentId=fletch-render-2849199327287839327&responseCallback=fletchCallback2849199327287839327",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11020420927987908609"
+          },
+          {
+            "creative_id": "CR01839773920123682817",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-03-17T21:13:22.000Z",
+            "last_shown": "2026-10-21T12:29:26.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/8215284517442190800",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR01839773920123682817"
+          },
+          {
+            "creative_id": "CR11343306536257585153",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:19:00.000Z",
+            "last_shown": "2026-10-21T12:24:49.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177591&uiFeatures=12,54&adGroupId=202388733310&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJmQjp3-ChABCgkIh5TzzP4KEAwKCQja7N_j5QoQCAoICMbirZYmECkaBwjKx4Px7wmRFkdEQQAAAA&sig=ACiVB_wyTNvR8KYULWBpp78X94wRuqpNMg&htmlParentId=fletch-render-10034255002416472165&responseCallback=fletchCallback10034255002416472165",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11343306536257585153"
+          },
+          {
+            "creative_id": "CR00208653436839788545",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:12:28.000Z",
+            "last_shown": "2026-10-21T12:23:57.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177291&uiFeatures=12,54&adGroupId=198746455179&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJmQjp3-ChABCggIxuKtliYQKQoJCNrs3-PlChAICgkIh5TzzP4KEAwaBwjKx4Px7wnFw2xRQQAAAA&sig=ACiVB_wMM_HiBnidqg7uhdG-scmcHWopJg&htmlParentId=fletch-render-4659640435433822700&responseCallback=fletchCallback4659640435433822700",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR00208653436839788545"
+          },
+          {
+            "creative_id": "CR17299234992399843329",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-27T22:31:37.000Z",
+            "last_shown": "2026-10-21T12:23:38.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/16159015032207090943",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR17299234992399843329"
+          },
+          {
+            "creative_id": "CR15702439131831336961",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-16T19:02:04.000Z",
+            "last_shown": "2026-10-21T12:23:18.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074357779&uiFeatures=12,54&adGroupId=195606966662&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_x9t-eFob1aVVFGKHP9bovdXcTiRQ&htmlParentId=fletch-render-10923985483102843273&responseCallback=fletchCallback10923985483102843273",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR15702439131831336961"
+          },
+          {
+            "creative_id": "CR10366191443373981697",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-16T18:57:33.000Z",
+            "last_shown": "2026-10-21T12:03:51.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817074358049&uiFeatures=12,54&adGroupId=198851739256&assets=%3DH4sIAAAAAAAAAJNi5zh1vPnje04Ak8Vb5gkAAAA&sig=ACiVB_yLyx9zbgQcNmni8mSCPmdFIXyxVw&htmlParentId=fletch-render-17021002962048131282&responseCallback=fletchCallback17021002962048131282",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR10366191443373981697"
+          },
+          {
+            "creative_id": "CR07645507369924820993",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-08-18T07:14:07.000Z",
+            "last_shown": "2026-10-21T11:55:39.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/7961085935331220374",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR07645507369924820993"
+          },
+          {
+            "creative_id": "CR08348282629367267329",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-15T04:56:43.000Z",
+            "last_shown": "2026-10-21T11:54:44.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=808819272179&uiFeatures=12,54&adGroupId=195189800303&sig=ACiVB_wKbn1mMh7_CBMLf-Y9-T_LB0lK6Q&htmlParentId=fletch-render-1298985676926756036&responseCallback=fletchCallback1298985676926756036",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR08348282629367267329"
+          },
+          {
+            "creative_id": "CR18402748808141209601",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-03-13T14:50:40.000Z",
+            "last_shown": "2026-10-21T11:52:57.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/15959692396535407623",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR18402748808141209601"
+          },
+          {
+            "creative_id": "CR13678916486331105281",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "text",
+            "first_shown": "2026-05-12T15:37:23.000Z",
+            "last_shown": "2026-10-21T11:52:50.000Z",
+            "preview_url": "https://tpc.googlesyndication.com/archive/simgad/6792450704131057899",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13678916486331105281"
+          },
+          {
+            "creative_id": "CR13127791368149663745",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:12:47.000Z",
+            "last_shown": "2026-10-21T11:47:37.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177333&uiFeatures=12,54&adGroupId=198746455419&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQiHlPPM_goQDAoJCJOQjp3-ChABCggIxuKtliYQKQoJCLaIyN-fChAGCgkI2uzf4-UKEAgaBwjKx4Px7wkL8L4-QQAAAA&sig=ACiVB_wFbYfBrjZeMGvFMNBeVYWLBPRUuw&htmlParentId=fletch-render-11203152283636900728&responseCallback=fletchCallback11203152283636900728",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR13127791368149663745"
+          },
+          {
+            "creative_id": "CR11251611664547577857",
+            "advertiser_id": "AR15466204033491927041",
+            "advertiser_name": "Figma INC",
+            "format": "video",
+            "first_shown": "2026-07-21T22:12:28.000Z",
+            "last_shown": "2026-10-21T11:41:28.000Z",
+            "preview_url": "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency&obfuscatedCustomerId=9747956355&creativeId=817605177318&uiFeatures=12,54&adGroupId=198746455379&assets=%3DH4sIAAAAAAAAAAFBAL7_CjYKCQi2iMjfnwoQBgoJCJOQjp3-ChABCggIxuKtliYQKQoJCNuojp7-ChAMCgkI2uzf4-UKEAgaBwjKx4Px7wm-lRlAQQAAAA&sig=ACiVB_xDVKDY8_LpkSRM-wR2Jm9dMerufg&htmlParentId=fletch-render-10905752240063007501&responseCallback=fletchCallback10905752240063007501",
+            "transparency_url": "https://adstransparency.google.com/advertiser/AR15466204033491927041/creative/CR11251611664547577857"
+          }
+        ],
+        "note": "Up to 40 most relevant ads from the public Google Ads Transparency Center. total_ads_estimate is Google's own range for this advertiser and region."
+      }
+    }
+  }
+}
